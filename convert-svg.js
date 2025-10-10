@@ -2,11 +2,11 @@ import fs from 'fs/promises';
 import path from 'path';
 
 const config = {
-  iconSetName: 'Is',
-  iconStyle: 'outline',
-  sourceDir: 'src/assets/svg/iconsax/outline',
-  outputDirJsx: 'src/icons/iconsax/outline/jsx',
-  outputDirSvg: 'src/icons/iconsax/outline/svg'
+  iconSetName: 'Il',
+  iconStyle: 'cute',
+  sourceDir: 'src/assets/svg/iconly/cute',
+  outputDirJsx: 'src/icons/iconly/cute/jsx',
+  outputDirSvg: 'src/icons/iconly/cute/svg'
 };
 
 function toPascalCase(str) {
@@ -14,7 +14,8 @@ function toPascalCase(str) {
   const cleaned = String(str)
     .trim()
     .replace(/^[^a-zA-Z0-9]+|[^a-zA-Z0-9]+$/g, '')
-    .replace(/[^a-zA-Z0-9]+/g, ' ');
+    .replace(/[^a-zA-Z0-9]+/g, ' ')
+    .replace(/(^|-)(outline|fill|duotone|bulk|broken|linear| 192x192)(-|$)/g, '');
   const parts = cleaned.split(' ').filter(Boolean);
   return parts.map(p => p.charAt(0).toUpperCase() + p.slice(1)).join('');
 }

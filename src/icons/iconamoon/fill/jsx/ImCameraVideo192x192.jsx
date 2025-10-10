@@ -1,0 +1,13 @@
+export const ImCameraVideo192x192 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_26314)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2 5C2 4.44772 2.44772 4 3 4H17C17.5523 4 18 4.44772 18 5V7.71922L19.5149 7.34049C20.7772 7.02492 22 7.97963 22 9.28078V14.7192C22 16.0204 20.7772 16.9751 19.5149 16.6595L18 16.2808V17C18 18.6569 16.6569 20 15 20H5C3.34315 20 2 18.6569 2 17V5ZM18 14.2192L20 14.7192V9.28078L18 9.78078V14.2192Z" fill="#292929"/>
+</g>
+<defs>
+<clipPath id="clip0_1_26314">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

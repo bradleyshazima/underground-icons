@@ -1,0 +1,16 @@
+export const ImScreenNormal192x192 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_24261)">
+<path d="M9 4.00024V7.00024C9 8.10481 8.10457 9.00024 7 9.00024H4" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M15 20.0002L15 17.0002C15 15.8957 15.8954 15.0002 17 15.0002L20 15.0002" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M20 9.00024L17 9.00024C15.8954 9.00024 15 8.10481 15 7.00024L15 4.00024" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M4 15.0002L7 15.0002C8.10457 15.0002 9 15.8957 9 17.0002L9 20.0002" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_24261">
+<rect width="24" height="24" fill="white" transform="translate(0 0.000244141)"/>
+</clipPath>
+</defs>
+</svg>
+
+);

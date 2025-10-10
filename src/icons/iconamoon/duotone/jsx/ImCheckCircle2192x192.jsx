@@ -1,0 +1,14 @@
+export const ImCheckCircle2192x192 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_24282)">
+<path d="M15 7L16 8L19 5" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M21 11.9999C21 16.9704 16.9706 20.9999 12 20.9999C7.02944 20.9999 3 16.9704 3 11.9999C3 7.02931 7.02944 2.99988 12 2.99988" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_24282">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

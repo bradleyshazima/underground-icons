@@ -1,0 +1,14 @@
+export const ImBookmark192x192 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_24666)">
+<path opacity="0.16" d="M16 3H8C6.89543 3 6 3.89543 6 5V21L12 18L18 21V5C18 3.89543 17.1046 3 16 3Z" fill="#292929"/>
+<path d="M16 3H8C6.89543 3 6 3.89543 6 5V21L12 18L18 21V5C18 3.89543 17.1046 3 16 3Z" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_24666">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

@@ -1,0 +1,16 @@
+export const ImCuteFolderImage192x192 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_173_467)">
+<path d="M3 17V5H10L12 7H21V17C21 18.1046 20.1046 19 19 19H5C3.89543 19 3 18.1046 3 17Z" fill="#CD7900" stroke="#CD7900" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M3 17V7H21V17C21 18.1046 20.1046 19 19 19H5C3.89543 19 3 18.1046 3 17Z" fill="#FF9600" stroke="#FF9600" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M8 16L12 12L16 16" stroke="#FFF5D3" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<rect x="7.5" y="9.5" width="0.01" height="0.01" stroke="#FBE56D" strokeWidth="3" strokeLinejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_173_467">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

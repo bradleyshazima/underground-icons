@@ -1,0 +1,16 @@
+export const ImDisappointedFace192x192 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_20584)">
+<circle cx="12" cy="12" r="9" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M10 15.5352C10.5884 15.1948 11.2715 15 12.0001 15C12.7287 15 13.4118 15.1948 14.0001 15.5352" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M17 10.5L14 9.5" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M10 9.5L7 10.5" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_20584">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

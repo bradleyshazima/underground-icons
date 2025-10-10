@@ -1,0 +1,17 @@
+export const ImCuteDelivery192x192 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_419_3081)">
+<path d="M18 9H15V19H20C21.1046 19 22 18.1046 22 17V13C22 10.7909 20.2091 9 18 9Z" fill="#FFC800" stroke="#FFC800" strokeWidth="2"/>
+<path d="M13 3H2V17C2 18.1046 2.89543 19 4 19H13V3Z" fill="#FF9600"/>
+<path d="M2 3V2C1.44772 2 1 2.44772 1 3H2ZM13 3H14C14 2.44772 13.5523 2 13 2V3ZM13 19V20H14V19H13ZM2 4H13V2H2V4ZM12 3V19H14V3H12ZM3 17V3H1V17H3ZM13 18H4V20H13V18ZM1 17C1 18.6569 2.34315 20 4 20V18C3.44772 18 3 17.5523 3 17H1Z" fill="#FF9600"/>
+<circle cx="6" cy="19" r="2" fill="#CD7900" stroke="#CD7900" strokeWidth="2"/>
+<circle cx="18" cy="19" r="2" fill="#CD7900" stroke="#CD7900" strokeWidth="2"/>
+</g>
+<defs>
+<clipPath id="clip0_419_3081">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

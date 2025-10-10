@@ -1,0 +1,13 @@
+export const ImSignDivisionSlash192x192 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_28037)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.4472 3.10555C16.9412 3.35254 17.1414 3.95321 16.8944 4.44719L8.89443 20.4472C8.64744 20.9412 8.04676 21.1414 7.55278 20.8944C7.05881 20.6474 6.85858 20.0467 7.10557 19.5528L15.1056 3.55276C15.3526 3.05878 15.9532 2.85856 16.4472 3.10555Z" fill="#292929"/>
+</g>
+<defs>
+<clipPath id="clip0_1_28037">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

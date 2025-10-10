@@ -1,0 +1,15 @@
+export const ImCuteShare2192x192 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_173_423)">
+<path d="M6 8.99994H4V17.9999C4 19.1045 4.89543 19.9999 6 19.9999H18C19.1046 19.9999 20 19.1045 20 17.9999V8.99994H18" stroke="#1CB0F6" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M12 2.00001L12 14" stroke="#2B70C9" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M15 5.00002L12 2.00001L9 5.00001" stroke="#1CB0F6" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_173_423">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

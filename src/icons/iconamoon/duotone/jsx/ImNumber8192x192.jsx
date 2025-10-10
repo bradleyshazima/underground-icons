@@ -1,0 +1,16 @@
+export const ImNumber8192x192 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_25156)">
+<path opacity="0.16" d="M17 15C17 17.7614 14.7614 20 12 20C9.23858 20 7 17.7614 7 15C7 12.2386 9.23858 10 12 10C14.7614 10 17 12.2386 17 15Z" fill="#292929"/>
+<circle cx="12" cy="15" r="5" stroke="#292929" strokeWidth="2" strokeLinejoin="round"/>
+<circle opacity="0.16" cx="12" cy="7" r="3" fill="#292929"/>
+<circle cx="12" cy="7" r="3" stroke="#292929" strokeWidth="2" strokeLinejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_25156">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

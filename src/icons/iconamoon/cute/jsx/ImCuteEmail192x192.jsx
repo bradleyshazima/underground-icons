@@ -1,0 +1,14 @@
+export const ImCuteEmail192x192 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_173_436)">
+<path d="M3 5H21V17C21 18.1046 20.1046 19 19 19H5C3.89543 19 3 18.1046 3 17V5Z" fill="#1CB0F6" stroke="#1CB0F6" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M12 14L3 5H21L12 14Z" fill="#84D8FF" stroke="#84D8FF" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_173_436">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

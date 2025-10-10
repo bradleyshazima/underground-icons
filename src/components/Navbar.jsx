@@ -68,6 +68,18 @@ export const Navbar = ({ searchQuery, setSearchQuery, currentFilter, setCurrentF
             >
               Duotone
             </button>
+            <button
+              onClick={() => setCurrentFilter('broken')}
+              className={`${filterStyles} ${currentFilter === 'broken' ? activeFilterStyles : inactiveFilterStyles}`}
+            >
+              Broken
+            </button>
+            <button
+              onClick={() => setCurrentFilter('cute')}
+              className={`${filterStyles} ${currentFilter === 'cute' ? activeFilterStyles : inactiveFilterStyles}`}
+            >
+              Cute
+            </button>
           </div>
         </div>
       </div>

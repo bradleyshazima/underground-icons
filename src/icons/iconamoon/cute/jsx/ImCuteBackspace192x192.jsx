@@ -1,0 +1,15 @@
+export const ImCuteBackspace192x192 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_173_503)">
+<path d="M7.91993 4.99994C7.33608 4.99994 6.78138 5.25507 6.40142 5.69836L2.1157 10.6984C1.47372 11.4473 1.47372 12.5525 2.1157 13.3015L6.40142 18.3015C6.78138 18.7448 7.33608 18.9999 7.91993 18.9999L19.0001 18.9999C20.1046 18.9999 21.0001 18.1045 21.0001 16.9999L21.0001 6.99994C21.0001 5.89537 20.1046 4.99994 19.0001 4.99994L7.91993 4.99994Z" fill="#1CB0F6" stroke="#1CB0F6" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M15 10.0001L11 14.0001" stroke="#84D8FF" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M11 10.0001L15 14.0001" stroke="#DDF4FF" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_173_503">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

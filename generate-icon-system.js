@@ -13,10 +13,10 @@ const __dirname = path.dirname(__filename);
 // --- CONFIGURATION (no more terminal args) ---
 // ============================================================
 const config = {
-  setName: "Iconsax", // e.g. 'Iconsax'
-  prefix: "Is",       // e.g. 'Is'
-  style: "outline",      // e.g. 'fill', 'outline', 'duotone'
-  inputDir: "src/icons/iconsax/outline", // input directory
+  setName: "Iconly", // e.g. 'Iconsax'
+  prefix: "Il",       // e.g. 'Is'
+  style: "cute",      // e.g. 'fill', 'outline', 'duotone'
+  inputDir: "src/icons/iconly/cute", // input directory
 };
 // ============================================================
 
@@ -101,9 +101,10 @@ async function generateIconDataFile() {
   const imports = [];
   const iconSet = {
     name: setName,
-    creator: "Custom",
-    socialLink: "",
+    creator: "Iconly Pro",
+    socialLink: "https://www.figma.com/@iconlypro",
     prefix,
+    style,
     icons: [],
   };
   const jsxContentMap = new Map();

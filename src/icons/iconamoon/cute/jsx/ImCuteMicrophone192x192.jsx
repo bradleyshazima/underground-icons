@@ -1,0 +1,15 @@
+export const ImCuteMicrophone192x192 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_173_591)">
+<rect x="9" y="3" width="6" height="11" rx="3" fill="#1CB0F6" stroke="#1CB0F6" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M12 18V21" stroke="#2B70C9" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M19 11C19 14.866 15.866 18 12 18C8.13401 18 5 14.866 5 11" stroke="#1899D6" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_173_591">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

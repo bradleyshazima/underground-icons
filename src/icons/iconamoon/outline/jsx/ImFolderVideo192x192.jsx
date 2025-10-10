@@ -1,0 +1,14 @@
+export const ImFolderVideo192x192 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_19360)">
+<path d="M3.00012 17V5H10.0001L12.0001 7H21.0001V17C21.0001 18.1046 20.1047 19 19.0001 19H5.00012C3.89555 19 3.00012 18.1046 3.00012 17Z" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M14 13L11 14.7321L11 11.2679L14 13Z" stroke="#292929" strokeWidth="2" strokeLinejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_19360">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);
