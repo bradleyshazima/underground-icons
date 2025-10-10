@@ -20,7 +20,7 @@ export const Navbar = ({ searchQuery, setSearchQuery, currentFilter, setCurrentF
   const inactiveFilterStyles = "text-slate-600 hover:bg-slate-200";
 
   return (
-    <div ref={navRef} className={`bg-slate-50 py-4 ${isSticky ? 'sticky top-0 z-50 border-b border-slate-200' : ''}`}>
+    <div ref={navRef} className={`bg-slate-50 py-4 ${isSticky ? 'sticky top-0 z-50 border-b border-slate-200' : ''} shadow`}>
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex items-center justify-between gap-4">
           {/* Search Input */}
@@ -39,7 +39,7 @@ export const Navbar = ({ searchQuery, setSearchQuery, currentFilter, setCurrentF
               placeholder="Search all icons..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full pl-10 pr-4 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all"
+              className="w-full pl-10 pr-4 py-2 text-sm outline-0 transition-all"
             />
           </div>
           {/* Filters (only show when sticky) */}

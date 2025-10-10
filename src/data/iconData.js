@@ -2045,7122 +2045,7122 @@ export const iconSets = [
     "icons": [
       {
         "name": "outline-aave",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAave,
         "svgString": IsOutlineAaveSvg,
-        "jsxString": "`<IsOutlineAave />`"
+        "jsxString": "<IsOutlineAave />"
       },
       {
         "name": "outline-activity",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineActivity,
         "svgString": IsOutlineActivitySvg,
-        "jsxString": "`<IsOutlineActivity />`"
+        "jsxString": "<IsOutlineActivity />"
       },
       {
         "name": "outline-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAdd,
         "svgString": IsOutlineAddSvg,
-        "jsxString": "`<IsOutlineAdd />`"
+        "jsxString": "<IsOutlineAdd />"
       },
       {
         "name": "outline-add-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAddCircle,
         "svgString": IsOutlineAddCircleSvg,
-        "jsxString": "`<IsOutlineAddCircle />`"
+        "jsxString": "<IsOutlineAddCircle />"
       },
       {
         "name": "outline-add-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAddSquare,
         "svgString": IsOutlineAddSquareSvg,
-        "jsxString": "`<IsOutlineAddSquare />`"
+        "jsxString": "<IsOutlineAddSquare />"
       },
       {
         "name": "outline-additem",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAdditem,
         "svgString": IsOutlineAdditemSvg,
-        "jsxString": "`<IsOutlineAdditem />`"
+        "jsxString": "<IsOutlineAdditem />"
       },
       {
         "name": "outline-airdrop",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAirdrop,
         "svgString": IsOutlineAirdropSvg,
-        "jsxString": "`<IsOutlineAirdrop />`"
+        "jsxString": "<IsOutlineAirdrop />"
       },
       {
         "name": "outline-airplane",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAirplane,
         "svgString": IsOutlineAirplaneSvg,
-        "jsxString": "`<IsOutlineAirplane />`"
+        "jsxString": "<IsOutlineAirplane />"
       },
       {
         "name": "outline-airplane-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAirplaneSquare,
         "svgString": IsOutlineAirplaneSquareSvg,
-        "jsxString": "`<IsOutlineAirplaneSquare />`"
+        "jsxString": "<IsOutlineAirplaneSquare />"
       },
       {
         "name": "outline-airpod",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAirpod,
         "svgString": IsOutlineAirpodSvg,
-        "jsxString": "`<IsOutlineAirpod />`"
+        "jsxString": "<IsOutlineAirpod />"
       },
       {
         "name": "outline-airpods",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAirpods,
         "svgString": IsOutlineAirpodsSvg,
-        "jsxString": "`<IsOutlineAirpods />`"
+        "jsxString": "<IsOutlineAirpods />"
       },
       {
         "name": "outline-alarm",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAlarm,
         "svgString": IsOutlineAlarmSvg,
-        "jsxString": "`<IsOutlineAlarm />`"
+        "jsxString": "<IsOutlineAlarm />"
       },
       {
         "name": "outline-align-bottom",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAlignBottom,
         "svgString": IsOutlineAlignBottomSvg,
-        "jsxString": "`<IsOutlineAlignBottom />`"
+        "jsxString": "<IsOutlineAlignBottom />"
       },
       {
         "name": "outline-align-horizontally",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAlignHorizontally,
         "svgString": IsOutlineAlignHorizontallySvg,
-        "jsxString": "`<IsOutlineAlignHorizontally />`"
+        "jsxString": "<IsOutlineAlignHorizontally />"
       },
       {
         "name": "outline-align-left",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAlignLeft,
         "svgString": IsOutlineAlignLeftSvg,
-        "jsxString": "`<IsOutlineAlignLeft />`"
+        "jsxString": "<IsOutlineAlignLeft />"
       },
       {
         "name": "outline-align-right",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAlignRight,
         "svgString": IsOutlineAlignRightSvg,
-        "jsxString": "`<IsOutlineAlignRight />`"
+        "jsxString": "<IsOutlineAlignRight />"
       },
       {
         "name": "outline-align-vertically",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAlignVertically,
         "svgString": IsOutlineAlignVerticallySvg,
-        "jsxString": "`<IsOutlineAlignVertically />`"
+        "jsxString": "<IsOutlineAlignVertically />"
       },
       {
         "name": "outline-android",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAndroid,
         "svgString": IsOutlineAndroidSvg,
-        "jsxString": "`<IsOutlineAndroid />`"
+        "jsxString": "<IsOutlineAndroid />"
       },
       {
         "name": "outline-ankr",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAnkr,
         "svgString": IsOutlineAnkrSvg,
-        "jsxString": "`<IsOutlineAnkr />`"
+        "jsxString": "<IsOutlineAnkr />"
       },
       {
         "name": "outline-apple",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineApple,
         "svgString": IsOutlineAppleSvg,
-        "jsxString": "`<IsOutlineApple />`"
+        "jsxString": "<IsOutlineApple />"
       },
       {
         "name": "outline-aquarius",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAquarius,
         "svgString": IsOutlineAquariusSvg,
-        "jsxString": "`<IsOutlineAquarius />`"
+        "jsxString": "<IsOutlineAquarius />"
       },
       {
         "name": "outline-archive",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArchive,
         "svgString": IsOutlineArchiveSvg,
-        "jsxString": "`<IsOutlineArchive />`"
+        "jsxString": "<IsOutlineArchive />"
       },
       {
         "name": "outline-archive-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArchiveAdd,
         "svgString": IsOutlineArchiveAddSvg,
-        "jsxString": "`<IsOutlineArchiveAdd />`"
+        "jsxString": "<IsOutlineArchiveAdd />"
       },
       {
         "name": "outline-archive-book",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArchiveBook,
         "svgString": IsOutlineArchiveBookSvg,
-        "jsxString": "`<IsOutlineArchiveBook />`"
+        "jsxString": "<IsOutlineArchiveBook />"
       },
       {
         "name": "outline-archive-minus",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArchiveMinus,
         "svgString": IsOutlineArchiveMinusSvg,
-        "jsxString": "`<IsOutlineArchiveMinus />`"
+        "jsxString": "<IsOutlineArchiveMinus />"
       },
       {
         "name": "outline-archive-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArchiveSlash,
         "svgString": IsOutlineArchiveSlashSvg,
-        "jsxString": "`<IsOutlineArchiveSlash />`"
+        "jsxString": "<IsOutlineArchiveSlash />"
       },
       {
         "name": "outline-archive-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArchiveTick,
         "svgString": IsOutlineArchiveTickSvg,
-        "jsxString": "`<IsOutlineArchiveTick />`"
+        "jsxString": "<IsOutlineArchiveTick />"
       },
       {
         "name": "outline-archive1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArchive1,
         "svgString": IsOutlineArchive1Svg,
-        "jsxString": "`<IsOutlineArchive1 />`"
+        "jsxString": "<IsOutlineArchive1 />"
       },
       {
         "name": "outline-arrange-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrangeCircle,
         "svgString": IsOutlineArrangeCircleSvg,
-        "jsxString": "`<IsOutlineArrangeCircle />`"
+        "jsxString": "<IsOutlineArrangeCircle />"
       },
       {
         "name": "outline-arrange-circle2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrangeCircle2,
         "svgString": IsOutlineArrangeCircle2Svg,
-        "jsxString": "`<IsOutlineArrangeCircle2 />`"
+        "jsxString": "<IsOutlineArrangeCircle2 />"
       },
       {
         "name": "outline-arrange-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrangeSquare,
         "svgString": IsOutlineArrangeSquareSvg,
-        "jsxString": "`<IsOutlineArrangeSquare />`"
+        "jsxString": "<IsOutlineArrangeSquare />"
       },
       {
         "name": "outline-arrange-square2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrangeSquare2,
         "svgString": IsOutlineArrangeSquare2Svg,
-        "jsxString": "`<IsOutlineArrangeSquare2 />`"
+        "jsxString": "<IsOutlineArrangeSquare2 />"
       },
       {
         "name": "outline-arrow",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrow,
         "svgString": IsOutlineArrowSvg,
-        "jsxString": "`<IsOutlineArrow />`"
+        "jsxString": "<IsOutlineArrow />"
       },
       {
         "name": "outline-arrow-bottom",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowBottom,
         "svgString": IsOutlineArrowBottomSvg,
-        "jsxString": "`<IsOutlineArrowBottom />`"
+        "jsxString": "<IsOutlineArrowBottom />"
       },
       {
         "name": "outline-arrow-circle-down",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowCircleDown,
         "svgString": IsOutlineArrowCircleDownSvg,
-        "jsxString": "`<IsOutlineArrowCircleDown />`"
+        "jsxString": "<IsOutlineArrowCircleDown />"
       },
       {
         "name": "outline-arrow-circle-left",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowCircleLeft,
         "svgString": IsOutlineArrowCircleLeftSvg,
-        "jsxString": "`<IsOutlineArrowCircleLeft />`"
+        "jsxString": "<IsOutlineArrowCircleLeft />"
       },
       {
         "name": "outline-arrow-circle-right",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowCircleRight,
         "svgString": IsOutlineArrowCircleRightSvg,
-        "jsxString": "`<IsOutlineArrowCircleRight />`"
+        "jsxString": "<IsOutlineArrowCircleRight />"
       },
       {
         "name": "outline-arrow-down",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowDown,
         "svgString": IsOutlineArrowDownSvg,
-        "jsxString": "`<IsOutlineArrowDown />`"
+        "jsxString": "<IsOutlineArrowDown />"
       },
       {
         "name": "outline-arrow-down1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowDown1,
         "svgString": IsOutlineArrowDown1Svg,
-        "jsxString": "`<IsOutlineArrowDown1 />`"
+        "jsxString": "<IsOutlineArrowDown1 />"
       },
       {
         "name": "outline-arrow-down2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowDown2,
         "svgString": IsOutlineArrowDown2Svg,
-        "jsxString": "`<IsOutlineArrowDown2 />`"
+        "jsxString": "<IsOutlineArrowDown2 />"
       },
       {
         "name": "outline-arrow-left",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowLeft,
         "svgString": IsOutlineArrowLeftSvg,
-        "jsxString": "`<IsOutlineArrowLeft />`"
+        "jsxString": "<IsOutlineArrowLeft />"
       },
       {
         "name": "outline-arrow-left1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowLeft1,
         "svgString": IsOutlineArrowLeft1Svg,
-        "jsxString": "`<IsOutlineArrowLeft1 />`"
+        "jsxString": "<IsOutlineArrowLeft1 />"
       },
       {
         "name": "outline-arrow-left2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowLeft2,
         "svgString": IsOutlineArrowLeft2Svg,
-        "jsxString": "`<IsOutlineArrowLeft2 />`"
+        "jsxString": "<IsOutlineArrowLeft2 />"
       },
       {
         "name": "outline-arrow-left3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowLeft3,
         "svgString": IsOutlineArrowLeft3Svg,
-        "jsxString": "`<IsOutlineArrowLeft3 />`"
+        "jsxString": "<IsOutlineArrowLeft3 />"
       },
       {
         "name": "outline-arrow-right",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowRight,
         "svgString": IsOutlineArrowRightSvg,
-        "jsxString": "`<IsOutlineArrowRight />`"
+        "jsxString": "<IsOutlineArrowRight />"
       },
       {
         "name": "outline-arrow-right1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowRight1,
         "svgString": IsOutlineArrowRight1Svg,
-        "jsxString": "`<IsOutlineArrowRight1 />`"
+        "jsxString": "<IsOutlineArrowRight1 />"
       },
       {
         "name": "outline-arrow-right2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowRight2,
         "svgString": IsOutlineArrowRight2Svg,
-        "jsxString": "`<IsOutlineArrowRight2 />`"
+        "jsxString": "<IsOutlineArrowRight2 />"
       },
       {
         "name": "outline-arrow-right3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowRight3,
         "svgString": IsOutlineArrowRight3Svg,
-        "jsxString": "`<IsOutlineArrowRight3 />`"
+        "jsxString": "<IsOutlineArrowRight3 />"
       },
       {
         "name": "outline-arrow-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowSquare,
         "svgString": IsOutlineArrowSquareSvg,
-        "jsxString": "`<IsOutlineArrowSquare />`"
+        "jsxString": "<IsOutlineArrowSquare />"
       },
       {
         "name": "outline-arrow-square-down",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowSquareDown,
         "svgString": IsOutlineArrowSquareDownSvg,
-        "jsxString": "`<IsOutlineArrowSquareDown />`"
+        "jsxString": "<IsOutlineArrowSquareDown />"
       },
       {
         "name": "outline-arrow-square-left",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowSquareLeft,
         "svgString": IsOutlineArrowSquareLeftSvg,
-        "jsxString": "`<IsOutlineArrowSquareLeft />`"
+        "jsxString": "<IsOutlineArrowSquareLeft />"
       },
       {
         "name": "outline-arrow-square-right",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowSquareRight,
         "svgString": IsOutlineArrowSquareRightSvg,
-        "jsxString": "`<IsOutlineArrowSquareRight />`"
+        "jsxString": "<IsOutlineArrowSquareRight />"
       },
       {
         "name": "outline-arrow-square-up",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowSquareUp,
         "svgString": IsOutlineArrowSquareUpSvg,
-        "jsxString": "`<IsOutlineArrowSquareUp />`"
+        "jsxString": "<IsOutlineArrowSquareUp />"
       },
       {
         "name": "outline-arrow-swap-horizontal",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowSwapHorizontal,
         "svgString": IsOutlineArrowSwapHorizontalSvg,
-        "jsxString": "`<IsOutlineArrowSwapHorizontal />`"
+        "jsxString": "<IsOutlineArrowSwapHorizontal />"
       },
       {
         "name": "outline-arrow-up",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowUp,
         "svgString": IsOutlineArrowUpSvg,
-        "jsxString": "`<IsOutlineArrowUp />`"
+        "jsxString": "<IsOutlineArrowUp />"
       },
       {
         "name": "outline-arrow-up1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowUp1,
         "svgString": IsOutlineArrowUp1Svg,
-        "jsxString": "`<IsOutlineArrowUp1 />`"
+        "jsxString": "<IsOutlineArrowUp1 />"
       },
       {
         "name": "outline-arrow-up2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowUp2,
         "svgString": IsOutlineArrowUp2Svg,
-        "jsxString": "`<IsOutlineArrowUp2 />`"
+        "jsxString": "<IsOutlineArrowUp2 />"
       },
       {
         "name": "outline-arrow-up3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrowUp3,
         "svgString": IsOutlineArrowUp3Svg,
-        "jsxString": "`<IsOutlineArrowUp3 />`"
+        "jsxString": "<IsOutlineArrowUp3 />"
       },
       {
         "name": "outline-arrow2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrow2,
         "svgString": IsOutlineArrow2Svg,
-        "jsxString": "`<IsOutlineArrow2 />`"
+        "jsxString": "<IsOutlineArrow2 />"
       },
       {
         "name": "outline-arrow3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineArrow3,
         "svgString": IsOutlineArrow3Svg,
-        "jsxString": "`<IsOutlineArrow3 />`"
+        "jsxString": "<IsOutlineArrow3 />"
       },
       {
         "name": "outline-attach-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAttachCircle,
         "svgString": IsOutlineAttachCircleSvg,
-        "jsxString": "`<IsOutlineAttachCircle />`"
+        "jsxString": "<IsOutlineAttachCircle />"
       },
       {
         "name": "outline-attach-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAttachSquare,
         "svgString": IsOutlineAttachSquareSvg,
-        "jsxString": "`<IsOutlineAttachSquare />`"
+        "jsxString": "<IsOutlineAttachSquare />"
       },
       {
         "name": "outline-audio-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAudioSquare,
         "svgString": IsOutlineAudioSquareSvg,
-        "jsxString": "`<IsOutlineAudioSquare />`"
+        "jsxString": "<IsOutlineAudioSquare />"
       },
       {
         "name": "outline-augur",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAugur,
         "svgString": IsOutlineAugurSvg,
-        "jsxString": "`<IsOutlineAugur />`"
+        "jsxString": "<IsOutlineAugur />"
       },
       {
         "name": "outline-autobrightness",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAutobrightness,
         "svgString": IsOutlineAutobrightnessSvg,
-        "jsxString": "`<IsOutlineAutobrightness />`"
+        "jsxString": "<IsOutlineAutobrightness />"
       },
       {
         "name": "outline-autonio",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAutonio,
         "svgString": IsOutlineAutonioSvg,
-        "jsxString": "`<IsOutlineAutonio />`"
+        "jsxString": "<IsOutlineAutonio />"
       },
       {
         "name": "outline-avalanche",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAvalanche,
         "svgString": IsOutlineAvalancheSvg,
-        "jsxString": "`<IsOutlineAvalanche />`"
+        "jsxString": "<IsOutlineAvalanche />"
       },
       {
         "name": "outline-award",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineAward,
         "svgString": IsOutlineAwardSvg,
-        "jsxString": "`<IsOutlineAward />`"
+        "jsxString": "<IsOutlineAward />"
       },
       {
         "name": "outline-back-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBackSquare,
         "svgString": IsOutlineBackSquareSvg,
-        "jsxString": "`<IsOutlineBackSquare />`"
+        "jsxString": "<IsOutlineBackSquare />"
       },
       {
         "name": "outline-backward",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBackward,
         "svgString": IsOutlineBackwardSvg,
-        "jsxString": "`<IsOutlineBackward />`"
+        "jsxString": "<IsOutlineBackward />"
       },
       {
         "name": "outline-backward-item",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBackwardItem,
         "svgString": IsOutlineBackwardItemSvg,
-        "jsxString": "`<IsOutlineBackwardItem />`"
+        "jsxString": "<IsOutlineBackwardItem />"
       },
       {
         "name": "outline-backward-item1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBackwardItem1,
         "svgString": IsOutlineBackwardItem1Svg,
-        "jsxString": "`<IsOutlineBackwardItem1 />`"
+        "jsxString": "<IsOutlineBackwardItem1 />"
       },
       {
         "name": "outline-backward10-seconds",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBackward10Seconds,
         "svgString": IsOutlineBackward10SecondsSvg,
-        "jsxString": "`<IsOutlineBackward10Seconds />`"
+        "jsxString": "<IsOutlineBackward10Seconds />"
       },
       {
         "name": "outline-backward15-seconds",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBackward15Seconds,
         "svgString": IsOutlineBackward15SecondsSvg,
-        "jsxString": "`<IsOutlineBackward15Seconds />`"
+        "jsxString": "<IsOutlineBackward15Seconds />"
       },
       {
         "name": "outline-backward5-seconds",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBackward5Seconds,
         "svgString": IsOutlineBackward5SecondsSvg,
-        "jsxString": "`<IsOutlineBackward5Seconds />`"
+        "jsxString": "<IsOutlineBackward5Seconds />"
       },
       {
         "name": "outline-bag",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBag,
         "svgString": IsOutlineBagSvg,
-        "jsxString": "`<IsOutlineBag />`"
+        "jsxString": "<IsOutlineBag />"
       },
       {
         "name": "outline-bag-cross",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBagCross,
         "svgString": IsOutlineBagCrossSvg,
-        "jsxString": "`<IsOutlineBagCross />`"
+        "jsxString": "<IsOutlineBagCross />"
       },
       {
         "name": "outline-bag-cross1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBagCross1,
         "svgString": IsOutlineBagCross1Svg,
-        "jsxString": "`<IsOutlineBagCross1 />`"
+        "jsxString": "<IsOutlineBagCross1 />"
       },
       {
         "name": "outline-bag-happy",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBagHappy,
         "svgString": IsOutlineBagHappySvg,
-        "jsxString": "`<IsOutlineBagHappy />`"
+        "jsxString": "<IsOutlineBagHappy />"
       },
       {
         "name": "outline-bag-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBagTick,
         "svgString": IsOutlineBagTickSvg,
-        "jsxString": "`<IsOutlineBagTick />`"
+        "jsxString": "<IsOutlineBagTick />"
       },
       {
         "name": "outline-bag-tick2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBagTick2,
         "svgString": IsOutlineBagTick2Svg,
-        "jsxString": "`<IsOutlineBagTick2 />`"
+        "jsxString": "<IsOutlineBagTick2 />"
       },
       {
         "name": "outline-bag-timer",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBagTimer,
         "svgString": IsOutlineBagTimerSvg,
-        "jsxString": "`<IsOutlineBagTimer />`"
+        "jsxString": "<IsOutlineBagTimer />"
       },
       {
         "name": "outline-bag2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBag2,
         "svgString": IsOutlineBag2Svg,
-        "jsxString": "`<IsOutlineBag2 />`"
+        "jsxString": "<IsOutlineBag2 />"
       },
       {
         "name": "outline-bank",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBank,
         "svgString": IsOutlineBankSvg,
-        "jsxString": "`<IsOutlineBank />`"
+        "jsxString": "<IsOutlineBank />"
       },
       {
         "name": "outline-barcode",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBarcode,
         "svgString": IsOutlineBarcodeSvg,
-        "jsxString": "`<IsOutlineBarcode />`"
+        "jsxString": "<IsOutlineBarcode />"
       },
       {
         "name": "outline-battery-charging",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBatteryCharging,
         "svgString": IsOutlineBatteryChargingSvg,
-        "jsxString": "`<IsOutlineBatteryCharging />`"
+        "jsxString": "<IsOutlineBatteryCharging />"
       },
       {
         "name": "outline-battery-disable",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBatteryDisable,
         "svgString": IsOutlineBatteryDisableSvg,
-        "jsxString": "`<IsOutlineBatteryDisable />`"
+        "jsxString": "<IsOutlineBatteryDisable />"
       },
       {
         "name": "outline-battery-empty",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBatteryEmpty,
         "svgString": IsOutlineBatteryEmptySvg,
-        "jsxString": "`<IsOutlineBatteryEmpty />`"
+        "jsxString": "<IsOutlineBatteryEmpty />"
       },
       {
         "name": "outline-battery-empty1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBatteryEmpty1,
         "svgString": IsOutlineBatteryEmpty1Svg,
-        "jsxString": "`<IsOutlineBatteryEmpty1 />`"
+        "jsxString": "<IsOutlineBatteryEmpty1 />"
       },
       {
         "name": "outline-battery-full",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBatteryFull,
         "svgString": IsOutlineBatteryFullSvg,
-        "jsxString": "`<IsOutlineBatteryFull />`"
+        "jsxString": "<IsOutlineBatteryFull />"
       },
       {
         "name": "outline-be",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBe,
         "svgString": IsOutlineBeSvg,
-        "jsxString": "`<IsOutlineBe />`"
+        "jsxString": "<IsOutlineBe />"
       },
       {
         "name": "outline-bezier",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBezier,
         "svgString": IsOutlineBezierSvg,
-        "jsxString": "`<IsOutlineBezier />`"
+        "jsxString": "<IsOutlineBezier />"
       },
       {
         "name": "outline-bezier1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBezier1,
         "svgString": IsOutlineBezier1Svg,
-        "jsxString": "`<IsOutlineBezier1 />`"
+        "jsxString": "<IsOutlineBezier1 />"
       },
       {
         "name": "outline-bill",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBill,
         "svgString": IsOutlineBillSvg,
-        "jsxString": "`<IsOutlineBill />`"
+        "jsxString": "<IsOutlineBill />"
       },
       {
         "name": "outline-binance-coin",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBinanceCoin,
         "svgString": IsOutlineBinanceCoinSvg,
-        "jsxString": "`<IsOutlineBinanceCoin />`"
+        "jsxString": "<IsOutlineBinanceCoin />"
       },
       {
         "name": "outline-binance-usd",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBinanceUsd,
         "svgString": IsOutlineBinanceUsdSvg,
-        "jsxString": "`<IsOutlineBinanceUsd />`"
+        "jsxString": "<IsOutlineBinanceUsd />"
       },
       {
         "name": "outline-bitcoin",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBitcoin,
         "svgString": IsOutlineBitcoinSvg,
-        "jsxString": "`<IsOutlineBitcoin />`"
+        "jsxString": "<IsOutlineBitcoin />"
       },
       {
         "name": "outline-bitcoin-card",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBitcoinCard,
         "svgString": IsOutlineBitcoinCardSvg,
-        "jsxString": "`<IsOutlineBitcoinCard />`"
+        "jsxString": "<IsOutlineBitcoinCard />"
       },
       {
         "name": "outline-bitcoin-convert",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBitcoinConvert,
         "svgString": IsOutlineBitcoinConvertSvg,
-        "jsxString": "`<IsOutlineBitcoinConvert />`"
+        "jsxString": "<IsOutlineBitcoinConvert />"
       },
       {
         "name": "outline-bitcoin-refresh",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBitcoinRefresh,
         "svgString": IsOutlineBitcoinRefreshSvg,
-        "jsxString": "`<IsOutlineBitcoinRefresh />`"
+        "jsxString": "<IsOutlineBitcoinRefresh />"
       },
       {
         "name": "outline-blend",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBlend,
         "svgString": IsOutlineBlendSvg,
-        "jsxString": "`<IsOutlineBlend />`"
+        "jsxString": "<IsOutlineBlend />"
       },
       {
         "name": "outline-blend2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBlend2,
         "svgString": IsOutlineBlend2Svg,
-        "jsxString": "`<IsOutlineBlend2 />`"
+        "jsxString": "<IsOutlineBlend2 />"
       },
       {
         "name": "outline-blogger",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBlogger,
         "svgString": IsOutlineBloggerSvg,
-        "jsxString": "`<IsOutlineBlogger />`"
+        "jsxString": "<IsOutlineBlogger />"
       },
       {
         "name": "outline-bluetooth",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBluetooth,
         "svgString": IsOutlineBluetoothSvg,
-        "jsxString": "`<IsOutlineBluetooth />`"
+        "jsxString": "<IsOutlineBluetooth />"
       },
       {
         "name": "outline-bluetooth-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBluetoothCircle,
         "svgString": IsOutlineBluetoothCircleSvg,
-        "jsxString": "`<IsOutlineBluetoothCircle />`"
+        "jsxString": "<IsOutlineBluetoothCircle />"
       },
       {
         "name": "outline-bluetooth-rectangle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBluetoothRectangle,
         "svgString": IsOutlineBluetoothRectangleSvg,
-        "jsxString": "`<IsOutlineBluetoothRectangle />`"
+        "jsxString": "<IsOutlineBluetoothRectangle />"
       },
       {
         "name": "outline-bluetooth2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBluetooth2,
         "svgString": IsOutlineBluetooth2Svg,
-        "jsxString": "`<IsOutlineBluetooth2 />`"
+        "jsxString": "<IsOutlineBluetooth2 />"
       },
       {
         "name": "outline-blur",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBlur,
         "svgString": IsOutlineBlurSvg,
-        "jsxString": "`<IsOutlineBlur />`"
+        "jsxString": "<IsOutlineBlur />"
       },
       {
         "name": "outline-blur1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBlur1,
         "svgString": IsOutlineBlur1Svg,
-        "jsxString": "`<IsOutlineBlur1 />`"
+        "jsxString": "<IsOutlineBlur1 />"
       },
       {
         "name": "outline-book",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBook,
         "svgString": IsOutlineBookSvg,
-        "jsxString": "`<IsOutlineBook />`"
+        "jsxString": "<IsOutlineBook />"
       },
       {
         "name": "outline-book-saved",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBookSaved,
         "svgString": IsOutlineBookSavedSvg,
-        "jsxString": "`<IsOutlineBookSaved />`"
+        "jsxString": "<IsOutlineBookSaved />"
       },
       {
         "name": "outline-book-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBookSquare,
         "svgString": IsOutlineBookSquareSvg,
-        "jsxString": "`<IsOutlineBookSquare />`"
+        "jsxString": "<IsOutlineBookSquare />"
       },
       {
         "name": "outline-book1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBook1,
         "svgString": IsOutlineBook1Svg,
-        "jsxString": "`<IsOutlineBook1 />`"
+        "jsxString": "<IsOutlineBook1 />"
       },
       {
         "name": "outline-bookmark",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBookmark,
         "svgString": IsOutlineBookmarkSvg,
-        "jsxString": "`<IsOutlineBookmark />`"
+        "jsxString": "<IsOutlineBookmark />"
       },
       {
         "name": "outline-bookmark2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBookmark2,
         "svgString": IsOutlineBookmark2Svg,
-        "jsxString": "`<IsOutlineBookmark2 />`"
+        "jsxString": "<IsOutlineBookmark2 />"
       },
       {
         "name": "outline-bootsrap",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBootsrap,
         "svgString": IsOutlineBootsrapSvg,
-        "jsxString": "`<IsOutlineBootsrap />`"
+        "jsxString": "<IsOutlineBootsrap />"
       },
       {
         "name": "outline-box",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBox,
         "svgString": IsOutlineBoxSvg,
-        "jsxString": "`<IsOutlineBox />`"
+        "jsxString": "<IsOutlineBox />"
       },
       {
         "name": "outline-box-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBoxAdd,
         "svgString": IsOutlineBoxAddSvg,
-        "jsxString": "`<IsOutlineBoxAdd />`"
+        "jsxString": "<IsOutlineBoxAdd />"
       },
       {
         "name": "outline-box-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBoxRemove,
         "svgString": IsOutlineBoxRemoveSvg,
-        "jsxString": "`<IsOutlineBoxRemove />`"
+        "jsxString": "<IsOutlineBoxRemove />"
       },
       {
         "name": "outline-box-search",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBoxSearch,
         "svgString": IsOutlineBoxSearchSvg,
-        "jsxString": "`<IsOutlineBoxSearch />`"
+        "jsxString": "<IsOutlineBoxSearch />"
       },
       {
         "name": "outline-box-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBoxTick,
         "svgString": IsOutlineBoxTickSvg,
-        "jsxString": "`<IsOutlineBoxTick />`"
+        "jsxString": "<IsOutlineBoxTick />"
       },
       {
         "name": "outline-box-time",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBoxTime,
         "svgString": IsOutlineBoxTimeSvg,
-        "jsxString": "`<IsOutlineBoxTime />`"
+        "jsxString": "<IsOutlineBoxTime />"
       },
       {
         "name": "outline-box1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBox1,
         "svgString": IsOutlineBox1Svg,
-        "jsxString": "`<IsOutlineBox1 />`"
+        "jsxString": "<IsOutlineBox1 />"
       },
       {
         "name": "outline-box2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBox2,
         "svgString": IsOutlineBox2Svg,
-        "jsxString": "`<IsOutlineBox2 />`"
+        "jsxString": "<IsOutlineBox2 />"
       },
       {
         "name": "outline-briefcase",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBriefcase,
         "svgString": IsOutlineBriefcaseSvg,
-        "jsxString": "`<IsOutlineBriefcase />`"
+        "jsxString": "<IsOutlineBriefcase />"
       },
       {
         "name": "outline-brifecase-cross",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBrifecaseCross,
         "svgString": IsOutlineBrifecaseCrossSvg,
-        "jsxString": "`<IsOutlineBrifecaseCross />`"
+        "jsxString": "<IsOutlineBrifecaseCross />"
       },
       {
         "name": "outline-brifecase-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBrifecaseTick,
         "svgString": IsOutlineBrifecaseTickSvg,
-        "jsxString": "`<IsOutlineBrifecaseTick />`"
+        "jsxString": "<IsOutlineBrifecaseTick />"
       },
       {
         "name": "outline-brifecase-timer",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBrifecaseTimer,
         "svgString": IsOutlineBrifecaseTimerSvg,
-        "jsxString": "`<IsOutlineBrifecaseTimer />`"
+        "jsxString": "<IsOutlineBrifecaseTimer />"
       },
       {
         "name": "outline-broom",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBroom,
         "svgString": IsOutlineBroomSvg,
-        "jsxString": "`<IsOutlineBroom />`"
+        "jsxString": "<IsOutlineBroom />"
       },
       {
         "name": "outline-brush",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBrush,
         "svgString": IsOutlineBrushSvg,
-        "jsxString": "`<IsOutlineBrush />`"
+        "jsxString": "<IsOutlineBrush />"
       },
       {
         "name": "outline-brush1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBrush1,
         "svgString": IsOutlineBrush1Svg,
-        "jsxString": "`<IsOutlineBrush1 />`"
+        "jsxString": "<IsOutlineBrush1 />"
       },
       {
         "name": "outline-brush2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBrush2,
         "svgString": IsOutlineBrush2Svg,
-        "jsxString": "`<IsOutlineBrush2 />`"
+        "jsxString": "<IsOutlineBrush2 />"
       },
       {
         "name": "outline-brush3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBrush3,
         "svgString": IsOutlineBrush3Svg,
-        "jsxString": "`<IsOutlineBrush3 />`"
+        "jsxString": "<IsOutlineBrush3 />"
       },
       {
         "name": "outline-bubble",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBubble,
         "svgString": IsOutlineBubbleSvg,
-        "jsxString": "`<IsOutlineBubble />`"
+        "jsxString": "<IsOutlineBubble />"
       },
       {
         "name": "outline-bucket-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBucketCircle,
         "svgString": IsOutlineBucketCircleSvg,
-        "jsxString": "`<IsOutlineBucketCircle />`"
+        "jsxString": "<IsOutlineBucketCircle />"
       },
       {
         "name": "outline-bucket-circle1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBucketCircle1,
         "svgString": IsOutlineBucketCircle1Svg,
-        "jsxString": "`<IsOutlineBucketCircle1 />`"
+        "jsxString": "<IsOutlineBucketCircle1 />"
       },
       {
         "name": "outline-bucket-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBucketSquare,
         "svgString": IsOutlineBucketSquareSvg,
-        "jsxString": "`<IsOutlineBucketSquare />`"
+        "jsxString": "<IsOutlineBucketSquare />"
       },
       {
         "name": "outline-bucket-square1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBucketSquare1,
         "svgString": IsOutlineBucketSquare1Svg,
-        "jsxString": "`<IsOutlineBucketSquare1 />`"
+        "jsxString": "<IsOutlineBucketSquare1 />"
       },
       {
         "name": "outline-building",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBuilding,
         "svgString": IsOutlineBuildingSvg,
-        "jsxString": "`<IsOutlineBuilding />`"
+        "jsxString": "<IsOutlineBuilding />"
       },
       {
         "name": "outline-building3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBuilding3,
         "svgString": IsOutlineBuilding3Svg,
-        "jsxString": "`<IsOutlineBuilding3 />`"
+        "jsxString": "<IsOutlineBuilding3 />"
       },
       {
         "name": "outline-building4",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBuilding4,
         "svgString": IsOutlineBuilding4Svg,
-        "jsxString": "`<IsOutlineBuilding4 />`"
+        "jsxString": "<IsOutlineBuilding4 />"
       },
       {
         "name": "outline-buildings",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBuildings,
         "svgString": IsOutlineBuildingsSvg,
-        "jsxString": "`<IsOutlineBuildings />`"
+        "jsxString": "<IsOutlineBuildings />"
       },
       {
         "name": "outline-buildings2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBuildings2,
         "svgString": IsOutlineBuildings2Svg,
-        "jsxString": "`<IsOutlineBuildings2 />`"
+        "jsxString": "<IsOutlineBuildings2 />"
       },
       {
         "name": "outline-buliding",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBuliding,
         "svgString": IsOutlineBulidingSvg,
-        "jsxString": "`<IsOutlineBuliding />`"
+        "jsxString": "<IsOutlineBuliding />"
       },
       {
         "name": "outline-bus",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBus,
         "svgString": IsOutlineBusSvg,
-        "jsxString": "`<IsOutlineBus />`"
+        "jsxString": "<IsOutlineBus />"
       },
       {
         "name": "outline-buy-crypto",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineBuyCrypto,
         "svgString": IsOutlineBuyCryptoSvg,
-        "jsxString": "`<IsOutlineBuyCrypto />`"
+        "jsxString": "<IsOutlineBuyCrypto />"
       },
       {
         "name": "outline-cake",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCake,
         "svgString": IsOutlineCakeSvg,
-        "jsxString": "`<IsOutlineCake />`"
+        "jsxString": "<IsOutlineCake />"
       },
       {
         "name": "outline-calculator",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCalculator,
         "svgString": IsOutlineCalculatorSvg,
-        "jsxString": "`<IsOutlineCalculator />`"
+        "jsxString": "<IsOutlineCalculator />"
       },
       {
         "name": "outline-calendar",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCalendar,
         "svgString": IsOutlineCalendarSvg,
-        "jsxString": "`<IsOutlineCalendar />`"
+        "jsxString": "<IsOutlineCalendar />"
       },
       {
         "name": "outline-calendar-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCalendarAdd,
         "svgString": IsOutlineCalendarAddSvg,
-        "jsxString": "`<IsOutlineCalendarAdd />`"
+        "jsxString": "<IsOutlineCalendarAdd />"
       },
       {
         "name": "outline-calendar-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCalendarCircle,
         "svgString": IsOutlineCalendarCircleSvg,
-        "jsxString": "`<IsOutlineCalendarCircle />`"
+        "jsxString": "<IsOutlineCalendarCircle />"
       },
       {
         "name": "outline-calendar-edit",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCalendarEdit,
         "svgString": IsOutlineCalendarEditSvg,
-        "jsxString": "`<IsOutlineCalendarEdit />`"
+        "jsxString": "<IsOutlineCalendarEdit />"
       },
       {
         "name": "outline-calendar-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCalendarRemove,
         "svgString": IsOutlineCalendarRemoveSvg,
-        "jsxString": "`<IsOutlineCalendarRemove />`"
+        "jsxString": "<IsOutlineCalendarRemove />"
       },
       {
         "name": "outline-calendar-search",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCalendarSearch,
         "svgString": IsOutlineCalendarSearchSvg,
-        "jsxString": "`<IsOutlineCalendarSearch />`"
+        "jsxString": "<IsOutlineCalendarSearch />"
       },
       {
         "name": "outline-calendar-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCalendarTick,
         "svgString": IsOutlineCalendarTickSvg,
-        "jsxString": "`<IsOutlineCalendarTick />`"
+        "jsxString": "<IsOutlineCalendarTick />"
       },
       {
         "name": "outline-calendar1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCalendar1,
         "svgString": IsOutlineCalendar1Svg,
-        "jsxString": "`<IsOutlineCalendar1 />`"
+        "jsxString": "<IsOutlineCalendar1 />"
       },
       {
         "name": "outline-calendar2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCalendar2,
         "svgString": IsOutlineCalendar2Svg,
-        "jsxString": "`<IsOutlineCalendar2 />`"
+        "jsxString": "<IsOutlineCalendar2 />"
       },
       {
         "name": "outline-call",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCall,
         "svgString": IsOutlineCallSvg,
-        "jsxString": "`<IsOutlineCall />`"
+        "jsxString": "<IsOutlineCall />"
       },
       {
         "name": "outline-call-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCallAdd,
         "svgString": IsOutlineCallAddSvg,
-        "jsxString": "`<IsOutlineCallAdd />`"
+        "jsxString": "<IsOutlineCallAdd />"
       },
       {
         "name": "outline-call-calling",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCallCalling,
         "svgString": IsOutlineCallCallingSvg,
-        "jsxString": "`<IsOutlineCallCalling />`"
+        "jsxString": "<IsOutlineCallCalling />"
       },
       {
         "name": "outline-call-incoming",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCallIncoming,
         "svgString": IsOutlineCallIncomingSvg,
-        "jsxString": "`<IsOutlineCallIncoming />`"
+        "jsxString": "<IsOutlineCallIncoming />"
       },
       {
         "name": "outline-call-minus",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCallMinus,
         "svgString": IsOutlineCallMinusSvg,
-        "jsxString": "`<IsOutlineCallMinus />`"
+        "jsxString": "<IsOutlineCallMinus />"
       },
       {
         "name": "outline-call-outgoing",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCallOutgoing,
         "svgString": IsOutlineCallOutgoingSvg,
-        "jsxString": "`<IsOutlineCallOutgoing />`"
+        "jsxString": "<IsOutlineCallOutgoing />"
       },
       {
         "name": "outline-call-received",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCallReceived,
         "svgString": IsOutlineCallReceivedSvg,
-        "jsxString": "`<IsOutlineCallReceived />`"
+        "jsxString": "<IsOutlineCallReceived />"
       },
       {
         "name": "outline-call-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCallRemove,
         "svgString": IsOutlineCallRemoveSvg,
-        "jsxString": "`<IsOutlineCallRemove />`"
+        "jsxString": "<IsOutlineCallRemove />"
       },
       {
         "name": "outline-call-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCallSlash,
         "svgString": IsOutlineCallSlashSvg,
-        "jsxString": "`<IsOutlineCallSlash />`"
+        "jsxString": "<IsOutlineCallSlash />"
       },
       {
         "name": "outline-camera",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCamera,
         "svgString": IsOutlineCameraSvg,
-        "jsxString": "`<IsOutlineCamera />`"
+        "jsxString": "<IsOutlineCamera />"
       },
       {
         "name": "outline-camera-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCameraSlash,
         "svgString": IsOutlineCameraSlashSvg,
-        "jsxString": "`<IsOutlineCameraSlash />`"
+        "jsxString": "<IsOutlineCameraSlash />"
       },
       {
         "name": "outline-candle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCandle,
         "svgString": IsOutlineCandleSvg,
-        "jsxString": "`<IsOutlineCandle />`"
+        "jsxString": "<IsOutlineCandle />"
       },
       {
         "name": "outline-candle2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCandle2,
         "svgString": IsOutlineCandle2Svg,
-        "jsxString": "`<IsOutlineCandle2 />`"
+        "jsxString": "<IsOutlineCandle2 />"
       },
       {
         "name": "outline-car",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCar,
         "svgString": IsOutlineCarSvg,
-        "jsxString": "`<IsOutlineCar />`"
+        "jsxString": "<IsOutlineCar />"
       },
       {
         "name": "outline-card",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCard,
         "svgString": IsOutlineCardSvg,
-        "jsxString": "`<IsOutlineCard />`"
+        "jsxString": "<IsOutlineCard />"
       },
       {
         "name": "outline-card-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCardAdd,
         "svgString": IsOutlineCardAddSvg,
-        "jsxString": "`<IsOutlineCardAdd />`"
+        "jsxString": "<IsOutlineCardAdd />"
       },
       {
         "name": "outline-card-coin",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCardCoin,
         "svgString": IsOutlineCardCoinSvg,
-        "jsxString": "`<IsOutlineCardCoin />`"
+        "jsxString": "<IsOutlineCardCoin />"
       },
       {
         "name": "outline-card-edit",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCardEdit,
         "svgString": IsOutlineCardEditSvg,
-        "jsxString": "`<IsOutlineCardEdit />`"
+        "jsxString": "<IsOutlineCardEdit />"
       },
       {
         "name": "outline-card-pos",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCardPos,
         "svgString": IsOutlineCardPosSvg,
-        "jsxString": "`<IsOutlineCardPos />`"
+        "jsxString": "<IsOutlineCardPos />"
       },
       {
         "name": "outline-card-receive",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCardReceive,
         "svgString": IsOutlineCardReceiveSvg,
-        "jsxString": "`<IsOutlineCardReceive />`"
+        "jsxString": "<IsOutlineCardReceive />"
       },
       {
         "name": "outline-card-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCardRemove,
         "svgString": IsOutlineCardRemoveSvg,
-        "jsxString": "`<IsOutlineCardRemove />`"
+        "jsxString": "<IsOutlineCardRemove />"
       },
       {
         "name": "outline-card-remove1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCardRemove1,
         "svgString": IsOutlineCardRemove1Svg,
-        "jsxString": "`<IsOutlineCardRemove1 />`"
+        "jsxString": "<IsOutlineCardRemove1 />"
       },
       {
         "name": "outline-card-send",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCardSend,
         "svgString": IsOutlineCardSendSvg,
-        "jsxString": "`<IsOutlineCardSend />`"
+        "jsxString": "<IsOutlineCardSend />"
       },
       {
         "name": "outline-card-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCardSlash,
         "svgString": IsOutlineCardSlashSvg,
-        "jsxString": "`<IsOutlineCardSlash />`"
+        "jsxString": "<IsOutlineCardSlash />"
       },
       {
         "name": "outline-card-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCardTick,
         "svgString": IsOutlineCardTickSvg,
-        "jsxString": "`<IsOutlineCardTick />`"
+        "jsxString": "<IsOutlineCardTick />"
       },
       {
         "name": "outline-card-tick1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCardTick1,
         "svgString": IsOutlineCardTick1Svg,
-        "jsxString": "`<IsOutlineCardTick1 />`"
+        "jsxString": "<IsOutlineCardTick1 />"
       },
       {
         "name": "outline-cardano",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCardano,
         "svgString": IsOutlineCardanoSvg,
-        "jsxString": "`<IsOutlineCardano />`"
+        "jsxString": "<IsOutlineCardano />"
       },
       {
         "name": "outline-cards",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCards,
         "svgString": IsOutlineCardsSvg,
-        "jsxString": "`<IsOutlineCards />`"
+        "jsxString": "<IsOutlineCards />"
       },
       {
         "name": "outline-category",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCategory,
         "svgString": IsOutlineCategorySvg,
-        "jsxString": "`<IsOutlineCategory />`"
+        "jsxString": "<IsOutlineCategory />"
       },
       {
         "name": "outline-category2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCategory2,
         "svgString": IsOutlineCategory2Svg,
-        "jsxString": "`<IsOutlineCategory2 />`"
+        "jsxString": "<IsOutlineCategory2 />"
       },
       {
         "name": "outline-cd",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCd,
         "svgString": IsOutlineCdSvg,
-        "jsxString": "`<IsOutlineCd />`"
+        "jsxString": "<IsOutlineCd />"
       },
       {
         "name": "outline-celo",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCelo,
         "svgString": IsOutlineCeloSvg,
-        "jsxString": "`<IsOutlineCelo />`"
+        "jsxString": "<IsOutlineCelo />"
       },
       {
         "name": "outline-celsius",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCelsius,
         "svgString": IsOutlineCelsiusSvg,
-        "jsxString": "`<IsOutlineCelsius />`"
+        "jsxString": "<IsOutlineCelsius />"
       },
       {
         "name": "outline-chainlink",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineChainlink,
         "svgString": IsOutlineChainlinkSvg,
-        "jsxString": "`<IsOutlineChainlink />`"
+        "jsxString": "<IsOutlineChainlink />"
       },
       {
         "name": "outline-chart",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineChart,
         "svgString": IsOutlineChartSvg,
-        "jsxString": "`<IsOutlineChart />`"
+        "jsxString": "<IsOutlineChart />"
       },
       {
         "name": "outline-chart-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineChartSquare,
         "svgString": IsOutlineChartSquareSvg,
-        "jsxString": "`<IsOutlineChartSquare />`"
+        "jsxString": "<IsOutlineChartSquare />"
       },
       {
         "name": "outline-chart-success",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineChartSuccess,
         "svgString": IsOutlineChartSuccessSvg,
-        "jsxString": "`<IsOutlineChartSuccess />`"
+        "jsxString": "<IsOutlineChartSuccess />"
       },
       {
         "name": "outline-chart1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineChart1,
         "svgString": IsOutlineChart1Svg,
-        "jsxString": "`<IsOutlineChart1 />`"
+        "jsxString": "<IsOutlineChart1 />"
       },
       {
         "name": "outline-chart2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineChart2,
         "svgString": IsOutlineChart2Svg,
-        "jsxString": "`<IsOutlineChart2 />`"
+        "jsxString": "<IsOutlineChart2 />"
       },
       {
         "name": "outline-chart21",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineChart21,
         "svgString": IsOutlineChart21Svg,
-        "jsxString": "`<IsOutlineChart21 />`"
+        "jsxString": "<IsOutlineChart21 />"
       },
       {
         "name": "outline-chart3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineChart3,
         "svgString": IsOutlineChart3Svg,
-        "jsxString": "`<IsOutlineChart3 />`"
+        "jsxString": "<IsOutlineChart3 />"
       },
       {
         "name": "outline-check",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCheck,
         "svgString": IsOutlineCheckSvg,
-        "jsxString": "`<IsOutlineCheck />`"
+        "jsxString": "<IsOutlineCheck />"
       },
       {
         "name": "outline-chrome",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineChrome,
         "svgString": IsOutlineChromeSvg,
-        "jsxString": "`<IsOutlineChrome />`"
+        "jsxString": "<IsOutlineChrome />"
       },
       {
         "name": "outline-civic",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCivic,
         "svgString": IsOutlineCivicSvg,
-        "jsxString": "`<IsOutlineCivic />`"
+        "jsxString": "<IsOutlineCivic />"
       },
       {
         "name": "outline-clipboard",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineClipboard,
         "svgString": IsOutlineClipboardSvg,
-        "jsxString": "`<IsOutlineClipboard />`"
+        "jsxString": "<IsOutlineClipboard />"
       },
       {
         "name": "outline-clipboard-close",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineClipboardClose,
         "svgString": IsOutlineClipboardCloseSvg,
-        "jsxString": "`<IsOutlineClipboardClose />`"
+        "jsxString": "<IsOutlineClipboardClose />"
       },
       {
         "name": "outline-clipboard-export",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineClipboardExport,
         "svgString": IsOutlineClipboardExportSvg,
-        "jsxString": "`<IsOutlineClipboardExport />`"
+        "jsxString": "<IsOutlineClipboardExport />"
       },
       {
         "name": "outline-clipboard-import",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineClipboardImport,
         "svgString": IsOutlineClipboardImportSvg,
-        "jsxString": "`<IsOutlineClipboardImport />`"
+        "jsxString": "<IsOutlineClipboardImport />"
       },
       {
         "name": "outline-clipboard-text",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineClipboardText,
         "svgString": IsOutlineClipboardTextSvg,
-        "jsxString": "`<IsOutlineClipboardText />`"
+        "jsxString": "<IsOutlineClipboardText />"
       },
       {
         "name": "outline-clipboard-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineClipboardTick,
         "svgString": IsOutlineClipboardTickSvg,
-        "jsxString": "`<IsOutlineClipboardTick />`"
+        "jsxString": "<IsOutlineClipboardTick />"
       },
       {
         "name": "outline-clock",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineClock,
         "svgString": IsOutlineClockSvg,
-        "jsxString": "`<IsOutlineClock />`"
+        "jsxString": "<IsOutlineClock />"
       },
       {
         "name": "outline-clock1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineClock1,
         "svgString": IsOutlineClock1Svg,
-        "jsxString": "`<IsOutlineClock1 />`"
+        "jsxString": "<IsOutlineClock1 />"
       },
       {
         "name": "outline-close-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloseCircle,
         "svgString": IsOutlineCloseCircleSvg,
-        "jsxString": "`<IsOutlineCloseCircle />`"
+        "jsxString": "<IsOutlineCloseCircle />"
       },
       {
         "name": "outline-close-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloseSquare,
         "svgString": IsOutlineCloseSquareSvg,
-        "jsxString": "`<IsOutlineCloseSquare />`"
+        "jsxString": "<IsOutlineCloseSquare />"
       },
       {
         "name": "outline-cloud",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloud,
         "svgString": IsOutlineCloudSvg,
-        "jsxString": "`<IsOutlineCloud />`"
+        "jsxString": "<IsOutlineCloud />"
       },
       {
         "name": "outline-cloud-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloudAdd,
         "svgString": IsOutlineCloudAddSvg,
-        "jsxString": "`<IsOutlineCloudAdd />`"
+        "jsxString": "<IsOutlineCloudAdd />"
       },
       {
         "name": "outline-cloud-change",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloudChange,
         "svgString": IsOutlineCloudChangeSvg,
-        "jsxString": "`<IsOutlineCloudChange />`"
+        "jsxString": "<IsOutlineCloudChange />"
       },
       {
         "name": "outline-cloud-connection",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloudConnection,
         "svgString": IsOutlineCloudConnectionSvg,
-        "jsxString": "`<IsOutlineCloudConnection />`"
+        "jsxString": "<IsOutlineCloudConnection />"
       },
       {
         "name": "outline-cloud-cross",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloudCross,
         "svgString": IsOutlineCloudCrossSvg,
-        "jsxString": "`<IsOutlineCloudCross />`"
+        "jsxString": "<IsOutlineCloudCross />"
       },
       {
         "name": "outline-cloud-drizzle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloudDrizzle,
         "svgString": IsOutlineCloudDrizzleSvg,
-        "jsxString": "`<IsOutlineCloudDrizzle />`"
+        "jsxString": "<IsOutlineCloudDrizzle />"
       },
       {
         "name": "outline-cloud-fog",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloudFog,
         "svgString": IsOutlineCloudFogSvg,
-        "jsxString": "`<IsOutlineCloudFog />`"
+        "jsxString": "<IsOutlineCloudFog />"
       },
       {
         "name": "outline-cloud-lightning",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloudLightning,
         "svgString": IsOutlineCloudLightningSvg,
-        "jsxString": "`<IsOutlineCloudLightning />`"
+        "jsxString": "<IsOutlineCloudLightning />"
       },
       {
         "name": "outline-cloud-minus",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloudMinus,
         "svgString": IsOutlineCloudMinusSvg,
-        "jsxString": "`<IsOutlineCloudMinus />`"
+        "jsxString": "<IsOutlineCloudMinus />"
       },
       {
         "name": "outline-cloud-notif",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloudNotif,
         "svgString": IsOutlineCloudNotifSvg,
-        "jsxString": "`<IsOutlineCloudNotif />`"
+        "jsxString": "<IsOutlineCloudNotif />"
       },
       {
         "name": "outline-cloud-plus",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloudPlus,
         "svgString": IsOutlineCloudPlusSvg,
-        "jsxString": "`<IsOutlineCloudPlus />`"
+        "jsxString": "<IsOutlineCloudPlus />"
       },
       {
         "name": "outline-cloud-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloudRemove,
         "svgString": IsOutlineCloudRemoveSvg,
-        "jsxString": "`<IsOutlineCloudRemove />`"
+        "jsxString": "<IsOutlineCloudRemove />"
       },
       {
         "name": "outline-cloud-snow",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloudSnow,
         "svgString": IsOutlineCloudSnowSvg,
-        "jsxString": "`<IsOutlineCloudSnow />`"
+        "jsxString": "<IsOutlineCloudSnow />"
       },
       {
         "name": "outline-cloud-sunny",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCloudSunny,
         "svgString": IsOutlineCloudSunnySvg,
-        "jsxString": "`<IsOutlineCloudSunny />`"
+        "jsxString": "<IsOutlineCloudSunny />"
       },
       {
         "name": "outline-code",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCode,
         "svgString": IsOutlineCodeSvg,
-        "jsxString": "`<IsOutlineCode />`"
+        "jsxString": "<IsOutlineCode />"
       },
       {
         "name": "outline-code-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCodeCircle,
         "svgString": IsOutlineCodeCircleSvg,
-        "jsxString": "`<IsOutlineCodeCircle />`"
+        "jsxString": "<IsOutlineCodeCircle />"
       },
       {
         "name": "outline-code1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCode1,
         "svgString": IsOutlineCode1Svg,
-        "jsxString": "`<IsOutlineCode1 />`"
+        "jsxString": "<IsOutlineCode1 />"
       },
       {
         "name": "outline-coffee",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCoffee,
         "svgString": IsOutlineCoffeeSvg,
-        "jsxString": "`<IsOutlineCoffee />`"
+        "jsxString": "<IsOutlineCoffee />"
       },
       {
         "name": "outline-coin",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCoin,
         "svgString": IsOutlineCoinSvg,
-        "jsxString": "`<IsOutlineCoin />`"
+        "jsxString": "<IsOutlineCoin />"
       },
       {
         "name": "outline-coin1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCoin1,
         "svgString": IsOutlineCoin1Svg,
-        "jsxString": "`<IsOutlineCoin1 />`"
+        "jsxString": "<IsOutlineCoin1 />"
       },
       {
         "name": "outline-color-swatch",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineColorSwatch,
         "svgString": IsOutlineColorSwatchSvg,
-        "jsxString": "`<IsOutlineColorSwatch />`"
+        "jsxString": "<IsOutlineColorSwatch />"
       },
       {
         "name": "outline-colorfilter",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineColorfilter,
         "svgString": IsOutlineColorfilterSvg,
-        "jsxString": "`<IsOutlineColorfilter />`"
+        "jsxString": "<IsOutlineColorfilter />"
       },
       {
         "name": "outline-colors-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineColorsSquare,
         "svgString": IsOutlineColorsSquareSvg,
-        "jsxString": "`<IsOutlineColorsSquare />`"
+        "jsxString": "<IsOutlineColorsSquare />"
       },
       {
         "name": "outline-colors-square1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineColorsSquare1,
         "svgString": IsOutlineColorsSquare1Svg,
-        "jsxString": "`<IsOutlineColorsSquare1 />`"
+        "jsxString": "<IsOutlineColorsSquare1 />"
       },
       {
         "name": "outline-command",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCommand,
         "svgString": IsOutlineCommandSvg,
-        "jsxString": "`<IsOutlineCommand />`"
+        "jsxString": "<IsOutlineCommand />"
       },
       {
         "name": "outline-command-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCommandSquare,
         "svgString": IsOutlineCommandSquareSvg,
-        "jsxString": "`<IsOutlineCommandSquare />`"
+        "jsxString": "<IsOutlineCommandSquare />"
       },
       {
         "name": "outline-component",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineComponent,
         "svgString": IsOutlineComponentSvg,
-        "jsxString": "`<IsOutlineComponent />`"
+        "jsxString": "<IsOutlineComponent />"
       },
       {
         "name": "outline-component1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineComponent1,
         "svgString": IsOutlineComponent1Svg,
-        "jsxString": "`<IsOutlineComponent1 />`"
+        "jsxString": "<IsOutlineComponent1 />"
       },
       {
         "name": "outline-computing",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineComputing,
         "svgString": IsOutlineComputingSvg,
-        "jsxString": "`<IsOutlineComputing />`"
+        "jsxString": "<IsOutlineComputing />"
       },
       {
         "name": "outline-convert",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineConvert,
         "svgString": IsOutlineConvertSvg,
-        "jsxString": "`<IsOutlineConvert />`"
+        "jsxString": "<IsOutlineConvert />"
       },
       {
         "name": "outline-convert3d-cube",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineConvert3dCube,
         "svgString": IsOutlineConvert3dCubeSvg,
-        "jsxString": "`<IsOutlineConvert3dCube />`"
+        "jsxString": "<IsOutlineConvert3dCube />"
       },
       {
         "name": "outline-convertshape",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineConvertshape,
         "svgString": IsOutlineConvertshapeSvg,
-        "jsxString": "`<IsOutlineConvertshape />`"
+        "jsxString": "<IsOutlineConvertshape />"
       },
       {
         "name": "outline-convertshape2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineConvertshape2,
         "svgString": IsOutlineConvertshape2Svg,
-        "jsxString": "`<IsOutlineConvertshape2 />`"
+        "jsxString": "<IsOutlineConvertshape2 />"
       },
       {
         "name": "outline-copy",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCopy,
         "svgString": IsOutlineCopySvg,
-        "jsxString": "`<IsOutlineCopy />`"
+        "jsxString": "<IsOutlineCopy />"
       },
       {
         "name": "outline-copy-success",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCopySuccess,
         "svgString": IsOutlineCopySuccessSvg,
-        "jsxString": "`<IsOutlineCopySuccess />`"
+        "jsxString": "<IsOutlineCopySuccess />"
       },
       {
         "name": "outline-copyright",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCopyright,
         "svgString": IsOutlineCopyrightSvg,
-        "jsxString": "`<IsOutlineCopyright />`"
+        "jsxString": "<IsOutlineCopyright />"
       },
       {
         "name": "outline-courthouse",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCourthouse,
         "svgString": IsOutlineCourthouseSvg,
-        "jsxString": "`<IsOutlineCourthouse />`"
+        "jsxString": "<IsOutlineCourthouse />"
       },
       {
         "name": "outline-cpu",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCpu,
         "svgString": IsOutlineCpuSvg,
-        "jsxString": "`<IsOutlineCpu />`"
+        "jsxString": "<IsOutlineCpu />"
       },
       {
         "name": "outline-cpu-charge",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCpuCharge,
         "svgString": IsOutlineCpuChargeSvg,
-        "jsxString": "`<IsOutlineCpuCharge />`"
+        "jsxString": "<IsOutlineCpuCharge />"
       },
       {
         "name": "outline-cpu-setting",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCpuSetting,
         "svgString": IsOutlineCpuSettingSvg,
-        "jsxString": "`<IsOutlineCpuSetting />`"
+        "jsxString": "<IsOutlineCpuSetting />"
       },
       {
         "name": "outline-creative-commons",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCreativeCommons,
         "svgString": IsOutlineCreativeCommonsSvg,
-        "jsxString": "`<IsOutlineCreativeCommons />`"
+        "jsxString": "<IsOutlineCreativeCommons />"
       },
       {
         "name": "outline-crop",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCrop,
         "svgString": IsOutlineCropSvg,
-        "jsxString": "`<IsOutlineCrop />`"
+        "jsxString": "<IsOutlineCrop />"
       },
       {
         "name": "outline-crown",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCrown,
         "svgString": IsOutlineCrownSvg,
-        "jsxString": "`<IsOutlineCrown />`"
+        "jsxString": "<IsOutlineCrown />"
       },
       {
         "name": "outline-crown1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCrown1,
         "svgString": IsOutlineCrown1Svg,
-        "jsxString": "`<IsOutlineCrown1 />`"
+        "jsxString": "<IsOutlineCrown1 />"
       },
       {
         "name": "outline-cup",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineCup,
         "svgString": IsOutlineCupSvg,
-        "jsxString": "`<IsOutlineCup />`"
+        "jsxString": "<IsOutlineCup />"
       },
       {
         "name": "outline-dai",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDai,
         "svgString": IsOutlineDaiSvg,
-        "jsxString": "`<IsOutlineDai />`"
+        "jsxString": "<IsOutlineDai />"
       },
       {
         "name": "outline-danger",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDanger,
         "svgString": IsOutlineDangerSvg,
-        "jsxString": "`<IsOutlineDanger />`"
+        "jsxString": "<IsOutlineDanger />"
       },
       {
         "name": "outline-dash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDash,
         "svgString": IsOutlineDashSvg,
-        "jsxString": "`<IsOutlineDash />`"
+        "jsxString": "<IsOutlineDash />"
       },
       {
         "name": "outline-data",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineData,
         "svgString": IsOutlineDataSvg,
-        "jsxString": "`<IsOutlineData />`"
+        "jsxString": "<IsOutlineData />"
       },
       {
         "name": "outline-data2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineData2,
         "svgString": IsOutlineData2Svg,
-        "jsxString": "`<IsOutlineData2 />`"
+        "jsxString": "<IsOutlineData2 />"
       },
       {
         "name": "outline-decred",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDecred,
         "svgString": IsOutlineDecredSvg,
-        "jsxString": "`<IsOutlineDecred />`"
+        "jsxString": "<IsOutlineDecred />"
       },
       {
         "name": "outline-dent",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDent,
         "svgString": IsOutlineDentSvg,
-        "jsxString": "`<IsOutlineDent />`"
+        "jsxString": "<IsOutlineDent />"
       },
       {
         "name": "outline-designtools",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDesigntools,
         "svgString": IsOutlineDesigntoolsSvg,
-        "jsxString": "`<IsOutlineDesigntools />`"
+        "jsxString": "<IsOutlineDesigntools />"
       },
       {
         "name": "outline-device-message",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDeviceMessage,
         "svgString": IsOutlineDeviceMessageSvg,
-        "jsxString": "`<IsOutlineDeviceMessage />`"
+        "jsxString": "<IsOutlineDeviceMessage />"
       },
       {
         "name": "outline-devices",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDevices,
         "svgString": IsOutlineDevicesSvg,
-        "jsxString": "`<IsOutlineDevices />`"
+        "jsxString": "<IsOutlineDevices />"
       },
       {
         "name": "outline-devices1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDevices1,
         "svgString": IsOutlineDevices1Svg,
-        "jsxString": "`<IsOutlineDevices1 />`"
+        "jsxString": "<IsOutlineDevices1 />"
       },
       {
         "name": "outline-diagram",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDiagram,
         "svgString": IsOutlineDiagramSvg,
-        "jsxString": "`<IsOutlineDiagram />`"
+        "jsxString": "<IsOutlineDiagram />"
       },
       {
         "name": "outline-diamonds",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDiamonds,
         "svgString": IsOutlineDiamondsSvg,
-        "jsxString": "`<IsOutlineDiamonds />`"
+        "jsxString": "<IsOutlineDiamonds />"
       },
       {
         "name": "outline-direct",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDirect,
         "svgString": IsOutlineDirectSvg,
-        "jsxString": "`<IsOutlineDirect />`"
+        "jsxString": "<IsOutlineDirect />"
       },
       {
         "name": "outline-direct-down",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDirectDown,
         "svgString": IsOutlineDirectDownSvg,
-        "jsxString": "`<IsOutlineDirectDown />`"
+        "jsxString": "<IsOutlineDirectDown />"
       },
       {
         "name": "outline-direct-inbox",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDirectInbox,
         "svgString": IsOutlineDirectInboxSvg,
-        "jsxString": "`<IsOutlineDirectInbox />`"
+        "jsxString": "<IsOutlineDirectInbox />"
       },
       {
         "name": "outline-direct-left",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDirectLeft,
         "svgString": IsOutlineDirectLeftSvg,
-        "jsxString": "`<IsOutlineDirectLeft />`"
+        "jsxString": "<IsOutlineDirectLeft />"
       },
       {
         "name": "outline-direct-normal",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDirectNormal,
         "svgString": IsOutlineDirectNormalSvg,
-        "jsxString": "`<IsOutlineDirectNormal />`"
+        "jsxString": "<IsOutlineDirectNormal />"
       },
       {
         "name": "outline-direct-notification",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDirectNotification,
         "svgString": IsOutlineDirectNotificationSvg,
-        "jsxString": "`<IsOutlineDirectNotification />`"
+        "jsxString": "<IsOutlineDirectNotification />"
       },
       {
         "name": "outline-direct-right",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDirectRight,
         "svgString": IsOutlineDirectRightSvg,
-        "jsxString": "`<IsOutlineDirectRight />`"
+        "jsxString": "<IsOutlineDirectRight />"
       },
       {
         "name": "outline-direct-send",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDirectSend,
         "svgString": IsOutlineDirectSendSvg,
-        "jsxString": "`<IsOutlineDirectSend />`"
+        "jsxString": "<IsOutlineDirectSend />"
       },
       {
         "name": "outline-direct-up",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDirectUp,
         "svgString": IsOutlineDirectUpSvg,
-        "jsxString": "`<IsOutlineDirectUp />`"
+        "jsxString": "<IsOutlineDirectUp />"
       },
       {
         "name": "outline-directbox-default",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDirectboxDefault,
         "svgString": IsOutlineDirectboxDefaultSvg,
-        "jsxString": "`<IsOutlineDirectboxDefault />`"
+        "jsxString": "<IsOutlineDirectboxDefault />"
       },
       {
         "name": "outline-directbox-notif",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDirectboxNotif,
         "svgString": IsOutlineDirectboxNotifSvg,
-        "jsxString": "`<IsOutlineDirectboxNotif />`"
+        "jsxString": "<IsOutlineDirectboxNotif />"
       },
       {
         "name": "outline-directbox-receive",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDirectboxReceive,
         "svgString": IsOutlineDirectboxReceiveSvg,
-        "jsxString": "`<IsOutlineDirectboxReceive />`"
+        "jsxString": "<IsOutlineDirectboxReceive />"
       },
       {
         "name": "outline-directbox-send",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDirectboxSend,
         "svgString": IsOutlineDirectboxSendSvg,
-        "jsxString": "`<IsOutlineDirectboxSend />`"
+        "jsxString": "<IsOutlineDirectboxSend />"
       },
       {
         "name": "outline-discount-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDiscountCircle,
         "svgString": IsOutlineDiscountCircleSvg,
-        "jsxString": "`<IsOutlineDiscountCircle />`"
+        "jsxString": "<IsOutlineDiscountCircle />"
       },
       {
         "name": "outline-discount-shape",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDiscountShape,
         "svgString": IsOutlineDiscountShapeSvg,
-        "jsxString": "`<IsOutlineDiscountShape />`"
+        "jsxString": "<IsOutlineDiscountShape />"
       },
       {
         "name": "outline-discover",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDiscover,
         "svgString": IsOutlineDiscoverSvg,
-        "jsxString": "`<IsOutlineDiscover />`"
+        "jsxString": "<IsOutlineDiscover />"
       },
       {
         "name": "outline-discover1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDiscover1,
         "svgString": IsOutlineDiscover1Svg,
-        "jsxString": "`<IsOutlineDiscover1 />`"
+        "jsxString": "<IsOutlineDiscover1 />"
       },
       {
         "name": "outline-dislike",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDislike,
         "svgString": IsOutlineDislikeSvg,
-        "jsxString": "`<IsOutlineDislike />`"
+        "jsxString": "<IsOutlineDislike />"
       },
       {
         "name": "outline-document",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocument,
         "svgString": IsOutlineDocumentSvg,
-        "jsxString": "`<IsOutlineDocument />`"
+        "jsxString": "<IsOutlineDocument />"
       },
       {
         "name": "outline-document-cloud",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocumentCloud,
         "svgString": IsOutlineDocumentCloudSvg,
-        "jsxString": "`<IsOutlineDocumentCloud />`"
+        "jsxString": "<IsOutlineDocumentCloud />"
       },
       {
         "name": "outline-document-code",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocumentCode,
         "svgString": IsOutlineDocumentCodeSvg,
-        "jsxString": "`<IsOutlineDocumentCode />`"
+        "jsxString": "<IsOutlineDocumentCode />"
       },
       {
         "name": "outline-document-code2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocumentCode2,
         "svgString": IsOutlineDocumentCode2Svg,
-        "jsxString": "`<IsOutlineDocumentCode2 />`"
+        "jsxString": "<IsOutlineDocumentCode2 />"
       },
       {
         "name": "outline-document-copy",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocumentCopy,
         "svgString": IsOutlineDocumentCopySvg,
-        "jsxString": "`<IsOutlineDocumentCopy />`"
+        "jsxString": "<IsOutlineDocumentCopy />"
       },
       {
         "name": "outline-document-download",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocumentDownload,
         "svgString": IsOutlineDocumentDownloadSvg,
-        "jsxString": "`<IsOutlineDocumentDownload />`"
+        "jsxString": "<IsOutlineDocumentDownload />"
       },
       {
         "name": "outline-document-favorite",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocumentFavorite,
         "svgString": IsOutlineDocumentFavoriteSvg,
-        "jsxString": "`<IsOutlineDocumentFavorite />`"
+        "jsxString": "<IsOutlineDocumentFavorite />"
       },
       {
         "name": "outline-document-filter",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocumentFilter,
         "svgString": IsOutlineDocumentFilterSvg,
-        "jsxString": "`<IsOutlineDocumentFilter />`"
+        "jsxString": "<IsOutlineDocumentFilter />"
       },
       {
         "name": "outline-document-forward",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocumentForward,
         "svgString": IsOutlineDocumentForwardSvg,
-        "jsxString": "`<IsOutlineDocumentForward />`"
+        "jsxString": "<IsOutlineDocumentForward />"
       },
       {
         "name": "outline-document-like",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocumentLike,
         "svgString": IsOutlineDocumentLikeSvg,
-        "jsxString": "`<IsOutlineDocumentLike />`"
+        "jsxString": "<IsOutlineDocumentLike />"
       },
       {
         "name": "outline-document-previous",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocumentPrevious,
         "svgString": IsOutlineDocumentPreviousSvg,
-        "jsxString": "`<IsOutlineDocumentPrevious />`"
+        "jsxString": "<IsOutlineDocumentPrevious />"
       },
       {
         "name": "outline-document-sketch",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocumentSketch,
         "svgString": IsOutlineDocumentSketchSvg,
-        "jsxString": "`<IsOutlineDocumentSketch />`"
+        "jsxString": "<IsOutlineDocumentSketch />"
       },
       {
         "name": "outline-document-text",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocumentText,
         "svgString": IsOutlineDocumentTextSvg,
-        "jsxString": "`<IsOutlineDocumentText />`"
+        "jsxString": "<IsOutlineDocumentText />"
       },
       {
         "name": "outline-document-text1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocumentText1,
         "svgString": IsOutlineDocumentText1Svg,
-        "jsxString": "`<IsOutlineDocumentText1 />`"
+        "jsxString": "<IsOutlineDocumentText1 />"
       },
       {
         "name": "outline-document-upload",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocumentUpload,
         "svgString": IsOutlineDocumentUploadSvg,
-        "jsxString": "`<IsOutlineDocumentUpload />`"
+        "jsxString": "<IsOutlineDocumentUpload />"
       },
       {
         "name": "outline-document1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDocument1,
         "svgString": IsOutlineDocument1Svg,
-        "jsxString": "`<IsOutlineDocument1 />`"
+        "jsxString": "<IsOutlineDocument1 />"
       },
       {
         "name": "outline-dollar-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDollarCircle,
         "svgString": IsOutlineDollarCircleSvg,
-        "jsxString": "`<IsOutlineDollarCircle />`"
+        "jsxString": "<IsOutlineDollarCircle />"
       },
       {
         "name": "outline-dollar-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDollarSquare,
         "svgString": IsOutlineDollarSquareSvg,
-        "jsxString": "`<IsOutlineDollarSquare />`"
+        "jsxString": "<IsOutlineDollarSquare />"
       },
       {
         "name": "outline-dribbble",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDribbble,
         "svgString": IsOutlineDribbbleSvg,
-        "jsxString": "`<IsOutlineDribbble />`"
+        "jsxString": "<IsOutlineDribbble />"
       },
       {
         "name": "outline-driver",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDriver,
         "svgString": IsOutlineDriverSvg,
-        "jsxString": "`<IsOutlineDriver />`"
+        "jsxString": "<IsOutlineDriver />"
       },
       {
         "name": "outline-driver-refresh",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDriverRefresh,
         "svgString": IsOutlineDriverRefreshSvg,
-        "jsxString": "`<IsOutlineDriverRefresh />`"
+        "jsxString": "<IsOutlineDriverRefresh />"
       },
       {
         "name": "outline-driver2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDriver2,
         "svgString": IsOutlineDriver2Svg,
-        "jsxString": "`<IsOutlineDriver2 />`"
+        "jsxString": "<IsOutlineDriver2 />"
       },
       {
         "name": "outline-driving",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDriving,
         "svgString": IsOutlineDrivingSvg,
-        "jsxString": "`<IsOutlineDriving />`"
+        "jsxString": "<IsOutlineDriving />"
       },
       {
         "name": "outline-drop",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDrop,
         "svgString": IsOutlineDropSvg,
-        "jsxString": "`<IsOutlineDrop />`"
+        "jsxString": "<IsOutlineDrop />"
       },
       {
         "name": "outline-dropbox",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineDropbox,
         "svgString": IsOutlineDropboxSvg,
-        "jsxString": "`<IsOutlineDropbox />`"
+        "jsxString": "<IsOutlineDropbox />"
       },
       {
         "name": "outline-edit",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEdit,
         "svgString": IsOutlineEditSvg,
-        "jsxString": "`<IsOutlineEdit />`"
+        "jsxString": "<IsOutlineEdit />"
       },
       {
         "name": "outline-edit2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEdit2,
         "svgString": IsOutlineEdit2Svg,
-        "jsxString": "`<IsOutlineEdit2 />`"
+        "jsxString": "<IsOutlineEdit2 />"
       },
       {
         "name": "outline-educare",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEducare,
         "svgString": IsOutlineEducareSvg,
-        "jsxString": "`<IsOutlineEducare />`"
+        "jsxString": "<IsOutlineEducare />"
       },
       {
         "name": "outline-electricity",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineElectricity,
         "svgString": IsOutlineElectricitySvg,
-        "jsxString": "`<IsOutlineElectricity />`"
+        "jsxString": "<IsOutlineElectricity />"
       },
       {
         "name": "outline-element-equal",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineElementEqual,
         "svgString": IsOutlineElementEqualSvg,
-        "jsxString": "`<IsOutlineElementEqual />`"
+        "jsxString": "<IsOutlineElementEqual />"
       },
       {
         "name": "outline-element-plus",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineElementPlus,
         "svgString": IsOutlineElementPlusSvg,
-        "jsxString": "`<IsOutlineElementPlus />`"
+        "jsxString": "<IsOutlineElementPlus />"
       },
       {
         "name": "outline-element1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineElement1,
         "svgString": IsOutlineElement1Svg,
-        "jsxString": "`<IsOutlineElement1 />`"
+        "jsxString": "<IsOutlineElement1 />"
       },
       {
         "name": "outline-element2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineElement2,
         "svgString": IsOutlineElement2Svg,
-        "jsxString": "`<IsOutlineElement2 />`"
+        "jsxString": "<IsOutlineElement2 />"
       },
       {
         "name": "outline-element3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineElement3,
         "svgString": IsOutlineElement3Svg,
-        "jsxString": "`<IsOutlineElement3 />`"
+        "jsxString": "<IsOutlineElement3 />"
       },
       {
         "name": "outline-element4",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineElement4,
         "svgString": IsOutlineElement4Svg,
-        "jsxString": "`<IsOutlineElement4 />`"
+        "jsxString": "<IsOutlineElement4 />"
       },
       {
         "name": "outline-emercoin",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEmercoin,
         "svgString": IsOutlineEmercoinSvg,
-        "jsxString": "`<IsOutlineEmercoin />`"
+        "jsxString": "<IsOutlineEmercoin />"
       },
       {
         "name": "outline-emoji-happy",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEmojiHappy,
         "svgString": IsOutlineEmojiHappySvg,
-        "jsxString": "`<IsOutlineEmojiHappy />`"
+        "jsxString": "<IsOutlineEmojiHappy />"
       },
       {
         "name": "outline-emoji-normal",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEmojiNormal,
         "svgString": IsOutlineEmojiNormalSvg,
-        "jsxString": "`<IsOutlineEmojiNormal />`"
+        "jsxString": "<IsOutlineEmojiNormal />"
       },
       {
         "name": "outline-emoji-sad",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEmojiSad,
         "svgString": IsOutlineEmojiSadSvg,
-        "jsxString": "`<IsOutlineEmojiSad />`"
+        "jsxString": "<IsOutlineEmojiSad />"
       },
       {
         "name": "outline-empty-wallet",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEmptyWallet,
         "svgString": IsOutlineEmptyWalletSvg,
-        "jsxString": "`<IsOutlineEmptyWallet />`"
+        "jsxString": "<IsOutlineEmptyWallet />"
       },
       {
         "name": "outline-empty-wallet-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEmptyWalletAdd,
         "svgString": IsOutlineEmptyWalletAddSvg,
-        "jsxString": "`<IsOutlineEmptyWalletAdd />`"
+        "jsxString": "<IsOutlineEmptyWalletAdd />"
       },
       {
         "name": "outline-empty-wallet-change",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEmptyWalletChange,
         "svgString": IsOutlineEmptyWalletChangeSvg,
-        "jsxString": "`<IsOutlineEmptyWalletChange />`"
+        "jsxString": "<IsOutlineEmptyWalletChange />"
       },
       {
         "name": "outline-empty-wallet-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEmptyWalletRemove,
         "svgString": IsOutlineEmptyWalletRemoveSvg,
-        "jsxString": "`<IsOutlineEmptyWalletRemove />`"
+        "jsxString": "<IsOutlineEmptyWalletRemove />"
       },
       {
         "name": "outline-empty-wallet-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEmptyWalletTick,
         "svgString": IsOutlineEmptyWalletTickSvg,
-        "jsxString": "`<IsOutlineEmptyWalletTick />`"
+        "jsxString": "<IsOutlineEmptyWalletTick />"
       },
       {
         "name": "outline-empty-wallet-time",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEmptyWalletTime,
         "svgString": IsOutlineEmptyWalletTimeSvg,
-        "jsxString": "`<IsOutlineEmptyWalletTime />`"
+        "jsxString": "<IsOutlineEmptyWalletTime />"
       },
       {
         "name": "outline-enjin-coin",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEnjinCoin,
         "svgString": IsOutlineEnjinCoinSvg,
-        "jsxString": "`<IsOutlineEnjinCoin />`"
+        "jsxString": "<IsOutlineEnjinCoin />"
       },
       {
         "name": "outline-eos",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEos,
         "svgString": IsOutlineEosSvg,
-        "jsxString": "`<IsOutlineEos />`"
+        "jsxString": "<IsOutlineEos />"
       },
       {
         "name": "outline-eraser",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEraser,
         "svgString": IsOutlineEraserSvg,
-        "jsxString": "`<IsOutlineEraser />`"
+        "jsxString": "<IsOutlineEraser />"
       },
       {
         "name": "outline-eraser1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEraser1,
         "svgString": IsOutlineEraser1Svg,
-        "jsxString": "`<IsOutlineEraser1 />`"
+        "jsxString": "<IsOutlineEraser1 />"
       },
       {
         "name": "outline-eraser2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEraser2,
         "svgString": IsOutlineEraser2Svg,
-        "jsxString": "`<IsOutlineEraser2 />`"
+        "jsxString": "<IsOutlineEraser2 />"
       },
       {
         "name": "outline-ethereum",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEthereum,
         "svgString": IsOutlineEthereumSvg,
-        "jsxString": "`<IsOutlineEthereum />`"
+        "jsxString": "<IsOutlineEthereum />"
       },
       {
         "name": "outline-ethereum-classic",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEthereumClassic,
         "svgString": IsOutlineEthereumClassicSvg,
-        "jsxString": "`<IsOutlineEthereumClassic />`"
+        "jsxString": "<IsOutlineEthereumClassic />"
       },
       {
         "name": "outline-export",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineExport,
         "svgString": IsOutlineExportSvg,
-        "jsxString": "`<IsOutlineExport />`"
+        "jsxString": "<IsOutlineExport />"
       },
       {
         "name": "outline-export1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineExport1,
         "svgString": IsOutlineExport1Svg,
-        "jsxString": "`<IsOutlineExport1 />`"
+        "jsxString": "<IsOutlineExport1 />"
       },
       {
         "name": "outline-export2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineExport2,
         "svgString": IsOutlineExport2Svg,
-        "jsxString": "`<IsOutlineExport2 />`"
+        "jsxString": "<IsOutlineExport2 />"
       },
       {
         "name": "outline-export3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineExport3,
         "svgString": IsOutlineExport3Svg,
-        "jsxString": "`<IsOutlineExport3 />`"
+        "jsxString": "<IsOutlineExport3 />"
       },
       {
         "name": "outline-external-drive",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineExternalDrive,
         "svgString": IsOutlineExternalDriveSvg,
-        "jsxString": "`<IsOutlineExternalDrive />`"
+        "jsxString": "<IsOutlineExternalDrive />"
       },
       {
         "name": "outline-eye",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEye,
         "svgString": IsOutlineEyeSvg,
-        "jsxString": "`<IsOutlineEye />`"
+        "jsxString": "<IsOutlineEye />"
       },
       {
         "name": "outline-eye-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineEyeSlash,
         "svgString": IsOutlineEyeSlashSvg,
-        "jsxString": "`<IsOutlineEyeSlash />`"
+        "jsxString": "<IsOutlineEyeSlash />"
       },
       {
         "name": "outline-facebook",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFacebook,
         "svgString": IsOutlineFacebookSvg,
-        "jsxString": "`<IsOutlineFacebook />`"
+        "jsxString": "<IsOutlineFacebook />"
       },
       {
         "name": "outline-fatrows",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFatrows,
         "svgString": IsOutlineFatrowsSvg,
-        "jsxString": "`<IsOutlineFatrows />`"
+        "jsxString": "<IsOutlineFatrows />"
       },
       {
         "name": "outline-favorite-chart",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFavoriteChart,
         "svgString": IsOutlineFavoriteChartSvg,
-        "jsxString": "`<IsOutlineFavoriteChart />`"
+        "jsxString": "<IsOutlineFavoriteChart />"
       },
       {
         "name": "outline-figma",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFigma,
         "svgString": IsOutlineFigmaSvg,
-        "jsxString": "`<IsOutlineFigma />`"
+        "jsxString": "<IsOutlineFigma />"
       },
       {
         "name": "outline-figma1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFigma1,
         "svgString": IsOutlineFigma1Svg,
-        "jsxString": "`<IsOutlineFigma1 />`"
+        "jsxString": "<IsOutlineFigma1 />"
       },
       {
         "name": "outline-filter",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFilter,
         "svgString": IsOutlineFilterSvg,
-        "jsxString": "`<IsOutlineFilter />`"
+        "jsxString": "<IsOutlineFilter />"
       },
       {
         "name": "outline-filter-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFilterAdd,
         "svgString": IsOutlineFilterAddSvg,
-        "jsxString": "`<IsOutlineFilterAdd />`"
+        "jsxString": "<IsOutlineFilterAdd />"
       },
       {
         "name": "outline-filter-edit",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFilterEdit,
         "svgString": IsOutlineFilterEditSvg,
-        "jsxString": "`<IsOutlineFilterEdit />`"
+        "jsxString": "<IsOutlineFilterEdit />"
       },
       {
         "name": "outline-filter-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFilterRemove,
         "svgString": IsOutlineFilterRemoveSvg,
-        "jsxString": "`<IsOutlineFilterRemove />`"
+        "jsxString": "<IsOutlineFilterRemove />"
       },
       {
         "name": "outline-filter-search",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFilterSearch,
         "svgString": IsOutlineFilterSearchSvg,
-        "jsxString": "`<IsOutlineFilterSearch />`"
+        "jsxString": "<IsOutlineFilterSearch />"
       },
       {
         "name": "outline-filter-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFilterSquare,
         "svgString": IsOutlineFilterSquareSvg,
-        "jsxString": "`<IsOutlineFilterSquare />`"
+        "jsxString": "<IsOutlineFilterSquare />"
       },
       {
         "name": "outline-filter-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFilterTick,
         "svgString": IsOutlineFilterTickSvg,
-        "jsxString": "`<IsOutlineFilterTick />`"
+        "jsxString": "<IsOutlineFilterTick />"
       },
       {
         "name": "outline-finger-cricle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFingerCricle,
         "svgString": IsOutlineFingerCricleSvg,
-        "jsxString": "`<IsOutlineFingerCricle />`"
+        "jsxString": "<IsOutlineFingerCricle />"
       },
       {
         "name": "outline-finger-scan",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFingerScan,
         "svgString": IsOutlineFingerScanSvg,
-        "jsxString": "`<IsOutlineFingerScan />`"
+        "jsxString": "<IsOutlineFingerScan />"
       },
       {
         "name": "outline-firstline",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFirstline,
         "svgString": IsOutlineFirstlineSvg,
-        "jsxString": "`<IsOutlineFirstline />`"
+        "jsxString": "<IsOutlineFirstline />"
       },
       {
         "name": "outline-flag",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFlag,
         "svgString": IsOutlineFlagSvg,
-        "jsxString": "`<IsOutlineFlag />`"
+        "jsxString": "<IsOutlineFlag />"
       },
       {
         "name": "outline-flag2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFlag2,
         "svgString": IsOutlineFlag2Svg,
-        "jsxString": "`<IsOutlineFlag2 />`"
+        "jsxString": "<IsOutlineFlag2 />"
       },
       {
         "name": "outline-flash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFlash,
         "svgString": IsOutlineFlashSvg,
-        "jsxString": "`<IsOutlineFlash />`"
+        "jsxString": "<IsOutlineFlash />"
       },
       {
         "name": "outline-flash-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFlashCircle,
         "svgString": IsOutlineFlashCircleSvg,
-        "jsxString": "`<IsOutlineFlashCircle />`"
+        "jsxString": "<IsOutlineFlashCircle />"
       },
       {
         "name": "outline-flash-circle1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFlashCircle1,
         "svgString": IsOutlineFlashCircle1Svg,
-        "jsxString": "`<IsOutlineFlashCircle1 />`"
+        "jsxString": "<IsOutlineFlashCircle1 />"
       },
       {
         "name": "outline-flash-circle2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFlashCircle2,
         "svgString": IsOutlineFlashCircle2Svg,
-        "jsxString": "`<IsOutlineFlashCircle2 />`"
+        "jsxString": "<IsOutlineFlashCircle2 />"
       },
       {
         "name": "outline-flash-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFlashSlash,
         "svgString": IsOutlineFlashSlashSvg,
-        "jsxString": "`<IsOutlineFlashSlash />`"
+        "jsxString": "<IsOutlineFlashSlash />"
       },
       {
         "name": "outline-flash1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFlash1,
         "svgString": IsOutlineFlash1Svg,
-        "jsxString": "`<IsOutlineFlash1 />`"
+        "jsxString": "<IsOutlineFlash1 />"
       },
       {
         "name": "outline-folder",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFolder,
         "svgString": IsOutlineFolderSvg,
-        "jsxString": "`<IsOutlineFolder />`"
+        "jsxString": "<IsOutlineFolder />"
       },
       {
         "name": "outline-folder-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFolderAdd,
         "svgString": IsOutlineFolderAddSvg,
-        "jsxString": "`<IsOutlineFolderAdd />`"
+        "jsxString": "<IsOutlineFolderAdd />"
       },
       {
         "name": "outline-folder-cloud",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFolderCloud,
         "svgString": IsOutlineFolderCloudSvg,
-        "jsxString": "`<IsOutlineFolderCloud />`"
+        "jsxString": "<IsOutlineFolderCloud />"
       },
       {
         "name": "outline-folder-connection",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFolderConnection,
         "svgString": IsOutlineFolderConnectionSvg,
-        "jsxString": "`<IsOutlineFolderConnection />`"
+        "jsxString": "<IsOutlineFolderConnection />"
       },
       {
         "name": "outline-folder-cross",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFolderCross,
         "svgString": IsOutlineFolderCrossSvg,
-        "jsxString": "`<IsOutlineFolderCross />`"
+        "jsxString": "<IsOutlineFolderCross />"
       },
       {
         "name": "outline-folder-favorite",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFolderFavorite,
         "svgString": IsOutlineFolderFavoriteSvg,
-        "jsxString": "`<IsOutlineFolderFavorite />`"
+        "jsxString": "<IsOutlineFolderFavorite />"
       },
       {
         "name": "outline-folder-minus",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFolderMinus,
         "svgString": IsOutlineFolderMinusSvg,
-        "jsxString": "`<IsOutlineFolderMinus />`"
+        "jsxString": "<IsOutlineFolderMinus />"
       },
       {
         "name": "outline-folder-open",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFolderOpen,
         "svgString": IsOutlineFolderOpenSvg,
-        "jsxString": "`<IsOutlineFolderOpen />`"
+        "jsxString": "<IsOutlineFolderOpen />"
       },
       {
         "name": "outline-folder2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFolder2,
         "svgString": IsOutlineFolder2Svg,
-        "jsxString": "`<IsOutlineFolder2 />`"
+        "jsxString": "<IsOutlineFolder2 />"
       },
       {
         "name": "outline-format-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFormatCircle,
         "svgString": IsOutlineFormatCircleSvg,
-        "jsxString": "`<IsOutlineFormatCircle />`"
+        "jsxString": "<IsOutlineFormatCircle />"
       },
       {
         "name": "outline-format-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFormatSquare,
         "svgString": IsOutlineFormatSquareSvg,
-        "jsxString": "`<IsOutlineFormatSquare />`"
+        "jsxString": "<IsOutlineFormatSquare />"
       },
       {
         "name": "outline-forward",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineForward,
         "svgString": IsOutlineForwardSvg,
-        "jsxString": "`<IsOutlineForward />`"
+        "jsxString": "<IsOutlineForward />"
       },
       {
         "name": "outline-forward-item",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineForwardItem,
         "svgString": IsOutlineForwardItemSvg,
-        "jsxString": "`<IsOutlineForwardItem />`"
+        "jsxString": "<IsOutlineForwardItem />"
       },
       {
         "name": "outline-forward-item1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineForwardItem1,
         "svgString": IsOutlineForwardItem1Svg,
-        "jsxString": "`<IsOutlineForwardItem1 />`"
+        "jsxString": "<IsOutlineForwardItem1 />"
       },
       {
         "name": "outline-forward-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineForwardSquare,
         "svgString": IsOutlineForwardSquareSvg,
-        "jsxString": "`<IsOutlineForwardSquare />`"
+        "jsxString": "<IsOutlineForwardSquare />"
       },
       {
         "name": "outline-forward10-seconds",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineForward10Seconds,
         "svgString": IsOutlineForward10SecondsSvg,
-        "jsxString": "`<IsOutlineForward10Seconds />`"
+        "jsxString": "<IsOutlineForward10Seconds />"
       },
       {
         "name": "outline-forward15-seconds",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineForward15Seconds,
         "svgString": IsOutlineForward15SecondsSvg,
-        "jsxString": "`<IsOutlineForward15Seconds />`"
+        "jsxString": "<IsOutlineForward15Seconds />"
       },
       {
         "name": "outline-forward5-seconds",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineForward5Seconds,
         "svgString": IsOutlineForward5SecondsSvg,
-        "jsxString": "`<IsOutlineForward5Seconds />`"
+        "jsxString": "<IsOutlineForward5Seconds />"
       },
       {
         "name": "outline-frame",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFrame,
         "svgString": IsOutlineFrameSvg,
-        "jsxString": "`<IsOutlineFrame />`"
+        "jsxString": "<IsOutlineFrame />"
       },
       {
         "name": "outline-frame1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFrame1,
         "svgString": IsOutlineFrame1Svg,
-        "jsxString": "`<IsOutlineFrame1 />`"
+        "jsxString": "<IsOutlineFrame1 />"
       },
       {
         "name": "outline-frame2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFrame2,
         "svgString": IsOutlineFrame2Svg,
-        "jsxString": "`<IsOutlineFrame2 />`"
+        "jsxString": "<IsOutlineFrame2 />"
       },
       {
         "name": "outline-frame3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFrame3,
         "svgString": IsOutlineFrame3Svg,
-        "jsxString": "`<IsOutlineFrame3 />`"
+        "jsxString": "<IsOutlineFrame3 />"
       },
       {
         "name": "outline-frame4",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFrame4,
         "svgString": IsOutlineFrame4Svg,
-        "jsxString": "`<IsOutlineFrame4 />`"
+        "jsxString": "<IsOutlineFrame4 />"
       },
       {
         "name": "outline-frame5",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFrame5,
         "svgString": IsOutlineFrame5Svg,
-        "jsxString": "`<IsOutlineFrame5 />`"
+        "jsxString": "<IsOutlineFrame5 />"
       },
       {
         "name": "outline-frame6",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFrame6,
         "svgString": IsOutlineFrame6Svg,
-        "jsxString": "`<IsOutlineFrame6 />`"
+        "jsxString": "<IsOutlineFrame6 />"
       },
       {
         "name": "outline-frame7",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFrame7,
         "svgString": IsOutlineFrame7Svg,
-        "jsxString": "`<IsOutlineFrame7 />`"
+        "jsxString": "<IsOutlineFrame7 />"
       },
       {
         "name": "outline-framer",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFramer,
         "svgString": IsOutlineFramerSvg,
-        "jsxString": "`<IsOutlineFramer />`"
+        "jsxString": "<IsOutlineFramer />"
       },
       {
         "name": "outline-ftx-token",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineFtxToken,
         "svgString": IsOutlineFtxTokenSvg,
-        "jsxString": "`<IsOutlineFtxToken />`"
+        "jsxString": "<IsOutlineFtxToken />"
       },
       {
         "name": "outline-gallery",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGallery,
         "svgString": IsOutlineGallerySvg,
-        "jsxString": "`<IsOutlineGallery />`"
+        "jsxString": "<IsOutlineGallery />"
       },
       {
         "name": "outline-gallery-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGalleryAdd,
         "svgString": IsOutlineGalleryAddSvg,
-        "jsxString": "`<IsOutlineGalleryAdd />`"
+        "jsxString": "<IsOutlineGalleryAdd />"
       },
       {
         "name": "outline-gallery-edit",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGalleryEdit,
         "svgString": IsOutlineGalleryEditSvg,
-        "jsxString": "`<IsOutlineGalleryEdit />`"
+        "jsxString": "<IsOutlineGalleryEdit />"
       },
       {
         "name": "outline-gallery-export",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGalleryExport,
         "svgString": IsOutlineGalleryExportSvg,
-        "jsxString": "`<IsOutlineGalleryExport />`"
+        "jsxString": "<IsOutlineGalleryExport />"
       },
       {
         "name": "outline-gallery-favorite",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGalleryFavorite,
         "svgString": IsOutlineGalleryFavoriteSvg,
-        "jsxString": "`<IsOutlineGalleryFavorite />`"
+        "jsxString": "<IsOutlineGalleryFavorite />"
       },
       {
         "name": "outline-gallery-import",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGalleryImport,
         "svgString": IsOutlineGalleryImportSvg,
-        "jsxString": "`<IsOutlineGalleryImport />`"
+        "jsxString": "<IsOutlineGalleryImport />"
       },
       {
         "name": "outline-gallery-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGalleryRemove,
         "svgString": IsOutlineGalleryRemoveSvg,
-        "jsxString": "`<IsOutlineGalleryRemove />`"
+        "jsxString": "<IsOutlineGalleryRemove />"
       },
       {
         "name": "outline-gallery-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGallerySlash,
         "svgString": IsOutlineGallerySlashSvg,
-        "jsxString": "`<IsOutlineGallerySlash />`"
+        "jsxString": "<IsOutlineGallerySlash />"
       },
       {
         "name": "outline-gallery-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGalleryTick,
         "svgString": IsOutlineGalleryTickSvg,
-        "jsxString": "`<IsOutlineGalleryTick />`"
+        "jsxString": "<IsOutlineGalleryTick />"
       },
       {
         "name": "outline-game",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGame,
         "svgString": IsOutlineGameSvg,
-        "jsxString": "`<IsOutlineGame />`"
+        "jsxString": "<IsOutlineGame />"
       },
       {
         "name": "outline-gameboy",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGameboy,
         "svgString": IsOutlineGameboySvg,
-        "jsxString": "`<IsOutlineGameboy />`"
+        "jsxString": "<IsOutlineGameboy />"
       },
       {
         "name": "outline-gas-station",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGasStation,
         "svgString": IsOutlineGasStationSvg,
-        "jsxString": "`<IsOutlineGasStation />`"
+        "jsxString": "<IsOutlineGasStation />"
       },
       {
         "name": "outline-gemini",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGemini,
         "svgString": IsOutlineGeminiSvg,
-        "jsxString": "`<IsOutlineGemini />`"
+        "jsxString": "<IsOutlineGemini />"
       },
       {
         "name": "outline-gemini2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGemini2,
         "svgString": IsOutlineGemini2Svg,
-        "jsxString": "`<IsOutlineGemini2 />`"
+        "jsxString": "<IsOutlineGemini2 />"
       },
       {
         "name": "outline-ghost",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGhost,
         "svgString": IsOutlineGhostSvg,
-        "jsxString": "`<IsOutlineGhost />`"
+        "jsxString": "<IsOutlineGhost />"
       },
       {
         "name": "outline-gift",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGift,
         "svgString": IsOutlineGiftSvg,
-        "jsxString": "`<IsOutlineGift />`"
+        "jsxString": "<IsOutlineGift />"
       },
       {
         "name": "outline-glass",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGlass,
         "svgString": IsOutlineGlassSvg,
-        "jsxString": "`<IsOutlineGlass />`"
+        "jsxString": "<IsOutlineGlass />"
       },
       {
         "name": "outline-glass1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGlass1,
         "svgString": IsOutlineGlass1Svg,
-        "jsxString": "`<IsOutlineGlass1 />`"
+        "jsxString": "<IsOutlineGlass1 />"
       },
       {
         "name": "outline-global",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGlobal,
         "svgString": IsOutlineGlobalSvg,
-        "jsxString": "`<IsOutlineGlobal />`"
+        "jsxString": "<IsOutlineGlobal />"
       },
       {
         "name": "outline-global-edit",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGlobalEdit,
         "svgString": IsOutlineGlobalEditSvg,
-        "jsxString": "`<IsOutlineGlobalEdit />`"
+        "jsxString": "<IsOutlineGlobalEdit />"
       },
       {
         "name": "outline-global-refresh",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGlobalRefresh,
         "svgString": IsOutlineGlobalRefreshSvg,
-        "jsxString": "`<IsOutlineGlobalRefresh />`"
+        "jsxString": "<IsOutlineGlobalRefresh />"
       },
       {
         "name": "outline-global-search",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGlobalSearch,
         "svgString": IsOutlineGlobalSearchSvg,
-        "jsxString": "`<IsOutlineGlobalSearch />`"
+        "jsxString": "<IsOutlineGlobalSearch />"
       },
       {
         "name": "outline-google",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGoogle,
         "svgString": IsOutlineGoogleSvg,
-        "jsxString": "`<IsOutlineGoogle />`"
+        "jsxString": "<IsOutlineGoogle />"
       },
       {
         "name": "outline-google-play",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGooglePlay,
         "svgString": IsOutlineGooglePlaySvg,
-        "jsxString": "`<IsOutlineGooglePlay />`"
+        "jsxString": "<IsOutlineGooglePlay />"
       },
       {
         "name": "outline-google1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGoogle1,
         "svgString": IsOutlineGoogle1Svg,
-        "jsxString": "`<IsOutlineGoogle1 />`"
+        "jsxString": "<IsOutlineGoogle1 />"
       },
       {
         "name": "outline-gps",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGps,
         "svgString": IsOutlineGpsSvg,
-        "jsxString": "`<IsOutlineGps />`"
+        "jsxString": "<IsOutlineGps />"
       },
       {
         "name": "outline-gps-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGpsSlash,
         "svgString": IsOutlineGpsSlashSvg,
-        "jsxString": "`<IsOutlineGpsSlash />`"
+        "jsxString": "<IsOutlineGpsSlash />"
       },
       {
         "name": "outline-grammerly",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGrammerly,
         "svgString": IsOutlineGrammerlySvg,
-        "jsxString": "`<IsOutlineGrammerly />`"
+        "jsxString": "<IsOutlineGrammerly />"
       },
       {
         "name": "outline-graph",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGraph,
         "svgString": IsOutlineGraphSvg,
-        "jsxString": "`<IsOutlineGraph />`"
+        "jsxString": "<IsOutlineGraph />"
       },
       {
         "name": "outline-grid-edit",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGridEdit,
         "svgString": IsOutlineGridEditSvg,
-        "jsxString": "`<IsOutlineGridEdit />`"
+        "jsxString": "<IsOutlineGridEdit />"
       },
       {
         "name": "outline-grid-eraser",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGridEraser,
         "svgString": IsOutlineGridEraserSvg,
-        "jsxString": "`<IsOutlineGridEraser />`"
+        "jsxString": "<IsOutlineGridEraser />"
       },
       {
         "name": "outline-grid-lock",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGridLock,
         "svgString": IsOutlineGridLockSvg,
-        "jsxString": "`<IsOutlineGridLock />`"
+        "jsxString": "<IsOutlineGridLock />"
       },
       {
         "name": "outline-grid1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGrid1,
         "svgString": IsOutlineGrid1Svg,
-        "jsxString": "`<IsOutlineGrid1 />`"
+        "jsxString": "<IsOutlineGrid1 />"
       },
       {
         "name": "outline-grid2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGrid2,
         "svgString": IsOutlineGrid2Svg,
-        "jsxString": "`<IsOutlineGrid2 />`"
+        "jsxString": "<IsOutlineGrid2 />"
       },
       {
         "name": "outline-grid3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGrid3,
         "svgString": IsOutlineGrid3Svg,
-        "jsxString": "`<IsOutlineGrid3 />`"
+        "jsxString": "<IsOutlineGrid3 />"
       },
       {
         "name": "outline-grid4",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGrid4,
         "svgString": IsOutlineGrid4Svg,
-        "jsxString": "`<IsOutlineGrid4 />`"
+        "jsxString": "<IsOutlineGrid4 />"
       },
       {
         "name": "outline-grid5",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGrid5,
         "svgString": IsOutlineGrid5Svg,
-        "jsxString": "`<IsOutlineGrid5 />`"
+        "jsxString": "<IsOutlineGrid5 />"
       },
       {
         "name": "outline-grid6",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGrid6,
         "svgString": IsOutlineGrid6Svg,
-        "jsxString": "`<IsOutlineGrid6 />`"
+        "jsxString": "<IsOutlineGrid6 />"
       },
       {
         "name": "outline-grid7",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGrid7,
         "svgString": IsOutlineGrid7Svg,
-        "jsxString": "`<IsOutlineGrid7 />`"
+        "jsxString": "<IsOutlineGrid7 />"
       },
       {
         "name": "outline-grid8",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGrid8,
         "svgString": IsOutlineGrid8Svg,
-        "jsxString": "`<IsOutlineGrid8 />`"
+        "jsxString": "<IsOutlineGrid8 />"
       },
       {
         "name": "outline-grid9",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGrid9,
         "svgString": IsOutlineGrid9Svg,
-        "jsxString": "`<IsOutlineGrid9 />`"
+        "jsxString": "<IsOutlineGrid9 />"
       },
       {
         "name": "outline-group",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGroup,
         "svgString": IsOutlineGroupSvg,
-        "jsxString": "`<IsOutlineGroup />`"
+        "jsxString": "<IsOutlineGroup />"
       },
       {
         "name": "outline-group1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGroup1,
         "svgString": IsOutlineGroup1Svg,
-        "jsxString": "`<IsOutlineGroup1 />`"
+        "jsxString": "<IsOutlineGroup1 />"
       },
       {
         "name": "outline-group10",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGroup10,
         "svgString": IsOutlineGroup10Svg,
-        "jsxString": "`<IsOutlineGroup10 />`"
+        "jsxString": "<IsOutlineGroup10 />"
       },
       {
         "name": "outline-group11",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGroup11,
         "svgString": IsOutlineGroup11Svg,
-        "jsxString": "`<IsOutlineGroup11 />`"
+        "jsxString": "<IsOutlineGroup11 />"
       },
       {
         "name": "outline-group2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGroup2,
         "svgString": IsOutlineGroup2Svg,
-        "jsxString": "`<IsOutlineGroup2 />`"
+        "jsxString": "<IsOutlineGroup2 />"
       },
       {
         "name": "outline-group3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGroup3,
         "svgString": IsOutlineGroup3Svg,
-        "jsxString": "`<IsOutlineGroup3 />`"
+        "jsxString": "<IsOutlineGroup3 />"
       },
       {
         "name": "outline-group4",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGroup4,
         "svgString": IsOutlineGroup4Svg,
-        "jsxString": "`<IsOutlineGroup4 />`"
+        "jsxString": "<IsOutlineGroup4 />"
       },
       {
         "name": "outline-group5",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGroup5,
         "svgString": IsOutlineGroup5Svg,
-        "jsxString": "`<IsOutlineGroup5 />`"
+        "jsxString": "<IsOutlineGroup5 />"
       },
       {
         "name": "outline-group6",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGroup6,
         "svgString": IsOutlineGroup6Svg,
-        "jsxString": "`<IsOutlineGroup6 />`"
+        "jsxString": "<IsOutlineGroup6 />"
       },
       {
         "name": "outline-group7",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGroup7,
         "svgString": IsOutlineGroup7Svg,
-        "jsxString": "`<IsOutlineGroup7 />`"
+        "jsxString": "<IsOutlineGroup7 />"
       },
       {
         "name": "outline-group8",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGroup8,
         "svgString": IsOutlineGroup8Svg,
-        "jsxString": "`<IsOutlineGroup8 />`"
+        "jsxString": "<IsOutlineGroup8 />"
       },
       {
         "name": "outline-group9",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineGroup9,
         "svgString": IsOutlineGroup9Svg,
-        "jsxString": "`<IsOutlineGroup9 />`"
+        "jsxString": "<IsOutlineGroup9 />"
       },
       {
         "name": "outline-happyemoji",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHappyemoji,
         "svgString": IsOutlineHappyemojiSvg,
-        "jsxString": "`<IsOutlineHappyemoji />`"
+        "jsxString": "<IsOutlineHappyemoji />"
       },
       {
         "name": "outline-harmony",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHarmony,
         "svgString": IsOutlineHarmonySvg,
-        "jsxString": "`<IsOutlineHarmony />`"
+        "jsxString": "<IsOutlineHarmony />"
       },
       {
         "name": "outline-hashtag",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHashtag,
         "svgString": IsOutlineHashtagSvg,
-        "jsxString": "`<IsOutlineHashtag />`"
+        "jsxString": "<IsOutlineHashtag />"
       },
       {
         "name": "outline-hashtag-down",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHashtagDown,
         "svgString": IsOutlineHashtagDownSvg,
-        "jsxString": "`<IsOutlineHashtagDown />`"
+        "jsxString": "<IsOutlineHashtagDown />"
       },
       {
         "name": "outline-hashtag-up",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHashtagUp,
         "svgString": IsOutlineHashtagUpSvg,
-        "jsxString": "`<IsOutlineHashtagUp />`"
+        "jsxString": "<IsOutlineHashtagUp />"
       },
       {
         "name": "outline-hashtag1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHashtag1,
         "svgString": IsOutlineHashtag1Svg,
-        "jsxString": "`<IsOutlineHashtag1 />`"
+        "jsxString": "<IsOutlineHashtag1 />"
       },
       {
         "name": "outline-headphone",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHeadphone,
         "svgString": IsOutlineHeadphoneSvg,
-        "jsxString": "`<IsOutlineHeadphone />`"
+        "jsxString": "<IsOutlineHeadphone />"
       },
       {
         "name": "outline-headphones",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHeadphones,
         "svgString": IsOutlineHeadphonesSvg,
-        "jsxString": "`<IsOutlineHeadphones />`"
+        "jsxString": "<IsOutlineHeadphones />"
       },
       {
         "name": "outline-health",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHealth,
         "svgString": IsOutlineHealthSvg,
-        "jsxString": "`<IsOutlineHealth />`"
+        "jsxString": "<IsOutlineHealth />"
       },
       {
         "name": "outline-heart",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHeart,
         "svgString": IsOutlineHeartSvg,
-        "jsxString": "`<IsOutlineHeart />`"
+        "jsxString": "<IsOutlineHeart />"
       },
       {
         "name": "outline-heart-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHeartAdd,
         "svgString": IsOutlineHeartAddSvg,
-        "jsxString": "`<IsOutlineHeartAdd />`"
+        "jsxString": "<IsOutlineHeartAdd />"
       },
       {
         "name": "outline-heart-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHeartCircle,
         "svgString": IsOutlineHeartCircleSvg,
-        "jsxString": "`<IsOutlineHeartCircle />`"
+        "jsxString": "<IsOutlineHeartCircle />"
       },
       {
         "name": "outline-heart-edit",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHeartEdit,
         "svgString": IsOutlineHeartEditSvg,
-        "jsxString": "`<IsOutlineHeartEdit />`"
+        "jsxString": "<IsOutlineHeartEdit />"
       },
       {
         "name": "outline-heart-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHeartRemove,
         "svgString": IsOutlineHeartRemoveSvg,
-        "jsxString": "`<IsOutlineHeartRemove />`"
+        "jsxString": "<IsOutlineHeartRemove />"
       },
       {
         "name": "outline-heart-search",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHeartSearch,
         "svgString": IsOutlineHeartSearchSvg,
-        "jsxString": "`<IsOutlineHeartSearch />`"
+        "jsxString": "<IsOutlineHeartSearch />"
       },
       {
         "name": "outline-heart-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHeartSlash,
         "svgString": IsOutlineHeartSlashSvg,
-        "jsxString": "`<IsOutlineHeartSlash />`"
+        "jsxString": "<IsOutlineHeartSlash />"
       },
       {
         "name": "outline-heart-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHeartTick,
         "svgString": IsOutlineHeartTickSvg,
-        "jsxString": "`<IsOutlineHeartTick />`"
+        "jsxString": "<IsOutlineHeartTick />"
       },
       {
         "name": "outline-hedera-hashgraph",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHederaHashgraph,
         "svgString": IsOutlineHederaHashgraphSvg,
-        "jsxString": "`<IsOutlineHederaHashgraph />`"
+        "jsxString": "<IsOutlineHederaHashgraph />"
       },
       {
         "name": "outline-hex",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHex,
         "svgString": IsOutlineHexSvg,
-        "jsxString": "`<IsOutlineHex />`"
+        "jsxString": "<IsOutlineHex />"
       },
       {
         "name": "outline-hierarchy",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHierarchy,
         "svgString": IsOutlineHierarchySvg,
-        "jsxString": "`<IsOutlineHierarchy />`"
+        "jsxString": "<IsOutlineHierarchy />"
       },
       {
         "name": "outline-hierarchy-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHierarchySquare,
         "svgString": IsOutlineHierarchySquareSvg,
-        "jsxString": "`<IsOutlineHierarchySquare />`"
+        "jsxString": "<IsOutlineHierarchySquare />"
       },
       {
         "name": "outline-hierarchy-square2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHierarchySquare2,
         "svgString": IsOutlineHierarchySquare2Svg,
-        "jsxString": "`<IsOutlineHierarchySquare2 />`"
+        "jsxString": "<IsOutlineHierarchySquare2 />"
       },
       {
         "name": "outline-hierarchy-square3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHierarchySquare3,
         "svgString": IsOutlineHierarchySquare3Svg,
-        "jsxString": "`<IsOutlineHierarchySquare3 />`"
+        "jsxString": "<IsOutlineHierarchySquare3 />"
       },
       {
         "name": "outline-hierarchy2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHierarchy2,
         "svgString": IsOutlineHierarchy2Svg,
-        "jsxString": "`<IsOutlineHierarchy2 />`"
+        "jsxString": "<IsOutlineHierarchy2 />"
       },
       {
         "name": "outline-hierarchy3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHierarchy3,
         "svgString": IsOutlineHierarchy3Svg,
-        "jsxString": "`<IsOutlineHierarchy3 />`"
+        "jsxString": "<IsOutlineHierarchy3 />"
       },
       {
         "name": "outline-home",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHome,
         "svgString": IsOutlineHomeSvg,
-        "jsxString": "`<IsOutlineHome />`"
+        "jsxString": "<IsOutlineHome />"
       },
       {
         "name": "outline-home-hashtag",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHomeHashtag,
         "svgString": IsOutlineHomeHashtagSvg,
-        "jsxString": "`<IsOutlineHomeHashtag />`"
+        "jsxString": "<IsOutlineHomeHashtag />"
       },
       {
         "name": "outline-home-trend-down",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHomeTrendDown,
         "svgString": IsOutlineHomeTrendDownSvg,
-        "jsxString": "`<IsOutlineHomeTrendDown />`"
+        "jsxString": "<IsOutlineHomeTrendDown />"
       },
       {
         "name": "outline-home-trend-up",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHomeTrendUp,
         "svgString": IsOutlineHomeTrendUpSvg,
-        "jsxString": "`<IsOutlineHomeTrendUp />`"
+        "jsxString": "<IsOutlineHomeTrendUp />"
       },
       {
         "name": "outline-home-wifi",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHomeWifi,
         "svgString": IsOutlineHomeWifiSvg,
-        "jsxString": "`<IsOutlineHomeWifi />`"
+        "jsxString": "<IsOutlineHomeWifi />"
       },
       {
         "name": "outline-home2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHome2,
         "svgString": IsOutlineHome2Svg,
-        "jsxString": "`<IsOutlineHome2 />`"
+        "jsxString": "<IsOutlineHome2 />"
       },
       {
         "name": "outline-hospital",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHospital,
         "svgString": IsOutlineHospitalSvg,
-        "jsxString": "`<IsOutlineHospital />`"
+        "jsxString": "<IsOutlineHospital />"
       },
       {
         "name": "outline-house",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHouse,
         "svgString": IsOutlineHouseSvg,
-        "jsxString": "`<IsOutlineHouse />`"
+        "jsxString": "<IsOutlineHouse />"
       },
       {
         "name": "outline-house2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHouse2,
         "svgString": IsOutlineHouse2Svg,
-        "jsxString": "`<IsOutlineHouse2 />`"
+        "jsxString": "<IsOutlineHouse2 />"
       },
       {
         "name": "outline-html3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHtml3,
         "svgString": IsOutlineHtml3Svg,
-        "jsxString": "`<IsOutlineHtml3 />`"
+        "jsxString": "<IsOutlineHtml3 />"
       },
       {
         "name": "outline-html5",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHtml5,
         "svgString": IsOutlineHtml5Svg,
-        "jsxString": "`<IsOutlineHtml5 />`"
+        "jsxString": "<IsOutlineHtml5 />"
       },
       {
         "name": "outline-huobi-token",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineHuobiToken,
         "svgString": IsOutlineHuobiTokenSvg,
-        "jsxString": "`<IsOutlineHuobiToken />`"
+        "jsxString": "<IsOutlineHuobiToken />"
       },
       {
         "name": "outline-icon",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineIcon,
         "svgString": IsOutlineIconSvg,
-        "jsxString": "`<IsOutlineIcon />`"
+        "jsxString": "<IsOutlineIcon />"
       },
       {
         "name": "outline-illustrator",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineIllustrator,
         "svgString": IsOutlineIllustratorSvg,
-        "jsxString": "`<IsOutlineIllustrator />`"
+        "jsxString": "<IsOutlineIllustrator />"
       },
       {
         "name": "outline-image",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineImage,
         "svgString": IsOutlineImageSvg,
-        "jsxString": "`<IsOutlineImage />`"
+        "jsxString": "<IsOutlineImage />"
       },
       {
         "name": "outline-import",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineImport,
         "svgString": IsOutlineImportSvg,
-        "jsxString": "`<IsOutlineImport />`"
+        "jsxString": "<IsOutlineImport />"
       },
       {
         "name": "outline-import1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineImport1,
         "svgString": IsOutlineImport1Svg,
-        "jsxString": "`<IsOutlineImport1 />`"
+        "jsxString": "<IsOutlineImport1 />"
       },
       {
         "name": "outline-import2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineImport2,
         "svgString": IsOutlineImport2Svg,
-        "jsxString": "`<IsOutlineImport2 />`"
+        "jsxString": "<IsOutlineImport2 />"
       },
       {
         "name": "outline-info-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineInfoCircle,
         "svgString": IsOutlineInfoCircleSvg,
-        "jsxString": "`<IsOutlineInfoCircle />`"
+        "jsxString": "<IsOutlineInfoCircle />"
       },
       {
         "name": "outline-information",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineInformation,
         "svgString": IsOutlineInformationSvg,
-        "jsxString": "`<IsOutlineInformation />`"
+        "jsxString": "<IsOutlineInformation />"
       },
       {
         "name": "outline-instagram",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineInstagram,
         "svgString": IsOutlineInstagramSvg,
-        "jsxString": "`<IsOutlineInstagram />`"
+        "jsxString": "<IsOutlineInstagram />"
       },
       {
         "name": "outline-iost",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineIost,
         "svgString": IsOutlineIostSvg,
-        "jsxString": "`<IsOutlineIost />`"
+        "jsxString": "<IsOutlineIost />"
       },
       {
         "name": "outline-java-script",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineJavaScript,
         "svgString": IsOutlineJavaScriptSvg,
-        "jsxString": "`<IsOutlineJavaScript />`"
+        "jsxString": "<IsOutlineJavaScript />"
       },
       {
         "name": "outline-js",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineJs,
         "svgString": IsOutlineJsSvg,
-        "jsxString": "`<IsOutlineJs />`"
+        "jsxString": "<IsOutlineJs />"
       },
       {
         "name": "outline-judge",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineJudge,
         "svgString": IsOutlineJudgeSvg,
-        "jsxString": "`<IsOutlineJudge />`"
+        "jsxString": "<IsOutlineJudge />"
       },
       {
         "name": "outline-kanban",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineKanban,
         "svgString": IsOutlineKanbanSvg,
-        "jsxString": "`<IsOutlineKanban />`"
+        "jsxString": "<IsOutlineKanban />"
       },
       {
         "name": "outline-key",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineKey,
         "svgString": IsOutlineKeySvg,
-        "jsxString": "`<IsOutlineKey />`"
+        "jsxString": "<IsOutlineKey />"
       },
       {
         "name": "outline-key-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineKeySquare,
         "svgString": IsOutlineKeySquareSvg,
-        "jsxString": "`<IsOutlineKeySquare />`"
+        "jsxString": "<IsOutlineKeySquare />"
       },
       {
         "name": "outline-keyboard",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineKeyboard,
         "svgString": IsOutlineKeyboardSvg,
-        "jsxString": "`<IsOutlineKeyboard />`"
+        "jsxString": "<IsOutlineKeyboard />"
       },
       {
         "name": "outline-keyboard-open",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineKeyboardOpen,
         "svgString": IsOutlineKeyboardOpenSvg,
-        "jsxString": "`<IsOutlineKeyboardOpen />`"
+        "jsxString": "<IsOutlineKeyboardOpen />"
       },
       {
         "name": "outline-kyber-network",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineKyberNetwork,
         "svgString": IsOutlineKyberNetworkSvg,
-        "jsxString": "`<IsOutlineKyberNetwork />`"
+        "jsxString": "<IsOutlineKyberNetwork />"
       },
       {
         "name": "outline-lamp",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLamp,
         "svgString": IsOutlineLampSvg,
-        "jsxString": "`<IsOutlineLamp />`"
+        "jsxString": "<IsOutlineLamp />"
       },
       {
         "name": "outline-lamp-charge",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLampCharge,
         "svgString": IsOutlineLampChargeSvg,
-        "jsxString": "`<IsOutlineLampCharge />`"
+        "jsxString": "<IsOutlineLampCharge />"
       },
       {
         "name": "outline-lamp-on",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLampOn,
         "svgString": IsOutlineLampOnSvg,
-        "jsxString": "`<IsOutlineLampOn />`"
+        "jsxString": "<IsOutlineLampOn />"
       },
       {
         "name": "outline-lamp-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLampSlash,
         "svgString": IsOutlineLampSlashSvg,
-        "jsxString": "`<IsOutlineLampSlash />`"
+        "jsxString": "<IsOutlineLampSlash />"
       },
       {
         "name": "outline-lamp1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLamp1,
         "svgString": IsOutlineLamp1Svg,
-        "jsxString": "`<IsOutlineLamp1 />`"
+        "jsxString": "<IsOutlineLamp1 />"
       },
       {
         "name": "outline-language-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLanguageCircle,
         "svgString": IsOutlineLanguageCircleSvg,
-        "jsxString": "`<IsOutlineLanguageCircle />`"
+        "jsxString": "<IsOutlineLanguageCircle />"
       },
       {
         "name": "outline-language-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLanguageSquare,
         "svgString": IsOutlineLanguageSquareSvg,
-        "jsxString": "`<IsOutlineLanguageSquare />`"
+        "jsxString": "<IsOutlineLanguageSquare />"
       },
       {
         "name": "outline-layer",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLayer,
         "svgString": IsOutlineLayerSvg,
-        "jsxString": "`<IsOutlineLayer />`"
+        "jsxString": "<IsOutlineLayer />"
       },
       {
         "name": "outline-level",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLevel,
         "svgString": IsOutlineLevelSvg,
-        "jsxString": "`<IsOutlineLevel />`"
+        "jsxString": "<IsOutlineLevel />"
       },
       {
         "name": "outline-lifebuoy",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLifebuoy,
         "svgString": IsOutlineLifebuoySvg,
-        "jsxString": "`<IsOutlineLifebuoy />`"
+        "jsxString": "<IsOutlineLifebuoy />"
       },
       {
         "name": "outline-like",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLike,
         "svgString": IsOutlineLikeSvg,
-        "jsxString": "`<IsOutlineLike />`"
+        "jsxString": "<IsOutlineLike />"
       },
       {
         "name": "outline-like-dislike",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLikeDislike,
         "svgString": IsOutlineLikeDislikeSvg,
-        "jsxString": "`<IsOutlineLikeDislike />`"
+        "jsxString": "<IsOutlineLikeDislike />"
       },
       {
         "name": "outline-like-shapes",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLikeShapes,
         "svgString": IsOutlineLikeShapesSvg,
-        "jsxString": "`<IsOutlineLikeShapes />`"
+        "jsxString": "<IsOutlineLikeShapes />"
       },
       {
         "name": "outline-like-tag",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLikeTag,
         "svgString": IsOutlineLikeTagSvg,
-        "jsxString": "`<IsOutlineLikeTag />`"
+        "jsxString": "<IsOutlineLikeTag />"
       },
       {
         "name": "outline-like1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLike1,
         "svgString": IsOutlineLike1Svg,
-        "jsxString": "`<IsOutlineLike1 />`"
+        "jsxString": "<IsOutlineLike1 />"
       },
       {
         "name": "outline-link",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLink,
         "svgString": IsOutlineLinkSvg,
-        "jsxString": "`<IsOutlineLink />`"
+        "jsxString": "<IsOutlineLink />"
       },
       {
         "name": "outline-link-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLinkCircle,
         "svgString": IsOutlineLinkCircleSvg,
-        "jsxString": "`<IsOutlineLinkCircle />`"
+        "jsxString": "<IsOutlineLinkCircle />"
       },
       {
         "name": "outline-link-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLinkSquare,
         "svgString": IsOutlineLinkSquareSvg,
-        "jsxString": "`<IsOutlineLinkSquare />`"
+        "jsxString": "<IsOutlineLinkSquare />"
       },
       {
         "name": "outline-link1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLink1,
         "svgString": IsOutlineLink1Svg,
-        "jsxString": "`<IsOutlineLink1 />`"
+        "jsxString": "<IsOutlineLink1 />"
       },
       {
         "name": "outline-link2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLink2,
         "svgString": IsOutlineLink2Svg,
-        "jsxString": "`<IsOutlineLink2 />`"
+        "jsxString": "<IsOutlineLink2 />"
       },
       {
         "name": "outline-link21",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLink21,
         "svgString": IsOutlineLink21Svg,
-        "jsxString": "`<IsOutlineLink21 />`"
+        "jsxString": "<IsOutlineLink21 />"
       },
       {
         "name": "outline-litecoin",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLitecoin,
         "svgString": IsOutlineLitecoinSvg,
-        "jsxString": "`<IsOutlineLitecoin />`"
+        "jsxString": "<IsOutlineLitecoin />"
       },
       {
         "name": "outline-location",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLocation,
         "svgString": IsOutlineLocationSvg,
-        "jsxString": "`<IsOutlineLocation />`"
+        "jsxString": "<IsOutlineLocation />"
       },
       {
         "name": "outline-location-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLocationAdd,
         "svgString": IsOutlineLocationAddSvg,
-        "jsxString": "`<IsOutlineLocationAdd />`"
+        "jsxString": "<IsOutlineLocationAdd />"
       },
       {
         "name": "outline-location-cross",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLocationCross,
         "svgString": IsOutlineLocationCrossSvg,
-        "jsxString": "`<IsOutlineLocationCross />`"
+        "jsxString": "<IsOutlineLocationCross />"
       },
       {
         "name": "outline-location-minus",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLocationMinus,
         "svgString": IsOutlineLocationMinusSvg,
-        "jsxString": "`<IsOutlineLocationMinus />`"
+        "jsxString": "<IsOutlineLocationMinus />"
       },
       {
         "name": "outline-location-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLocationSlash,
         "svgString": IsOutlineLocationSlashSvg,
-        "jsxString": "`<IsOutlineLocationSlash />`"
+        "jsxString": "<IsOutlineLocationSlash />"
       },
       {
         "name": "outline-location-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLocationTick,
         "svgString": IsOutlineLocationTickSvg,
-        "jsxString": "`<IsOutlineLocationTick />`"
+        "jsxString": "<IsOutlineLocationTick />"
       },
       {
         "name": "outline-lock",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLock,
         "svgString": IsOutlineLockSvg,
-        "jsxString": "`<IsOutlineLock />`"
+        "jsxString": "<IsOutlineLock />"
       },
       {
         "name": "outline-lock-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLockCircle,
         "svgString": IsOutlineLockCircleSvg,
-        "jsxString": "`<IsOutlineLockCircle />`"
+        "jsxString": "<IsOutlineLockCircle />"
       },
       {
         "name": "outline-lock-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLockSlash,
         "svgString": IsOutlineLockSlashSvg,
-        "jsxString": "`<IsOutlineLockSlash />`"
+        "jsxString": "<IsOutlineLockSlash />"
       },
       {
         "name": "outline-lock1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLock1,
         "svgString": IsOutlineLock1Svg,
-        "jsxString": "`<IsOutlineLock1 />`"
+        "jsxString": "<IsOutlineLock1 />"
       },
       {
         "name": "outline-login",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLogin,
         "svgString": IsOutlineLoginSvg,
-        "jsxString": "`<IsOutlineLogin />`"
+        "jsxString": "<IsOutlineLogin />"
       },
       {
         "name": "outline-login1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLogin1,
         "svgString": IsOutlineLogin1Svg,
-        "jsxString": "`<IsOutlineLogin1 />`"
+        "jsxString": "<IsOutlineLogin1 />"
       },
       {
         "name": "outline-logout",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLogout,
         "svgString": IsOutlineLogoutSvg,
-        "jsxString": "`<IsOutlineLogout />`"
+        "jsxString": "<IsOutlineLogout />"
       },
       {
         "name": "outline-logout1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLogout1,
         "svgString": IsOutlineLogout1Svg,
-        "jsxString": "`<IsOutlineLogout1 />`"
+        "jsxString": "<IsOutlineLogout1 />"
       },
       {
         "name": "outline-lovely",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineLovely,
         "svgString": IsOutlineLovelySvg,
-        "jsxString": "`<IsOutlineLovely />`"
+        "jsxString": "<IsOutlineLovely />"
       },
       {
         "name": "outline-magic-star",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMagicStar,
         "svgString": IsOutlineMagicStarSvg,
-        "jsxString": "`<IsOutlineMagicStar />`"
+        "jsxString": "<IsOutlineMagicStar />"
       },
       {
         "name": "outline-magicpen",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMagicpen,
         "svgString": IsOutlineMagicpenSvg,
-        "jsxString": "`<IsOutlineMagicpen />`"
+        "jsxString": "<IsOutlineMagicpen />"
       },
       {
         "name": "outline-main-component",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMainComponent,
         "svgString": IsOutlineMainComponentSvg,
-        "jsxString": "`<IsOutlineMainComponent />`"
+        "jsxString": "<IsOutlineMainComponent />"
       },
       {
         "name": "outline-main-component1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMainComponent1,
         "svgString": IsOutlineMainComponent1Svg,
-        "jsxString": "`<IsOutlineMainComponent1 />`"
+        "jsxString": "<IsOutlineMainComponent1 />"
       },
       {
         "name": "outline-maker",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMaker,
         "svgString": IsOutlineMakerSvg,
-        "jsxString": "`<IsOutlineMaker />`"
+        "jsxString": "<IsOutlineMaker />"
       },
       {
         "name": "outline-man",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMan,
         "svgString": IsOutlineManSvg,
-        "jsxString": "`<IsOutlineMan />`"
+        "jsxString": "<IsOutlineMan />"
       },
       {
         "name": "outline-map",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMap,
         "svgString": IsOutlineMapSvg,
-        "jsxString": "`<IsOutlineMap />`"
+        "jsxString": "<IsOutlineMap />"
       },
       {
         "name": "outline-map1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMap1,
         "svgString": IsOutlineMap1Svg,
-        "jsxString": "`<IsOutlineMap1 />`"
+        "jsxString": "<IsOutlineMap1 />"
       },
       {
         "name": "outline-mask",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMask,
         "svgString": IsOutlineMaskSvg,
-        "jsxString": "`<IsOutlineMask />`"
+        "jsxString": "<IsOutlineMask />"
       },
       {
         "name": "outline-mask1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMask1,
         "svgString": IsOutlineMask1Svg,
-        "jsxString": "`<IsOutlineMask1 />`"
+        "jsxString": "<IsOutlineMask1 />"
       },
       {
         "name": "outline-mask2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMask2,
         "svgString": IsOutlineMask2Svg,
-        "jsxString": "`<IsOutlineMask2 />`"
+        "jsxString": "<IsOutlineMask2 />"
       },
       {
         "name": "outline-mask3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMask3,
         "svgString": IsOutlineMask3Svg,
-        "jsxString": "`<IsOutlineMask3 />`"
+        "jsxString": "<IsOutlineMask3 />"
       },
       {
         "name": "outline-math",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMath,
         "svgString": IsOutlineMathSvg,
-        "jsxString": "`<IsOutlineMath />`"
+        "jsxString": "<IsOutlineMath />"
       },
       {
         "name": "outline-maximize",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMaximize,
         "svgString": IsOutlineMaximizeSvg,
-        "jsxString": "`<IsOutlineMaximize />`"
+        "jsxString": "<IsOutlineMaximize />"
       },
       {
         "name": "outline-maximize-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMaximizeCircle,
         "svgString": IsOutlineMaximizeCircleSvg,
-        "jsxString": "`<IsOutlineMaximizeCircle />`"
+        "jsxString": "<IsOutlineMaximizeCircle />"
       },
       {
         "name": "outline-maximize1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMaximize1,
         "svgString": IsOutlineMaximize1Svg,
-        "jsxString": "`<IsOutlineMaximize1 />`"
+        "jsxString": "<IsOutlineMaximize1 />"
       },
       {
         "name": "outline-maximize2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMaximize2,
         "svgString": IsOutlineMaximize2Svg,
-        "jsxString": "`<IsOutlineMaximize2 />`"
+        "jsxString": "<IsOutlineMaximize2 />"
       },
       {
         "name": "outline-maximize21",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMaximize21,
         "svgString": IsOutlineMaximize21Svg,
-        "jsxString": "`<IsOutlineMaximize21 />`"
+        "jsxString": "<IsOutlineMaximize21 />"
       },
       {
         "name": "outline-maximize3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMaximize3,
         "svgString": IsOutlineMaximize3Svg,
-        "jsxString": "`<IsOutlineMaximize3 />`"
+        "jsxString": "<IsOutlineMaximize3 />"
       },
       {
         "name": "outline-maximize4",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMaximize4,
         "svgString": IsOutlineMaximize4Svg,
-        "jsxString": "`<IsOutlineMaximize4 />`"
+        "jsxString": "<IsOutlineMaximize4 />"
       },
       {
         "name": "outline-medal",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMedal,
         "svgString": IsOutlineMedalSvg,
-        "jsxString": "`<IsOutlineMedal />`"
+        "jsxString": "<IsOutlineMedal />"
       },
       {
         "name": "outline-medal-star",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMedalStar,
         "svgString": IsOutlineMedalStarSvg,
-        "jsxString": "`<IsOutlineMedalStar />`"
+        "jsxString": "<IsOutlineMedalStar />"
       },
       {
         "name": "outline-menu",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMenu,
         "svgString": IsOutlineMenuSvg,
-        "jsxString": "`<IsOutlineMenu />`"
+        "jsxString": "<IsOutlineMenu />"
       },
       {
         "name": "outline-menu-board",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMenuBoard,
         "svgString": IsOutlineMenuBoardSvg,
-        "jsxString": "`<IsOutlineMenuBoard />`"
+        "jsxString": "<IsOutlineMenuBoard />"
       },
       {
         "name": "outline-menu1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMenu1,
         "svgString": IsOutlineMenu1Svg,
-        "jsxString": "`<IsOutlineMenu1 />`"
+        "jsxString": "<IsOutlineMenu1 />"
       },
       {
         "name": "outline-message",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessage,
         "svgString": IsOutlineMessageSvg,
-        "jsxString": "`<IsOutlineMessage />`"
+        "jsxString": "<IsOutlineMessage />"
       },
       {
         "name": "outline-message-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageAdd,
         "svgString": IsOutlineMessageAddSvg,
-        "jsxString": "`<IsOutlineMessageAdd />`"
+        "jsxString": "<IsOutlineMessageAdd />"
       },
       {
         "name": "outline-message-add1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageAdd1,
         "svgString": IsOutlineMessageAdd1Svg,
-        "jsxString": "`<IsOutlineMessageAdd1 />`"
+        "jsxString": "<IsOutlineMessageAdd1 />"
       },
       {
         "name": "outline-message-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageCircle,
         "svgString": IsOutlineMessageCircleSvg,
-        "jsxString": "`<IsOutlineMessageCircle />`"
+        "jsxString": "<IsOutlineMessageCircle />"
       },
       {
         "name": "outline-message-edit",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageEdit,
         "svgString": IsOutlineMessageEditSvg,
-        "jsxString": "`<IsOutlineMessageEdit />`"
+        "jsxString": "<IsOutlineMessageEdit />"
       },
       {
         "name": "outline-message-favorite",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageFavorite,
         "svgString": IsOutlineMessageFavoriteSvg,
-        "jsxString": "`<IsOutlineMessageFavorite />`"
+        "jsxString": "<IsOutlineMessageFavorite />"
       },
       {
         "name": "outline-message-minus",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageMinus,
         "svgString": IsOutlineMessageMinusSvg,
-        "jsxString": "`<IsOutlineMessageMinus />`"
+        "jsxString": "<IsOutlineMessageMinus />"
       },
       {
         "name": "outline-message-notif",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageNotif,
         "svgString": IsOutlineMessageNotifSvg,
-        "jsxString": "`<IsOutlineMessageNotif />`"
+        "jsxString": "<IsOutlineMessageNotif />"
       },
       {
         "name": "outline-message-programming",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageProgramming,
         "svgString": IsOutlineMessageProgrammingSvg,
-        "jsxString": "`<IsOutlineMessageProgramming />`"
+        "jsxString": "<IsOutlineMessageProgramming />"
       },
       {
         "name": "outline-message-question",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageQuestion,
         "svgString": IsOutlineMessageQuestionSvg,
-        "jsxString": "`<IsOutlineMessageQuestion />`"
+        "jsxString": "<IsOutlineMessageQuestion />"
       },
       {
         "name": "outline-message-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageRemove,
         "svgString": IsOutlineMessageRemoveSvg,
-        "jsxString": "`<IsOutlineMessageRemove />`"
+        "jsxString": "<IsOutlineMessageRemove />"
       },
       {
         "name": "outline-message-search",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageSearch,
         "svgString": IsOutlineMessageSearchSvg,
-        "jsxString": "`<IsOutlineMessageSearch />`"
+        "jsxString": "<IsOutlineMessageSearch />"
       },
       {
         "name": "outline-message-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageSquare,
         "svgString": IsOutlineMessageSquareSvg,
-        "jsxString": "`<IsOutlineMessageSquare />`"
+        "jsxString": "<IsOutlineMessageSquare />"
       },
       {
         "name": "outline-message-text",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageText,
         "svgString": IsOutlineMessageTextSvg,
-        "jsxString": "`<IsOutlineMessageText />`"
+        "jsxString": "<IsOutlineMessageText />"
       },
       {
         "name": "outline-message-text1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageText1,
         "svgString": IsOutlineMessageText1Svg,
-        "jsxString": "`<IsOutlineMessageText1 />`"
+        "jsxString": "<IsOutlineMessageText1 />"
       },
       {
         "name": "outline-message-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageTick,
         "svgString": IsOutlineMessageTickSvg,
-        "jsxString": "`<IsOutlineMessageTick />`"
+        "jsxString": "<IsOutlineMessageTick />"
       },
       {
         "name": "outline-message-time",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessageTime,
         "svgString": IsOutlineMessageTimeSvg,
-        "jsxString": "`<IsOutlineMessageTime />`"
+        "jsxString": "<IsOutlineMessageTime />"
       },
       {
         "name": "outline-message2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessage2,
         "svgString": IsOutlineMessage2Svg,
-        "jsxString": "`<IsOutlineMessage2 />`"
+        "jsxString": "<IsOutlineMessage2 />"
       },
       {
         "name": "outline-messages",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessages,
         "svgString": IsOutlineMessagesSvg,
-        "jsxString": "`<IsOutlineMessages />`"
+        "jsxString": "<IsOutlineMessages />"
       },
       {
         "name": "outline-messages1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessages1,
         "svgString": IsOutlineMessages1Svg,
-        "jsxString": "`<IsOutlineMessages1 />`"
+        "jsxString": "<IsOutlineMessages1 />"
       },
       {
         "name": "outline-messages2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessages2,
         "svgString": IsOutlineMessages2Svg,
-        "jsxString": "`<IsOutlineMessages2 />`"
+        "jsxString": "<IsOutlineMessages2 />"
       },
       {
         "name": "outline-messages3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessages3,
         "svgString": IsOutlineMessages3Svg,
-        "jsxString": "`<IsOutlineMessages3 />`"
+        "jsxString": "<IsOutlineMessages3 />"
       },
       {
         "name": "outline-messenger",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMessenger,
         "svgString": IsOutlineMessengerSvg,
-        "jsxString": "`<IsOutlineMessenger />`"
+        "jsxString": "<IsOutlineMessenger />"
       },
       {
         "name": "outline-microphone",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMicrophone,
         "svgString": IsOutlineMicrophoneSvg,
-        "jsxString": "`<IsOutlineMicrophone />`"
+        "jsxString": "<IsOutlineMicrophone />"
       },
       {
         "name": "outline-microphone-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMicrophoneSlash,
         "svgString": IsOutlineMicrophoneSlashSvg,
-        "jsxString": "`<IsOutlineMicrophoneSlash />`"
+        "jsxString": "<IsOutlineMicrophoneSlash />"
       },
       {
         "name": "outline-microphone-slash1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMicrophoneSlash1,
         "svgString": IsOutlineMicrophoneSlash1Svg,
-        "jsxString": "`<IsOutlineMicrophoneSlash1 />`"
+        "jsxString": "<IsOutlineMicrophoneSlash1 />"
       },
       {
         "name": "outline-microphone2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMicrophone2,
         "svgString": IsOutlineMicrophone2Svg,
-        "jsxString": "`<IsOutlineMicrophone2 />`"
+        "jsxString": "<IsOutlineMicrophone2 />"
       },
       {
         "name": "outline-microscope",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMicroscope,
         "svgString": IsOutlineMicroscopeSvg,
-        "jsxString": "`<IsOutlineMicroscope />`"
+        "jsxString": "<IsOutlineMicroscope />"
       },
       {
         "name": "outline-milk",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMilk,
         "svgString": IsOutlineMilkSvg,
-        "jsxString": "`<IsOutlineMilk />`"
+        "jsxString": "<IsOutlineMilk />"
       },
       {
         "name": "outline-mini-music-sqaure",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMiniMusicSqaure,
         "svgString": IsOutlineMiniMusicSqaureSvg,
-        "jsxString": "`<IsOutlineMiniMusicSqaure />`"
+        "jsxString": "<IsOutlineMiniMusicSqaure />"
       },
       {
         "name": "outline-minus",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMinus,
         "svgString": IsOutlineMinusSvg,
-        "jsxString": "`<IsOutlineMinus />`"
+        "jsxString": "<IsOutlineMinus />"
       },
       {
         "name": "outline-minus-cirlce",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMinusCirlce,
         "svgString": IsOutlineMinusCirlceSvg,
-        "jsxString": "`<IsOutlineMinusCirlce />`"
+        "jsxString": "<IsOutlineMinusCirlce />"
       },
       {
         "name": "outline-minus-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMinusSquare,
         "svgString": IsOutlineMinusSquareSvg,
-        "jsxString": "`<IsOutlineMinusSquare />`"
+        "jsxString": "<IsOutlineMinusSquare />"
       },
       {
         "name": "outline-mirror",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMirror,
         "svgString": IsOutlineMirrorSvg,
-        "jsxString": "`<IsOutlineMirror />`"
+        "jsxString": "<IsOutlineMirror />"
       },
       {
         "name": "outline-mirroring-screen",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMirroringScreen,
         "svgString": IsOutlineMirroringScreenSvg,
-        "jsxString": "`<IsOutlineMirroringScreen />`"
+        "jsxString": "<IsOutlineMirroringScreen />"
       },
       {
         "name": "outline-mobile",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMobile,
         "svgString": IsOutlineMobileSvg,
-        "jsxString": "`<IsOutlineMobile />`"
+        "jsxString": "<IsOutlineMobile />"
       },
       {
         "name": "outline-mobile-programming",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMobileProgramming,
         "svgString": IsOutlineMobileProgrammingSvg,
-        "jsxString": "`<IsOutlineMobileProgramming />`"
+        "jsxString": "<IsOutlineMobileProgramming />"
       },
       {
         "name": "outline-monero",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMonero,
         "svgString": IsOutlineMoneroSvg,
-        "jsxString": "`<IsOutlineMonero />`"
+        "jsxString": "<IsOutlineMonero />"
       },
       {
         "name": "outline-money",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoney,
         "svgString": IsOutlineMoneySvg,
-        "jsxString": "`<IsOutlineMoney />`"
+        "jsxString": "<IsOutlineMoney />"
       },
       {
         "name": "outline-money-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoneyAdd,
         "svgString": IsOutlineMoneyAddSvg,
-        "jsxString": "`<IsOutlineMoneyAdd />`"
+        "jsxString": "<IsOutlineMoneyAdd />"
       },
       {
         "name": "outline-money-change",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoneyChange,
         "svgString": IsOutlineMoneyChangeSvg,
-        "jsxString": "`<IsOutlineMoneyChange />`"
+        "jsxString": "<IsOutlineMoneyChange />"
       },
       {
         "name": "outline-money-forbidden",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoneyForbidden,
         "svgString": IsOutlineMoneyForbiddenSvg,
-        "jsxString": "`<IsOutlineMoneyForbidden />`"
+        "jsxString": "<IsOutlineMoneyForbidden />"
       },
       {
         "name": "outline-money-recive",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoneyRecive,
         "svgString": IsOutlineMoneyReciveSvg,
-        "jsxString": "`<IsOutlineMoneyRecive />`"
+        "jsxString": "<IsOutlineMoneyRecive />"
       },
       {
         "name": "outline-money-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoneyRemove,
         "svgString": IsOutlineMoneyRemoveSvg,
-        "jsxString": "`<IsOutlineMoneyRemove />`"
+        "jsxString": "<IsOutlineMoneyRemove />"
       },
       {
         "name": "outline-money-send",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoneySend,
         "svgString": IsOutlineMoneySendSvg,
-        "jsxString": "`<IsOutlineMoneySend />`"
+        "jsxString": "<IsOutlineMoneySend />"
       },
       {
         "name": "outline-money-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoneyTick,
         "svgString": IsOutlineMoneyTickSvg,
-        "jsxString": "`<IsOutlineMoneyTick />`"
+        "jsxString": "<IsOutlineMoneyTick />"
       },
       {
         "name": "outline-money-time",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoneyTime,
         "svgString": IsOutlineMoneyTimeSvg,
-        "jsxString": "`<IsOutlineMoneyTime />`"
+        "jsxString": "<IsOutlineMoneyTime />"
       },
       {
         "name": "outline-money2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoney2,
         "svgString": IsOutlineMoney2Svg,
-        "jsxString": "`<IsOutlineMoney2 />`"
+        "jsxString": "<IsOutlineMoney2 />"
       },
       {
         "name": "outline-money3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoney3,
         "svgString": IsOutlineMoney3Svg,
-        "jsxString": "`<IsOutlineMoney3 />`"
+        "jsxString": "<IsOutlineMoney3 />"
       },
       {
         "name": "outline-money4",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoney4,
         "svgString": IsOutlineMoney4Svg,
-        "jsxString": "`<IsOutlineMoney4 />`"
+        "jsxString": "<IsOutlineMoney4 />"
       },
       {
         "name": "outline-moneys",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoneys,
         "svgString": IsOutlineMoneysSvg,
-        "jsxString": "`<IsOutlineMoneys />`"
+        "jsxString": "<IsOutlineMoneys />"
       },
       {
         "name": "outline-monitor",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMonitor,
         "svgString": IsOutlineMonitorSvg,
-        "jsxString": "`<IsOutlineMonitor />`"
+        "jsxString": "<IsOutlineMonitor />"
       },
       {
         "name": "outline-monitor-mobbile",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMonitorMobbile,
         "svgString": IsOutlineMonitorMobbileSvg,
-        "jsxString": "`<IsOutlineMonitorMobbile />`"
+        "jsxString": "<IsOutlineMonitorMobbile />"
       },
       {
         "name": "outline-monitor-recorder",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMonitorRecorder,
         "svgString": IsOutlineMonitorRecorderSvg,
-        "jsxString": "`<IsOutlineMonitorRecorder />`"
+        "jsxString": "<IsOutlineMonitorRecorder />"
       },
       {
         "name": "outline-moon",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoon,
         "svgString": IsOutlineMoonSvg,
-        "jsxString": "`<IsOutlineMoon />`"
+        "jsxString": "<IsOutlineMoon />"
       },
       {
         "name": "outline-more",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMore,
         "svgString": IsOutlineMoreSvg,
-        "jsxString": "`<IsOutlineMore />`"
+        "jsxString": "<IsOutlineMore />"
       },
       {
         "name": "outline-more-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoreCircle,
         "svgString": IsOutlineMoreCircleSvg,
-        "jsxString": "`<IsOutlineMoreCircle />`"
+        "jsxString": "<IsOutlineMoreCircle />"
       },
       {
         "name": "outline-more-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMoreSquare,
         "svgString": IsOutlineMoreSquareSvg,
-        "jsxString": "`<IsOutlineMoreSquare />`"
+        "jsxString": "<IsOutlineMoreSquare />"
       },
       {
         "name": "outline-more2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMore2,
         "svgString": IsOutlineMore2Svg,
-        "jsxString": "`<IsOutlineMore2 />`"
+        "jsxString": "<IsOutlineMore2 />"
       },
       {
         "name": "outline-mouse",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMouse,
         "svgString": IsOutlineMouseSvg,
-        "jsxString": "`<IsOutlineMouse />`"
+        "jsxString": "<IsOutlineMouse />"
       },
       {
         "name": "outline-mouse-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMouseCircle,
         "svgString": IsOutlineMouseCircleSvg,
-        "jsxString": "`<IsOutlineMouseCircle />`"
+        "jsxString": "<IsOutlineMouseCircle />"
       },
       {
         "name": "outline-mouse-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMouseSquare,
         "svgString": IsOutlineMouseSquareSvg,
-        "jsxString": "`<IsOutlineMouseSquare />`"
+        "jsxString": "<IsOutlineMouseSquare />"
       },
       {
         "name": "outline-mouse1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMouse1,
         "svgString": IsOutlineMouse1Svg,
-        "jsxString": "`<IsOutlineMouse1 />`"
+        "jsxString": "<IsOutlineMouse1 />"
       },
       {
         "name": "outline-music",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMusic,
         "svgString": IsOutlineMusicSvg,
-        "jsxString": "`<IsOutlineMusic />`"
+        "jsxString": "<IsOutlineMusic />"
       },
       {
         "name": "outline-music-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMusicCircle,
         "svgString": IsOutlineMusicCircleSvg,
-        "jsxString": "`<IsOutlineMusicCircle />`"
+        "jsxString": "<IsOutlineMusicCircle />"
       },
       {
         "name": "outline-music-dashboard",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMusicDashboard,
         "svgString": IsOutlineMusicDashboardSvg,
-        "jsxString": "`<IsOutlineMusicDashboard />`"
+        "jsxString": "<IsOutlineMusicDashboard />"
       },
       {
         "name": "outline-music-filter",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMusicFilter,
         "svgString": IsOutlineMusicFilterSvg,
-        "jsxString": "`<IsOutlineMusicFilter />`"
+        "jsxString": "<IsOutlineMusicFilter />"
       },
       {
         "name": "outline-music-library2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMusicLibrary2,
         "svgString": IsOutlineMusicLibrary2Svg,
-        "jsxString": "`<IsOutlineMusicLibrary2 />`"
+        "jsxString": "<IsOutlineMusicLibrary2 />"
       },
       {
         "name": "outline-music-play",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMusicPlay,
         "svgString": IsOutlineMusicPlaySvg,
-        "jsxString": "`<IsOutlineMusicPlay />`"
+        "jsxString": "<IsOutlineMusicPlay />"
       },
       {
         "name": "outline-music-playlist",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMusicPlaylist,
         "svgString": IsOutlineMusicPlaylistSvg,
-        "jsxString": "`<IsOutlineMusicPlaylist />`"
+        "jsxString": "<IsOutlineMusicPlaylist />"
       },
       {
         "name": "outline-music-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMusicSquare,
         "svgString": IsOutlineMusicSquareSvg,
-        "jsxString": "`<IsOutlineMusicSquare />`"
+        "jsxString": "<IsOutlineMusicSquare />"
       },
       {
         "name": "outline-music-square-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMusicSquareAdd,
         "svgString": IsOutlineMusicSquareAddSvg,
-        "jsxString": "`<IsOutlineMusicSquareAdd />`"
+        "jsxString": "<IsOutlineMusicSquareAdd />"
       },
       {
         "name": "outline-music-square-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMusicSquareRemove,
         "svgString": IsOutlineMusicSquareRemoveSvg,
-        "jsxString": "`<IsOutlineMusicSquareRemove />`"
+        "jsxString": "<IsOutlineMusicSquareRemove />"
       },
       {
         "name": "outline-music-square-search",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMusicSquareSearch,
         "svgString": IsOutlineMusicSquareSearchSvg,
-        "jsxString": "`<IsOutlineMusicSquareSearch />`"
+        "jsxString": "<IsOutlineMusicSquareSearch />"
       },
       {
         "name": "outline-musicnote",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineMusicnote,
         "svgString": IsOutlineMusicnoteSvg,
-        "jsxString": "`<IsOutlineMusicnote />`"
+        "jsxString": "<IsOutlineMusicnote />"
       },
       {
         "name": "outline-nebulas",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNebulas,
         "svgString": IsOutlineNebulasSvg,
-        "jsxString": "`<IsOutlineNebulas />`"
+        "jsxString": "<IsOutlineNebulas />"
       },
       {
         "name": "outline-nem",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNem,
         "svgString": IsOutlineNemSvg,
-        "jsxString": "`<IsOutlineNem />`"
+        "jsxString": "<IsOutlineNem />"
       },
       {
         "name": "outline-nexo",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNexo,
         "svgString": IsOutlineNexoSvg,
-        "jsxString": "`<IsOutlineNexo />`"
+        "jsxString": "<IsOutlineNexo />"
       },
       {
         "name": "outline-next",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNext,
         "svgString": IsOutlineNextSvg,
-        "jsxString": "`<IsOutlineNext />`"
+        "jsxString": "<IsOutlineNext />"
       },
       {
         "name": "outline-note",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNote,
         "svgString": IsOutlineNoteSvg,
-        "jsxString": "`<IsOutlineNote />`"
+        "jsxString": "<IsOutlineNote />"
       },
       {
         "name": "outline-note-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNoteAdd,
         "svgString": IsOutlineNoteAddSvg,
-        "jsxString": "`<IsOutlineNoteAdd />`"
+        "jsxString": "<IsOutlineNoteAdd />"
       },
       {
         "name": "outline-note-favorite",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNoteFavorite,
         "svgString": IsOutlineNoteFavoriteSvg,
-        "jsxString": "`<IsOutlineNoteFavorite />`"
+        "jsxString": "<IsOutlineNoteFavorite />"
       },
       {
         "name": "outline-note-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNoteRemove,
         "svgString": IsOutlineNoteRemoveSvg,
-        "jsxString": "`<IsOutlineNoteRemove />`"
+        "jsxString": "<IsOutlineNoteRemove />"
       },
       {
         "name": "outline-note-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNoteSquare,
         "svgString": IsOutlineNoteSquareSvg,
-        "jsxString": "`<IsOutlineNoteSquare />`"
+        "jsxString": "<IsOutlineNoteSquare />"
       },
       {
         "name": "outline-note-text",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNoteText,
         "svgString": IsOutlineNoteTextSvg,
-        "jsxString": "`<IsOutlineNoteText />`"
+        "jsxString": "<IsOutlineNoteText />"
       },
       {
         "name": "outline-note1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNote1,
         "svgString": IsOutlineNote1Svg,
-        "jsxString": "`<IsOutlineNote1 />`"
+        "jsxString": "<IsOutlineNote1 />"
       },
       {
         "name": "outline-note2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNote2,
         "svgString": IsOutlineNote2Svg,
-        "jsxString": "`<IsOutlineNote2 />`"
+        "jsxString": "<IsOutlineNote2 />"
       },
       {
         "name": "outline-notification",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNotification,
         "svgString": IsOutlineNotificationSvg,
-        "jsxString": "`<IsOutlineNotification />`"
+        "jsxString": "<IsOutlineNotification />"
       },
       {
         "name": "outline-notification-bing",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNotificationBing,
         "svgString": IsOutlineNotificationBingSvg,
-        "jsxString": "`<IsOutlineNotificationBing />`"
+        "jsxString": "<IsOutlineNotificationBing />"
       },
       {
         "name": "outline-notification-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNotificationCircle,
         "svgString": IsOutlineNotificationCircleSvg,
-        "jsxString": "`<IsOutlineNotificationCircle />`"
+        "jsxString": "<IsOutlineNotificationCircle />"
       },
       {
         "name": "outline-notification-favorite",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNotificationFavorite,
         "svgString": IsOutlineNotificationFavoriteSvg,
-        "jsxString": "`<IsOutlineNotificationFavorite />`"
+        "jsxString": "<IsOutlineNotificationFavorite />"
       },
       {
         "name": "outline-notification-status",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNotificationStatus,
         "svgString": IsOutlineNotificationStatusSvg,
-        "jsxString": "`<IsOutlineNotificationStatus />`"
+        "jsxString": "<IsOutlineNotificationStatus />"
       },
       {
         "name": "outline-notification1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineNotification1,
         "svgString": IsOutlineNotification1Svg,
-        "jsxString": "`<IsOutlineNotification1 />`"
+        "jsxString": "<IsOutlineNotification1 />"
       },
       {
         "name": "outline-ocean-protocol",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineOceanProtocol,
         "svgString": IsOutlineOceanProtocolSvg,
-        "jsxString": "`<IsOutlineOceanProtocol />`"
+        "jsxString": "<IsOutlineOceanProtocol />"
       },
       {
         "name": "outline-okb",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineOkb,
         "svgString": IsOutlineOkbSvg,
-        "jsxString": "`<IsOutlineOkb />`"
+        "jsxString": "<IsOutlineOkb />"
       },
       {
         "name": "outline-omega-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineOmegaCircle,
         "svgString": IsOutlineOmegaCircleSvg,
-        "jsxString": "`<IsOutlineOmegaCircle />`"
+        "jsxString": "<IsOutlineOmegaCircle />"
       },
       {
         "name": "outline-omega-circle1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineOmegaCircle1,
         "svgString": IsOutlineOmegaCircle1Svg,
-        "jsxString": "`<IsOutlineOmegaCircle1 />`"
+        "jsxString": "<IsOutlineOmegaCircle1 />"
       },
       {
         "name": "outline-omega-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineOmegaSquare,
         "svgString": IsOutlineOmegaSquareSvg,
-        "jsxString": "`<IsOutlineOmegaSquare />`"
+        "jsxString": "<IsOutlineOmegaSquare />"
       },
       {
         "name": "outline-omega-square1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineOmegaSquare1,
         "svgString": IsOutlineOmegaSquare1Svg,
-        "jsxString": "`<IsOutlineOmegaSquare1 />`"
+        "jsxString": "<IsOutlineOmegaSquare1 />"
       },
       {
         "name": "outline-ontology",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineOntology,
         "svgString": IsOutlineOntologySvg,
-        "jsxString": "`<IsOutlineOntology />`"
+        "jsxString": "<IsOutlineOntology />"
       },
       {
         "name": "outline-paintbucket",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePaintbucket,
         "svgString": IsOutlinePaintbucketSvg,
-        "jsxString": "`<IsOutlinePaintbucket />`"
+        "jsxString": "<IsOutlinePaintbucket />"
       },
       {
         "name": "outline-paperclip",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePaperclip,
         "svgString": IsOutlinePaperclipSvg,
-        "jsxString": "`<IsOutlinePaperclip />`"
+        "jsxString": "<IsOutlinePaperclip />"
       },
       {
         "name": "outline-paperclip2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePaperclip2,
         "svgString": IsOutlinePaperclip2Svg,
-        "jsxString": "`<IsOutlinePaperclip2 />`"
+        "jsxString": "<IsOutlinePaperclip2 />"
       },
       {
         "name": "outline-password-check",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePasswordCheck,
         "svgString": IsOutlinePasswordCheckSvg,
-        "jsxString": "`<IsOutlinePasswordCheck />`"
+        "jsxString": "<IsOutlinePasswordCheck />"
       },
       {
         "name": "outline-path",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePath,
         "svgString": IsOutlinePathSvg,
-        "jsxString": "`<IsOutlinePath />`"
+        "jsxString": "<IsOutlinePath />"
       },
       {
         "name": "outline-path-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePathSquare,
         "svgString": IsOutlinePathSquareSvg,
-        "jsxString": "`<IsOutlinePathSquare />`"
+        "jsxString": "<IsOutlinePathSquare />"
       },
       {
         "name": "outline-path2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePath2,
         "svgString": IsOutlinePath2Svg,
-        "jsxString": "`<IsOutlinePath2 />`"
+        "jsxString": "<IsOutlinePath2 />"
       },
       {
         "name": "outline-pause",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePause,
         "svgString": IsOutlinePauseSvg,
-        "jsxString": "`<IsOutlinePause />`"
+        "jsxString": "<IsOutlinePause />"
       },
       {
         "name": "outline-pause-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePauseCircle,
         "svgString": IsOutlinePauseCircleSvg,
-        "jsxString": "`<IsOutlinePauseCircle />`"
+        "jsxString": "<IsOutlinePauseCircle />"
       },
       {
         "name": "outline-paypal",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePaypal,
         "svgString": IsOutlinePaypalSvg,
-        "jsxString": "`<IsOutlinePaypal />`"
+        "jsxString": "<IsOutlinePaypal />"
       },
       {
         "name": "outline-pen-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePenAdd,
         "svgString": IsOutlinePenAddSvg,
-        "jsxString": "`<IsOutlinePenAdd />`"
+        "jsxString": "<IsOutlinePenAdd />"
       },
       {
         "name": "outline-pen-add1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePenAdd1,
         "svgString": IsOutlinePenAdd1Svg,
-        "jsxString": "`<IsOutlinePenAdd1 />`"
+        "jsxString": "<IsOutlinePenAdd1 />"
       },
       {
         "name": "outline-pen-close",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePenClose,
         "svgString": IsOutlinePenCloseSvg,
-        "jsxString": "`<IsOutlinePenClose />`"
+        "jsxString": "<IsOutlinePenClose />"
       },
       {
         "name": "outline-pen-close1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePenClose1,
         "svgString": IsOutlinePenClose1Svg,
-        "jsxString": "`<IsOutlinePenClose1 />`"
+        "jsxString": "<IsOutlinePenClose1 />"
       },
       {
         "name": "outline-pen-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePenRemove,
         "svgString": IsOutlinePenRemoveSvg,
-        "jsxString": "`<IsOutlinePenRemove />`"
+        "jsxString": "<IsOutlinePenRemove />"
       },
       {
         "name": "outline-pen-remove1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePenRemove1,
         "svgString": IsOutlinePenRemove1Svg,
-        "jsxString": "`<IsOutlinePenRemove1 />`"
+        "jsxString": "<IsOutlinePenRemove1 />"
       },
       {
         "name": "outline-pen-tool",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePenTool,
         "svgString": IsOutlinePenToolSvg,
-        "jsxString": "`<IsOutlinePenTool />`"
+        "jsxString": "<IsOutlinePenTool />"
       },
       {
         "name": "outline-pen-tool1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePenTool1,
         "svgString": IsOutlinePenTool1Svg,
-        "jsxString": "`<IsOutlinePenTool1 />`"
+        "jsxString": "<IsOutlinePenTool1 />"
       },
       {
         "name": "outline-pen-tool2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePenTool2,
         "svgString": IsOutlinePenTool2Svg,
-        "jsxString": "`<IsOutlinePenTool2 />`"
+        "jsxString": "<IsOutlinePenTool2 />"
       },
       {
         "name": "outline-pen-tool21",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePenTool21,
         "svgString": IsOutlinePenTool21Svg,
-        "jsxString": "`<IsOutlinePenTool21 />`"
+        "jsxString": "<IsOutlinePenTool21 />"
       },
       {
         "name": "outline-people",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePeople,
         "svgString": IsOutlinePeopleSvg,
-        "jsxString": "`<IsOutlinePeople />`"
+        "jsxString": "<IsOutlinePeople />"
       },
       {
         "name": "outline-percentage-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePercentageSquare,
         "svgString": IsOutlinePercentageSquareSvg,
-        "jsxString": "`<IsOutlinePercentageSquare />`"
+        "jsxString": "<IsOutlinePercentageSquare />"
       },
       {
         "name": "outline-personalcard",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePersonalcard,
         "svgString": IsOutlinePersonalcardSvg,
-        "jsxString": "`<IsOutlinePersonalcard />`"
+        "jsxString": "<IsOutlinePersonalcard />"
       },
       {
         "name": "outline-pet",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePet,
         "svgString": IsOutlinePetSvg,
-        "jsxString": "`<IsOutlinePet />`"
+        "jsxString": "<IsOutlinePet />"
       },
       {
         "name": "outline-pharagraphspacing",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePharagraphspacing,
         "svgString": IsOutlinePharagraphspacingSvg,
-        "jsxString": "`<IsOutlinePharagraphspacing />`"
+        "jsxString": "<IsOutlinePharagraphspacing />"
       },
       {
         "name": "outline-photoshop",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePhotoshop,
         "svgString": IsOutlinePhotoshopSvg,
-        "jsxString": "`<IsOutlinePhotoshop />`"
+        "jsxString": "<IsOutlinePhotoshop />"
       },
       {
         "name": "outline-picture-frame",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePictureFrame,
         "svgString": IsOutlinePictureFrameSvg,
-        "jsxString": "`<IsOutlinePictureFrame />`"
+        "jsxString": "<IsOutlinePictureFrame />"
       },
       {
         "name": "outline-play",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePlay,
         "svgString": IsOutlinePlaySvg,
-        "jsxString": "`<IsOutlinePlay />`"
+        "jsxString": "<IsOutlinePlay />"
       },
       {
         "name": "outline-play-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePlayAdd,
         "svgString": IsOutlinePlayAddSvg,
-        "jsxString": "`<IsOutlinePlayAdd />`"
+        "jsxString": "<IsOutlinePlayAdd />"
       },
       {
         "name": "outline-play-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePlayCircle,
         "svgString": IsOutlinePlayCircleSvg,
-        "jsxString": "`<IsOutlinePlayCircle />`"
+        "jsxString": "<IsOutlinePlayCircle />"
       },
       {
         "name": "outline-play-cricle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePlayCricle,
         "svgString": IsOutlinePlayCricleSvg,
-        "jsxString": "`<IsOutlinePlayCricle />`"
+        "jsxString": "<IsOutlinePlayCricle />"
       },
       {
         "name": "outline-play-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePlayRemove,
         "svgString": IsOutlinePlayRemoveSvg,
-        "jsxString": "`<IsOutlinePlayRemove />`"
+        "jsxString": "<IsOutlinePlayRemove />"
       },
       {
         "name": "outline-polkadot",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePolkadot,
         "svgString": IsOutlinePolkadotSvg,
-        "jsxString": "`<IsOutlinePolkadot />`"
+        "jsxString": "<IsOutlinePolkadot />"
       },
       {
         "name": "outline-polygon",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePolygon,
         "svgString": IsOutlinePolygonSvg,
-        "jsxString": "`<IsOutlinePolygon />`"
+        "jsxString": "<IsOutlinePolygon />"
       },
       {
         "name": "outline-polyswarm",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePolyswarm,
         "svgString": IsOutlinePolyswarmSvg,
-        "jsxString": "`<IsOutlinePolyswarm />`"
+        "jsxString": "<IsOutlinePolyswarm />"
       },
       {
         "name": "outline-presention-chart",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePresentionChart,
         "svgString": IsOutlinePresentionChartSvg,
-        "jsxString": "`<IsOutlinePresentionChart />`"
+        "jsxString": "<IsOutlinePresentionChart />"
       },
       {
         "name": "outline-previous",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePrevious,
         "svgString": IsOutlinePreviousSvg,
-        "jsxString": "`<IsOutlinePrevious />`"
+        "jsxString": "<IsOutlinePrevious />"
       },
       {
         "name": "outline-printer",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePrinter,
         "svgString": IsOutlinePrinterSvg,
-        "jsxString": "`<IsOutlinePrinter />`"
+        "jsxString": "<IsOutlinePrinter />"
       },
       {
         "name": "outline-printer-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePrinterSlash,
         "svgString": IsOutlinePrinterSlashSvg,
-        "jsxString": "`<IsOutlinePrinterSlash />`"
+        "jsxString": "<IsOutlinePrinterSlash />"
       },
       {
         "name": "outline-profile",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineProfile,
         "svgString": IsOutlineProfileSvg,
-        "jsxString": "`<IsOutlineProfile />`"
+        "jsxString": "<IsOutlineProfile />"
       },
       {
         "name": "outline-profile-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineProfileAdd,
         "svgString": IsOutlineProfileAddSvg,
-        "jsxString": "`<IsOutlineProfileAdd />`"
+        "jsxString": "<IsOutlineProfileAdd />"
       },
       {
         "name": "outline-profile-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineProfileCircle,
         "svgString": IsOutlineProfileCircleSvg,
-        "jsxString": "`<IsOutlineProfileCircle />`"
+        "jsxString": "<IsOutlineProfileCircle />"
       },
       {
         "name": "outline-profile-delete",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineProfileDelete,
         "svgString": IsOutlineProfileDeleteSvg,
-        "jsxString": "`<IsOutlineProfileDelete />`"
+        "jsxString": "<IsOutlineProfileDelete />"
       },
       {
         "name": "outline-profile-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineProfileRemove,
         "svgString": IsOutlineProfileRemoveSvg,
-        "jsxString": "`<IsOutlineProfileRemove />`"
+        "jsxString": "<IsOutlineProfileRemove />"
       },
       {
         "name": "outline-profile-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineProfileTick,
         "svgString": IsOutlineProfileTickSvg,
-        "jsxString": "`<IsOutlineProfileTick />`"
+        "jsxString": "<IsOutlineProfileTick />"
       },
       {
         "name": "outline-profile2user",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineProfile2user,
         "svgString": IsOutlineProfile2userSvg,
-        "jsxString": "`<IsOutlineProfile2user />`"
+        "jsxString": "<IsOutlineProfile2user />"
       },
       {
         "name": "outline-programming-arrow",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineProgrammingArrow,
         "svgString": IsOutlineProgrammingArrowSvg,
-        "jsxString": "`<IsOutlineProgrammingArrow />`"
+        "jsxString": "<IsOutlineProgrammingArrow />"
       },
       {
         "name": "outline-programming-arrows",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineProgrammingArrows,
         "svgString": IsOutlineProgrammingArrowsSvg,
-        "jsxString": "`<IsOutlineProgrammingArrows />`"
+        "jsxString": "<IsOutlineProgrammingArrows />"
       },
       {
         "name": "outline-python",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlinePython,
         "svgString": IsOutlinePythonSvg,
-        "jsxString": "`<IsOutlinePython />`"
+        "jsxString": "<IsOutlinePython />"
       },
       {
         "name": "outline-quant",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineQuant,
         "svgString": IsOutlineQuantSvg,
-        "jsxString": "`<IsOutlineQuant />`"
+        "jsxString": "<IsOutlineQuant />"
       },
       {
         "name": "outline-quote-down",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineQuoteDown,
         "svgString": IsOutlineQuoteDownSvg,
-        "jsxString": "`<IsOutlineQuoteDown />`"
+        "jsxString": "<IsOutlineQuoteDown />"
       },
       {
         "name": "outline-quote-down-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineQuoteDownCircle,
         "svgString": IsOutlineQuoteDownCircleSvg,
-        "jsxString": "`<IsOutlineQuoteDownCircle />`"
+        "jsxString": "<IsOutlineQuoteDownCircle />"
       },
       {
         "name": "outline-quote-down-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineQuoteDownSquare,
         "svgString": IsOutlineQuoteDownSquareSvg,
-        "jsxString": "`<IsOutlineQuoteDownSquare />`"
+        "jsxString": "<IsOutlineQuoteDownSquare />"
       },
       {
         "name": "outline-quote-up",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineQuoteUp,
         "svgString": IsOutlineQuoteUpSvg,
-        "jsxString": "`<IsOutlineQuoteUp />`"
+        "jsxString": "<IsOutlineQuoteUp />"
       },
       {
         "name": "outline-quote-up-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineQuoteUpCircle,
         "svgString": IsOutlineQuoteUpCircleSvg,
-        "jsxString": "`<IsOutlineQuoteUpCircle />`"
+        "jsxString": "<IsOutlineQuoteUpCircle />"
       },
       {
         "name": "outline-quote-up-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineQuoteUpSquare,
         "svgString": IsOutlineQuoteUpSquareSvg,
-        "jsxString": "`<IsOutlineQuoteUpSquare />`"
+        "jsxString": "<IsOutlineQuoteUpSquare />"
       },
       {
         "name": "outline-radar",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRadar,
         "svgString": IsOutlineRadarSvg,
-        "jsxString": "`<IsOutlineRadar />`"
+        "jsxString": "<IsOutlineRadar />"
       },
       {
         "name": "outline-radar1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRadar1,
         "svgString": IsOutlineRadar1Svg,
-        "jsxString": "`<IsOutlineRadar1 />`"
+        "jsxString": "<IsOutlineRadar1 />"
       },
       {
         "name": "outline-radar2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRadar2,
         "svgString": IsOutlineRadar2Svg,
-        "jsxString": "`<IsOutlineRadar2 />`"
+        "jsxString": "<IsOutlineRadar2 />"
       },
       {
         "name": "outline-radio",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRadio,
         "svgString": IsOutlineRadioSvg,
-        "jsxString": "`<IsOutlineRadio />`"
+        "jsxString": "<IsOutlineRadio />"
       },
       {
         "name": "outline-ram",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRam,
         "svgString": IsOutlineRamSvg,
-        "jsxString": "`<IsOutlineRam />`"
+        "jsxString": "<IsOutlineRam />"
       },
       {
         "name": "outline-ram2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRam2,
         "svgString": IsOutlineRam2Svg,
-        "jsxString": "`<IsOutlineRam2 />`"
+        "jsxString": "<IsOutlineRam2 />"
       },
       {
         "name": "outline-ranking",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRanking,
         "svgString": IsOutlineRankingSvg,
-        "jsxString": "`<IsOutlineRanking />`"
+        "jsxString": "<IsOutlineRanking />"
       },
       {
         "name": "outline-ranking1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRanking1,
         "svgString": IsOutlineRanking1Svg,
-        "jsxString": "`<IsOutlineRanking1 />`"
+        "jsxString": "<IsOutlineRanking1 />"
       },
       {
         "name": "outline-receipt",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceipt,
         "svgString": IsOutlineReceiptSvg,
-        "jsxString": "`<IsOutlineReceipt />`"
+        "jsxString": "<IsOutlineReceipt />"
       },
       {
         "name": "outline-receipt-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceiptAdd,
         "svgString": IsOutlineReceiptAddSvg,
-        "jsxString": "`<IsOutlineReceiptAdd />`"
+        "jsxString": "<IsOutlineReceiptAdd />"
       },
       {
         "name": "outline-receipt-discount",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceiptDiscount,
         "svgString": IsOutlineReceiptDiscountSvg,
-        "jsxString": "`<IsOutlineReceiptDiscount />`"
+        "jsxString": "<IsOutlineReceiptDiscount />"
       },
       {
         "name": "outline-receipt-disscount",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceiptDisscount,
         "svgString": IsOutlineReceiptDisscountSvg,
-        "jsxString": "`<IsOutlineReceiptDisscount />`"
+        "jsxString": "<IsOutlineReceiptDisscount />"
       },
       {
         "name": "outline-receipt-edit",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceiptEdit,
         "svgString": IsOutlineReceiptEditSvg,
-        "jsxString": "`<IsOutlineReceiptEdit />`"
+        "jsxString": "<IsOutlineReceiptEdit />"
       },
       {
         "name": "outline-receipt-item",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceiptItem,
         "svgString": IsOutlineReceiptItemSvg,
-        "jsxString": "`<IsOutlineReceiptItem />`"
+        "jsxString": "<IsOutlineReceiptItem />"
       },
       {
         "name": "outline-receipt-minus",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceiptMinus,
         "svgString": IsOutlineReceiptMinusSvg,
-        "jsxString": "`<IsOutlineReceiptMinus />`"
+        "jsxString": "<IsOutlineReceiptMinus />"
       },
       {
         "name": "outline-receipt-search",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceiptSearch,
         "svgString": IsOutlineReceiptSearchSvg,
-        "jsxString": "`<IsOutlineReceiptSearch />`"
+        "jsxString": "<IsOutlineReceiptSearch />"
       },
       {
         "name": "outline-receipt-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceiptSquare,
         "svgString": IsOutlineReceiptSquareSvg,
-        "jsxString": "`<IsOutlineReceiptSquare />`"
+        "jsxString": "<IsOutlineReceiptSquare />"
       },
       {
         "name": "outline-receipt-text",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceiptText,
         "svgString": IsOutlineReceiptTextSvg,
-        "jsxString": "`<IsOutlineReceiptText />`"
+        "jsxString": "<IsOutlineReceiptText />"
       },
       {
         "name": "outline-receipt1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceipt1,
         "svgString": IsOutlineReceipt1Svg,
-        "jsxString": "`<IsOutlineReceipt1 />`"
+        "jsxString": "<IsOutlineReceipt1 />"
       },
       {
         "name": "outline-receipt2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceipt2,
         "svgString": IsOutlineReceipt2Svg,
-        "jsxString": "`<IsOutlineReceipt2 />`"
+        "jsxString": "<IsOutlineReceipt2 />"
       },
       {
         "name": "outline-receipt21",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceipt21,
         "svgString": IsOutlineReceipt21Svg,
-        "jsxString": "`<IsOutlineReceipt21 />`"
+        "jsxString": "<IsOutlineReceipt21 />"
       },
       {
         "name": "outline-receive-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceiveSquare,
         "svgString": IsOutlineReceiveSquareSvg,
-        "jsxString": "`<IsOutlineReceiveSquare />`"
+        "jsxString": "<IsOutlineReceiveSquare />"
       },
       {
         "name": "outline-receive-square2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceiveSquare2,
         "svgString": IsOutlineReceiveSquare2Svg,
-        "jsxString": "`<IsOutlineReceiveSquare2 />`"
+        "jsxString": "<IsOutlineReceiveSquare2 />"
       },
       {
         "name": "outline-received",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReceived,
         "svgString": IsOutlineReceivedSvg,
-        "jsxString": "`<IsOutlineReceived />`"
+        "jsxString": "<IsOutlineReceived />"
       },
       {
         "name": "outline-record",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRecord,
         "svgString": IsOutlineRecordSvg,
-        "jsxString": "`<IsOutlineRecord />`"
+        "jsxString": "<IsOutlineRecord />"
       },
       {
         "name": "outline-record-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRecordCircle,
         "svgString": IsOutlineRecordCircleSvg,
-        "jsxString": "`<IsOutlineRecordCircle />`"
+        "jsxString": "<IsOutlineRecordCircle />"
       },
       {
         "name": "outline-recovery-convert",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRecoveryConvert,
         "svgString": IsOutlineRecoveryConvertSvg,
-        "jsxString": "`<IsOutlineRecoveryConvert />`"
+        "jsxString": "<IsOutlineRecoveryConvert />"
       },
       {
         "name": "outline-redo",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRedo,
         "svgString": IsOutlineRedoSvg,
-        "jsxString": "`<IsOutlineRedo />`"
+        "jsxString": "<IsOutlineRedo />"
       },
       {
         "name": "outline-refresh",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRefresh,
         "svgString": IsOutlineRefreshSvg,
-        "jsxString": "`<IsOutlineRefresh />`"
+        "jsxString": "<IsOutlineRefresh />"
       },
       {
         "name": "outline-refresh-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRefreshCircle,
         "svgString": IsOutlineRefreshCircleSvg,
-        "jsxString": "`<IsOutlineRefreshCircle />`"
+        "jsxString": "<IsOutlineRefreshCircle />"
       },
       {
         "name": "outline-refresh-left-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRefreshLeftSquare,
         "svgString": IsOutlineRefreshLeftSquareSvg,
-        "jsxString": "`<IsOutlineRefreshLeftSquare />`"
+        "jsxString": "<IsOutlineRefreshLeftSquare />"
       },
       {
         "name": "outline-refresh-right-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRefreshRightSquare,
         "svgString": IsOutlineRefreshRightSquareSvg,
-        "jsxString": "`<IsOutlineRefreshRightSquare />`"
+        "jsxString": "<IsOutlineRefreshRightSquare />"
       },
       {
         "name": "outline-refresh-square2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRefreshSquare2,
         "svgString": IsOutlineRefreshSquare2Svg,
-        "jsxString": "`<IsOutlineRefreshSquare2 />`"
+        "jsxString": "<IsOutlineRefreshSquare2 />"
       },
       {
         "name": "outline-refresh2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRefresh2,
         "svgString": IsOutlineRefresh2Svg,
-        "jsxString": "`<IsOutlineRefresh2 />`"
+        "jsxString": "<IsOutlineRefresh2 />"
       },
       {
         "name": "outline-repeat",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRepeat,
         "svgString": IsOutlineRepeatSvg,
-        "jsxString": "`<IsOutlineRepeat />`"
+        "jsxString": "<IsOutlineRepeat />"
       },
       {
         "name": "outline-repeat-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRepeatCircle,
         "svgString": IsOutlineRepeatCircleSvg,
-        "jsxString": "`<IsOutlineRepeatCircle />`"
+        "jsxString": "<IsOutlineRepeatCircle />"
       },
       {
         "name": "outline-repeate-music",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRepeateMusic,
         "svgString": IsOutlineRepeateMusicSvg,
-        "jsxString": "`<IsOutlineRepeateMusic />`"
+        "jsxString": "<IsOutlineRepeateMusic />"
       },
       {
         "name": "outline-repeate-one",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRepeateOne,
         "svgString": IsOutlineRepeateOneSvg,
-        "jsxString": "`<IsOutlineRepeateOne />`"
+        "jsxString": "<IsOutlineRepeateOne />"
       },
       {
         "name": "outline-reserve",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineReserve,
         "svgString": IsOutlineReserveSvg,
-        "jsxString": "`<IsOutlineReserve />`"
+        "jsxString": "<IsOutlineReserve />"
       },
       {
         "name": "outline-rotate-left",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRotateLeft,
         "svgString": IsOutlineRotateLeftSvg,
-        "jsxString": "`<IsOutlineRotateLeft />`"
+        "jsxString": "<IsOutlineRotateLeft />"
       },
       {
         "name": "outline-rotate-left1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRotateLeft1,
         "svgString": IsOutlineRotateLeft1Svg,
-        "jsxString": "`<IsOutlineRotateLeft1 />`"
+        "jsxString": "<IsOutlineRotateLeft1 />"
       },
       {
         "name": "outline-rotate-right",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRotateRight,
         "svgString": IsOutlineRotateRightSvg,
-        "jsxString": "`<IsOutlineRotateRight />`"
+        "jsxString": "<IsOutlineRotateRight />"
       },
       {
         "name": "outline-rotate-right1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRotateRight1,
         "svgString": IsOutlineRotateRight1Svg,
-        "jsxString": "`<IsOutlineRotateRight1 />`"
+        "jsxString": "<IsOutlineRotateRight1 />"
       },
       {
         "name": "outline-route-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRouteSquare,
         "svgString": IsOutlineRouteSquareSvg,
-        "jsxString": "`<IsOutlineRouteSquare />`"
+        "jsxString": "<IsOutlineRouteSquare />"
       },
       {
         "name": "outline-routing",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRouting,
         "svgString": IsOutlineRoutingSvg,
-        "jsxString": "`<IsOutlineRouting />`"
+        "jsxString": "<IsOutlineRouting />"
       },
       {
         "name": "outline-routing2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRouting2,
         "svgString": IsOutlineRouting2Svg,
-        "jsxString": "`<IsOutlineRouting2 />`"
+        "jsxString": "<IsOutlineRouting2 />"
       },
       {
         "name": "outline-row-horizontal",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRowHorizontal,
         "svgString": IsOutlineRowHorizontalSvg,
-        "jsxString": "`<IsOutlineRowHorizontal />`"
+        "jsxString": "<IsOutlineRowHorizontal />"
       },
       {
         "name": "outline-row-vertical",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRowVertical,
         "svgString": IsOutlineRowVerticalSvg,
-        "jsxString": "`<IsOutlineRowVertical />`"
+        "jsxString": "<IsOutlineRowVertical />"
       },
       {
         "name": "outline-ruler",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRuler,
         "svgString": IsOutlineRulerSvg,
-        "jsxString": "`<IsOutlineRuler />`"
+        "jsxString": "<IsOutlineRuler />"
       },
       {
         "name": "outline-ruler-pen",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineRulerPen,
         "svgString": IsOutlineRulerPenSvg,
-        "jsxString": "`<IsOutlineRulerPen />`"
+        "jsxString": "<IsOutlineRulerPen />"
       },
       {
         "name": "outline-safe-home",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSafeHome,
         "svgString": IsOutlineSafeHomeSvg,
-        "jsxString": "`<IsOutlineSafeHome />`"
+        "jsxString": "<IsOutlineSafeHome />"
       },
       {
         "name": "outline-sagittarius",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSagittarius,
         "svgString": IsOutlineSagittariusSvg,
-        "jsxString": "`<IsOutlineSagittarius />`"
+        "jsxString": "<IsOutlineSagittarius />"
       },
       {
         "name": "outline-save-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSaveAdd,
         "svgString": IsOutlineSaveAddSvg,
-        "jsxString": "`<IsOutlineSaveAdd />`"
+        "jsxString": "<IsOutlineSaveAdd />"
       },
       {
         "name": "outline-save-minus",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSaveMinus,
         "svgString": IsOutlineSaveMinusSvg,
-        "jsxString": "`<IsOutlineSaveMinus />`"
+        "jsxString": "<IsOutlineSaveMinus />"
       },
       {
         "name": "outline-save-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSaveRemove,
         "svgString": IsOutlineSaveRemoveSvg,
-        "jsxString": "`<IsOutlineSaveRemove />`"
+        "jsxString": "<IsOutlineSaveRemove />"
       },
       {
         "name": "outline-save2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSave2,
         "svgString": IsOutlineSave2Svg,
-        "jsxString": "`<IsOutlineSave2 />`"
+        "jsxString": "<IsOutlineSave2 />"
       },
       {
         "name": "outline-scan",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineScan,
         "svgString": IsOutlineScanSvg,
-        "jsxString": "`<IsOutlineScan />`"
+        "jsxString": "<IsOutlineScan />"
       },
       {
         "name": "outline-scan-barcode",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineScanBarcode,
         "svgString": IsOutlineScanBarcodeSvg,
-        "jsxString": "`<IsOutlineScanBarcode />`"
+        "jsxString": "<IsOutlineScanBarcode />"
       },
       {
         "name": "outline-scanner",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineScanner,
         "svgString": IsOutlineScannerSvg,
-        "jsxString": "`<IsOutlineScanner />`"
+        "jsxString": "<IsOutlineScanner />"
       },
       {
         "name": "outline-scanning",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineScanning,
         "svgString": IsOutlineScanningSvg,
-        "jsxString": "`<IsOutlineScanning />`"
+        "jsxString": "<IsOutlineScanning />"
       },
       {
         "name": "outline-scissor",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineScissor,
         "svgString": IsOutlineScissorSvg,
-        "jsxString": "`<IsOutlineScissor />`"
+        "jsxString": "<IsOutlineScissor />"
       },
       {
         "name": "outline-scissor1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineScissor1,
         "svgString": IsOutlineScissor1Svg,
-        "jsxString": "`<IsOutlineScissor1 />`"
+        "jsxString": "<IsOutlineScissor1 />"
       },
       {
         "name": "outline-scissor2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineScissor2,
         "svgString": IsOutlineScissor2Svg,
-        "jsxString": "`<IsOutlineScissor2 />`"
+        "jsxString": "<IsOutlineScissor2 />"
       },
       {
         "name": "outline-screenmirroring",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineScreenmirroring,
         "svgString": IsOutlineScreenmirroringSvg,
-        "jsxString": "`<IsOutlineScreenmirroring />`"
+        "jsxString": "<IsOutlineScreenmirroring />"
       },
       {
         "name": "outline-scroll",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineScroll,
         "svgString": IsOutlineScrollSvg,
-        "jsxString": "`<IsOutlineScroll />`"
+        "jsxString": "<IsOutlineScroll />"
       },
       {
         "name": "outline-search-favorite",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSearchFavorite,
         "svgString": IsOutlineSearchFavoriteSvg,
-        "jsxString": "`<IsOutlineSearchFavorite />`"
+        "jsxString": "<IsOutlineSearchFavorite />"
       },
       {
         "name": "outline-search-favorite1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSearchFavorite1,
         "svgString": IsOutlineSearchFavorite1Svg,
-        "jsxString": "`<IsOutlineSearchFavorite1 />`"
+        "jsxString": "<IsOutlineSearchFavorite1 />"
       },
       {
         "name": "outline-search-normal",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSearchNormal,
         "svgString": IsOutlineSearchNormalSvg,
-        "jsxString": "`<IsOutlineSearchNormal />`"
+        "jsxString": "<IsOutlineSearchNormal />"
       },
       {
         "name": "outline-search-normal1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSearchNormal1,
         "svgString": IsOutlineSearchNormal1Svg,
-        "jsxString": "`<IsOutlineSearchNormal1 />`"
+        "jsxString": "<IsOutlineSearchNormal1 />"
       },
       {
         "name": "outline-search-status",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSearchStatus,
         "svgString": IsOutlineSearchStatusSvg,
-        "jsxString": "`<IsOutlineSearchStatus />`"
+        "jsxString": "<IsOutlineSearchStatus />"
       },
       {
         "name": "outline-search-status1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSearchStatus1,
         "svgString": IsOutlineSearchStatus1Svg,
-        "jsxString": "`<IsOutlineSearchStatus1 />`"
+        "jsxString": "<IsOutlineSearchStatus1 />"
       },
       {
         "name": "outline-search-zoom-in",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSearchZoomIn,
         "svgString": IsOutlineSearchZoomInSvg,
-        "jsxString": "`<IsOutlineSearchZoomIn />`"
+        "jsxString": "<IsOutlineSearchZoomIn />"
       },
       {
         "name": "outline-search-zoom-in1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSearchZoomIn1,
         "svgString": IsOutlineSearchZoomIn1Svg,
-        "jsxString": "`<IsOutlineSearchZoomIn1 />`"
+        "jsxString": "<IsOutlineSearchZoomIn1 />"
       },
       {
         "name": "outline-search-zoom-out",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSearchZoomOut,
         "svgString": IsOutlineSearchZoomOutSvg,
-        "jsxString": "`<IsOutlineSearchZoomOut />`"
+        "jsxString": "<IsOutlineSearchZoomOut />"
       },
       {
         "name": "outline-search-zoom-out1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSearchZoomOut1,
         "svgString": IsOutlineSearchZoomOut1Svg,
-        "jsxString": "`<IsOutlineSearchZoomOut1 />`"
+        "jsxString": "<IsOutlineSearchZoomOut1 />"
       },
       {
         "name": "outline-security",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSecurity,
         "svgString": IsOutlineSecuritySvg,
-        "jsxString": "`<IsOutlineSecurity />`"
+        "jsxString": "<IsOutlineSecurity />"
       },
       {
         "name": "outline-security-card",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSecurityCard,
         "svgString": IsOutlineSecurityCardSvg,
-        "jsxString": "`<IsOutlineSecurityCard />`"
+        "jsxString": "<IsOutlineSecurityCard />"
       },
       {
         "name": "outline-security-safe",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSecuritySafe,
         "svgString": IsOutlineSecuritySafeSvg,
-        "jsxString": "`<IsOutlineSecuritySafe />`"
+        "jsxString": "<IsOutlineSecuritySafe />"
       },
       {
         "name": "outline-security-time",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSecurityTime,
         "svgString": IsOutlineSecurityTimeSvg,
-        "jsxString": "`<IsOutlineSecurityTime />`"
+        "jsxString": "<IsOutlineSecurityTime />"
       },
       {
         "name": "outline-security-user",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSecurityUser,
         "svgString": IsOutlineSecurityUserSvg,
-        "jsxString": "`<IsOutlineSecurityUser />`"
+        "jsxString": "<IsOutlineSecurityUser />"
       },
       {
         "name": "outline-send",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSend,
         "svgString": IsOutlineSendSvg,
-        "jsxString": "`<IsOutlineSend />`"
+        "jsxString": "<IsOutlineSend />"
       },
       {
         "name": "outline-send-sqaure2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSendSqaure2,
         "svgString": IsOutlineSendSqaure2Svg,
-        "jsxString": "`<IsOutlineSendSqaure2 />`"
+        "jsxString": "<IsOutlineSendSqaure2 />"
       },
       {
         "name": "outline-send-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSendSquare,
         "svgString": IsOutlineSendSquareSvg,
-        "jsxString": "`<IsOutlineSendSquare />`"
+        "jsxString": "<IsOutlineSendSquare />"
       },
       {
         "name": "outline-send1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSend1,
         "svgString": IsOutlineSend1Svg,
-        "jsxString": "`<IsOutlineSend1 />`"
+        "jsxString": "<IsOutlineSend1 />"
       },
       {
         "name": "outline-send2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSend2,
         "svgString": IsOutlineSend2Svg,
-        "jsxString": "`<IsOutlineSend2 />`"
+        "jsxString": "<IsOutlineSend2 />"
       },
       {
         "name": "outline-setting",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSetting,
         "svgString": IsOutlineSettingSvg,
-        "jsxString": "`<IsOutlineSetting />`"
+        "jsxString": "<IsOutlineSetting />"
       },
       {
         "name": "outline-setting2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSetting2,
         "svgString": IsOutlineSetting2Svg,
-        "jsxString": "`<IsOutlineSetting2 />`"
+        "jsxString": "<IsOutlineSetting2 />"
       },
       {
         "name": "outline-setting3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSetting3,
         "svgString": IsOutlineSetting3Svg,
-        "jsxString": "`<IsOutlineSetting3 />`"
+        "jsxString": "<IsOutlineSetting3 />"
       },
       {
         "name": "outline-setting4",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSetting4,
         "svgString": IsOutlineSetting4Svg,
-        "jsxString": "`<IsOutlineSetting4 />`"
+        "jsxString": "<IsOutlineSetting4 />"
       },
       {
         "name": "outline-setting5",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSetting5,
         "svgString": IsOutlineSetting5Svg,
-        "jsxString": "`<IsOutlineSetting5 />`"
+        "jsxString": "<IsOutlineSetting5 />"
       },
       {
         "name": "outline-settings",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSettings,
         "svgString": IsOutlineSettingsSvg,
-        "jsxString": "`<IsOutlineSettings />`"
+        "jsxString": "<IsOutlineSettings />"
       },
       {
         "name": "outline-shapes",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShapes,
         "svgString": IsOutlineShapesSvg,
-        "jsxString": "`<IsOutlineShapes />`"
+        "jsxString": "<IsOutlineShapes />"
       },
       {
         "name": "outline-shapes1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShapes1,
         "svgString": IsOutlineShapes1Svg,
-        "jsxString": "`<IsOutlineShapes1 />`"
+        "jsxString": "<IsOutlineShapes1 />"
       },
       {
         "name": "outline-shapes2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShapes2,
         "svgString": IsOutlineShapes2Svg,
-        "jsxString": "`<IsOutlineShapes2 />`"
+        "jsxString": "<IsOutlineShapes2 />"
       },
       {
         "name": "outline-share",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShare,
         "svgString": IsOutlineShareSvg,
-        "jsxString": "`<IsOutlineShare />`"
+        "jsxString": "<IsOutlineShare />"
       },
       {
         "name": "outline-shield",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShield,
         "svgString": IsOutlineShieldSvg,
-        "jsxString": "`<IsOutlineShield />`"
+        "jsxString": "<IsOutlineShield />"
       },
       {
         "name": "outline-shield-cross",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShieldCross,
         "svgString": IsOutlineShieldCrossSvg,
-        "jsxString": "`<IsOutlineShieldCross />`"
+        "jsxString": "<IsOutlineShieldCross />"
       },
       {
         "name": "outline-shield-search",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShieldSearch,
         "svgString": IsOutlineShieldSearchSvg,
-        "jsxString": "`<IsOutlineShieldSearch />`"
+        "jsxString": "<IsOutlineShieldSearch />"
       },
       {
         "name": "outline-shield-security",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShieldSecurity,
         "svgString": IsOutlineShieldSecuritySvg,
-        "jsxString": "`<IsOutlineShieldSecurity />`"
+        "jsxString": "<IsOutlineShieldSecurity />"
       },
       {
         "name": "outline-shield-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShieldSlash,
         "svgString": IsOutlineShieldSlashSvg,
-        "jsxString": "`<IsOutlineShieldSlash />`"
+        "jsxString": "<IsOutlineShieldSlash />"
       },
       {
         "name": "outline-shield-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShieldTick,
         "svgString": IsOutlineShieldTickSvg,
-        "jsxString": "`<IsOutlineShieldTick />`"
+        "jsxString": "<IsOutlineShieldTick />"
       },
       {
         "name": "outline-ship",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShip,
         "svgString": IsOutlineShipSvg,
-        "jsxString": "`<IsOutlineShip />`"
+        "jsxString": "<IsOutlineShip />"
       },
       {
         "name": "outline-shop",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShop,
         "svgString": IsOutlineShopSvg,
-        "jsxString": "`<IsOutlineShop />`"
+        "jsxString": "<IsOutlineShop />"
       },
       {
         "name": "outline-shop-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShopAdd,
         "svgString": IsOutlineShopAddSvg,
-        "jsxString": "`<IsOutlineShopAdd />`"
+        "jsxString": "<IsOutlineShopAdd />"
       },
       {
         "name": "outline-shop-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShopRemove,
         "svgString": IsOutlineShopRemoveSvg,
-        "jsxString": "`<IsOutlineShopRemove />`"
+        "jsxString": "<IsOutlineShopRemove />"
       },
       {
         "name": "outline-shopping-bag",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShoppingBag,
         "svgString": IsOutlineShoppingBagSvg,
-        "jsxString": "`<IsOutlineShoppingBag />`"
+        "jsxString": "<IsOutlineShoppingBag />"
       },
       {
         "name": "outline-shopping-cart",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineShoppingCart,
         "svgString": IsOutlineShoppingCartSvg,
-        "jsxString": "`<IsOutlineShoppingCart />`"
+        "jsxString": "<IsOutlineShoppingCart />"
       },
       {
         "name": "outline-siacoin",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSiacoin,
         "svgString": IsOutlineSiacoinSvg,
-        "jsxString": "`<IsOutlineSiacoin />`"
+        "jsxString": "<IsOutlineSiacoin />"
       },
       {
         "name": "outline-sidebar-bottom",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSidebarBottom,
         "svgString": IsOutlineSidebarBottomSvg,
-        "jsxString": "`<IsOutlineSidebarBottom />`"
+        "jsxString": "<IsOutlineSidebarBottom />"
       },
       {
         "name": "outline-sidebar-left",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSidebarLeft,
         "svgString": IsOutlineSidebarLeftSvg,
-        "jsxString": "`<IsOutlineSidebarLeft />`"
+        "jsxString": "<IsOutlineSidebarLeft />"
       },
       {
         "name": "outline-sidebar-right",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSidebarRight,
         "svgString": IsOutlineSidebarRightSvg,
-        "jsxString": "`<IsOutlineSidebarRight />`"
+        "jsxString": "<IsOutlineSidebarRight />"
       },
       {
         "name": "outline-sidebar-top",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSidebarTop,
         "svgString": IsOutlineSidebarTopSvg,
-        "jsxString": "`<IsOutlineSidebarTop />`"
+        "jsxString": "<IsOutlineSidebarTop />"
       },
       {
         "name": "outline-signpost",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSignpost,
         "svgString": IsOutlineSignpostSvg,
-        "jsxString": "`<IsOutlineSignpost />`"
+        "jsxString": "<IsOutlineSignpost />"
       },
       {
         "name": "outline-simcard",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSimcard,
         "svgString": IsOutlineSimcardSvg,
-        "jsxString": "`<IsOutlineSimcard />`"
+        "jsxString": "<IsOutlineSimcard />"
       },
       {
         "name": "outline-simcard1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSimcard1,
         "svgString": IsOutlineSimcard1Svg,
-        "jsxString": "`<IsOutlineSimcard1 />`"
+        "jsxString": "<IsOutlineSimcard1 />"
       },
       {
         "name": "outline-simcard2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSimcard2,
         "svgString": IsOutlineSimcard2Svg,
-        "jsxString": "`<IsOutlineSimcard2 />`"
+        "jsxString": "<IsOutlineSimcard2 />"
       },
       {
         "name": "outline-size",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSize,
         "svgString": IsOutlineSizeSvg,
-        "jsxString": "`<IsOutlineSize />`"
+        "jsxString": "<IsOutlineSize />"
       },
       {
         "name": "outline-slack",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSlack,
         "svgString": IsOutlineSlackSvg,
-        "jsxString": "`<IsOutlineSlack />`"
+        "jsxString": "<IsOutlineSlack />"
       },
       {
         "name": "outline-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSlash,
         "svgString": IsOutlineSlashSvg,
-        "jsxString": "`<IsOutlineSlash />`"
+        "jsxString": "<IsOutlineSlash />"
       },
       {
         "name": "outline-slider",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSlider,
         "svgString": IsOutlineSliderSvg,
-        "jsxString": "`<IsOutlineSlider />`"
+        "jsxString": "<IsOutlineSlider />"
       },
       {
         "name": "outline-slider-horizontal",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSliderHorizontal,
         "svgString": IsOutlineSliderHorizontalSvg,
-        "jsxString": "`<IsOutlineSliderHorizontal />`"
+        "jsxString": "<IsOutlineSliderHorizontal />"
       },
       {
         "name": "outline-slider-horizontal1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSliderHorizontal1,
         "svgString": IsOutlineSliderHorizontal1Svg,
-        "jsxString": "`<IsOutlineSliderHorizontal1 />`"
+        "jsxString": "<IsOutlineSliderHorizontal1 />"
       },
       {
         "name": "outline-slider-vertical",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSliderVertical,
         "svgString": IsOutlineSliderVerticalSvg,
-        "jsxString": "`<IsOutlineSliderVertical />`"
+        "jsxString": "<IsOutlineSliderVertical />"
       },
       {
         "name": "outline-slider-vertical1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSliderVertical1,
         "svgString": IsOutlineSliderVertical1Svg,
-        "jsxString": "`<IsOutlineSliderVertical1 />`"
+        "jsxString": "<IsOutlineSliderVertical1 />"
       },
       {
         "name": "outline-smallcaps",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSmallcaps,
         "svgString": IsOutlineSmallcapsSvg,
-        "jsxString": "`<IsOutlineSmallcaps />`"
+        "jsxString": "<IsOutlineSmallcaps />"
       },
       {
         "name": "outline-smart-car",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSmartCar,
         "svgString": IsOutlineSmartCarSvg,
-        "jsxString": "`<IsOutlineSmartCar />`"
+        "jsxString": "<IsOutlineSmartCar />"
       },
       {
         "name": "outline-smart-home",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSmartHome,
         "svgString": IsOutlineSmartHomeSvg,
-        "jsxString": "`<IsOutlineSmartHome />`"
+        "jsxString": "<IsOutlineSmartHome />"
       },
       {
         "name": "outline-smileys",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSmileys,
         "svgString": IsOutlineSmileysSvg,
-        "jsxString": "`<IsOutlineSmileys />`"
+        "jsxString": "<IsOutlineSmileys />"
       },
       {
         "name": "outline-sms",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSms,
         "svgString": IsOutlineSmsSvg,
-        "jsxString": "`<IsOutlineSms />`"
+        "jsxString": "<IsOutlineSms />"
       },
       {
         "name": "outline-sms-edit",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSmsEdit,
         "svgString": IsOutlineSmsEditSvg,
-        "jsxString": "`<IsOutlineSmsEdit />`"
+        "jsxString": "<IsOutlineSmsEdit />"
       },
       {
         "name": "outline-sms-notification",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSmsNotification,
         "svgString": IsOutlineSmsNotificationSvg,
-        "jsxString": "`<IsOutlineSmsNotification />`"
+        "jsxString": "<IsOutlineSmsNotification />"
       },
       {
         "name": "outline-sms-search",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSmsSearch,
         "svgString": IsOutlineSmsSearchSvg,
-        "jsxString": "`<IsOutlineSmsSearch />`"
+        "jsxString": "<IsOutlineSmsSearch />"
       },
       {
         "name": "outline-sms-star",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSmsStar,
         "svgString": IsOutlineSmsStarSvg,
-        "jsxString": "`<IsOutlineSmsStar />`"
+        "jsxString": "<IsOutlineSmsStar />"
       },
       {
         "name": "outline-sms-tracking",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSmsTracking,
         "svgString": IsOutlineSmsTrackingSvg,
-        "jsxString": "`<IsOutlineSmsTracking />`"
+        "jsxString": "<IsOutlineSmsTracking />"
       },
       {
         "name": "outline-snapchat",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSnapchat,
         "svgString": IsOutlineSnapchatSvg,
-        "jsxString": "`<IsOutlineSnapchat />`"
+        "jsxString": "<IsOutlineSnapchat />"
       },
       {
         "name": "outline-solana",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSolana,
         "svgString": IsOutlineSolanaSvg,
-        "jsxString": "`<IsOutlineSolana />`"
+        "jsxString": "<IsOutlineSolana />"
       },
       {
         "name": "outline-sort",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSort,
         "svgString": IsOutlineSortSvg,
-        "jsxString": "`<IsOutlineSort />`"
+        "jsxString": "<IsOutlineSort />"
       },
       {
         "name": "outline-sound",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSound,
         "svgString": IsOutlineSoundSvg,
-        "jsxString": "`<IsOutlineSound />`"
+        "jsxString": "<IsOutlineSound />"
       },
       {
         "name": "outline-speaker",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSpeaker,
         "svgString": IsOutlineSpeakerSvg,
-        "jsxString": "`<IsOutlineSpeaker />`"
+        "jsxString": "<IsOutlineSpeaker />"
       },
       {
         "name": "outline-speedometer",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSpeedometer,
         "svgString": IsOutlineSpeedometerSvg,
-        "jsxString": "`<IsOutlineSpeedometer />`"
+        "jsxString": "<IsOutlineSpeedometer />"
       },
       {
         "name": "outline-spotify",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSpotify,
         "svgString": IsOutlineSpotifySvg,
-        "jsxString": "`<IsOutlineSpotify />`"
+        "jsxString": "<IsOutlineSpotify />"
       },
       {
         "name": "outline-stacks",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineStacks,
         "svgString": IsOutlineStacksSvg,
-        "jsxString": "`<IsOutlineStacks />`"
+        "jsxString": "<IsOutlineStacks />"
       },
       {
         "name": "outline-star",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineStar,
         "svgString": IsOutlineStarSvg,
-        "jsxString": "`<IsOutlineStar />`"
+        "jsxString": "<IsOutlineStar />"
       },
       {
         "name": "outline-star-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineStarSlash,
         "svgString": IsOutlineStarSlashSvg,
-        "jsxString": "`<IsOutlineStarSlash />`"
+        "jsxString": "<IsOutlineStarSlash />"
       },
       {
         "name": "outline-star1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineStar1,
         "svgString": IsOutlineStar1Svg,
-        "jsxString": "`<IsOutlineStar1 />`"
+        "jsxString": "<IsOutlineStar1 />"
       },
       {
         "name": "outline-status",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineStatus,
         "svgString": IsOutlineStatusSvg,
-        "jsxString": "`<IsOutlineStatus />`"
+        "jsxString": "<IsOutlineStatus />"
       },
       {
         "name": "outline-status-up",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineStatusUp,
         "svgString": IsOutlineStatusUpSvg,
-        "jsxString": "`<IsOutlineStatusUp />`"
+        "jsxString": "<IsOutlineStatusUp />"
       },
       {
         "name": "outline-stellar",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineStellar,
         "svgString": IsOutlineStellarSvg,
-        "jsxString": "`<IsOutlineStellar />`"
+        "jsxString": "<IsOutlineStellar />"
       },
       {
         "name": "outline-sticker",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSticker,
         "svgString": IsOutlineStickerSvg,
-        "jsxString": "`<IsOutlineSticker />`"
+        "jsxString": "<IsOutlineSticker />"
       },
       {
         "name": "outline-stickynote",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineStickynote,
         "svgString": IsOutlineStickynoteSvg,
-        "jsxString": "`<IsOutlineStickynote />`"
+        "jsxString": "<IsOutlineStickynote />"
       },
       {
         "name": "outline-stop",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineStop,
         "svgString": IsOutlineStopSvg,
-        "jsxString": "`<IsOutlineStop />`"
+        "jsxString": "<IsOutlineStop />"
       },
       {
         "name": "outline-stop-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineStopCircle,
         "svgString": IsOutlineStopCircleSvg,
-        "jsxString": "`<IsOutlineStopCircle />`"
+        "jsxString": "<IsOutlineStopCircle />"
       },
       {
         "name": "outline-story",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineStory,
         "svgString": IsOutlineStorySvg,
-        "jsxString": "`<IsOutlineStory />`"
+        "jsxString": "<IsOutlineStory />"
       },
       {
         "name": "outline-strongbox",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineStrongbox,
         "svgString": IsOutlineStrongboxSvg,
-        "jsxString": "`<IsOutlineStrongbox />`"
+        "jsxString": "<IsOutlineStrongbox />"
       },
       {
         "name": "outline-strongbox2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineStrongbox2,
         "svgString": IsOutlineStrongbox2Svg,
-        "jsxString": "`<IsOutlineStrongbox2 />`"
+        "jsxString": "<IsOutlineStrongbox2 />"
       },
       {
         "name": "outline-subtitle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSubtitle,
         "svgString": IsOutlineSubtitleSvg,
-        "jsxString": "`<IsOutlineSubtitle />`"
+        "jsxString": "<IsOutlineSubtitle />"
       },
       {
         "name": "outline-sun",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSun,
         "svgString": IsOutlineSunSvg,
-        "jsxString": "`<IsOutlineSun />`"
+        "jsxString": "<IsOutlineSun />"
       },
       {
         "name": "outline-sun-fog",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSunFog,
         "svgString": IsOutlineSunFogSvg,
-        "jsxString": "`<IsOutlineSunFog />`"
+        "jsxString": "<IsOutlineSunFog />"
       },
       {
         "name": "outline-sun1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineSun1,
         "svgString": IsOutlineSun1Svg,
-        "jsxString": "`<IsOutlineSun1 />`"
+        "jsxString": "<IsOutlineSun1 />"
       },
       {
         "name": "outline-tag",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTag,
         "svgString": IsOutlineTagSvg,
-        "jsxString": "`<IsOutlineTag />`"
+        "jsxString": "<IsOutlineTag />"
       },
       {
         "name": "outline-tag-cross",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTagCross,
         "svgString": IsOutlineTagCrossSvg,
-        "jsxString": "`<IsOutlineTagCross />`"
+        "jsxString": "<IsOutlineTagCross />"
       },
       {
         "name": "outline-tag-right",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTagRight,
         "svgString": IsOutlineTagRightSvg,
-        "jsxString": "`<IsOutlineTagRight />`"
+        "jsxString": "<IsOutlineTagRight />"
       },
       {
         "name": "outline-tag-user",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTagUser,
         "svgString": IsOutlineTagUserSvg,
-        "jsxString": "`<IsOutlineTagUser />`"
+        "jsxString": "<IsOutlineTagUser />"
       },
       {
         "name": "outline-tag2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTag2,
         "svgString": IsOutlineTag2Svg,
-        "jsxString": "`<IsOutlineTag2 />`"
+        "jsxString": "<IsOutlineTag2 />"
       },
       {
         "name": "outline-task",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTask,
         "svgString": IsOutlineTaskSvg,
-        "jsxString": "`<IsOutlineTask />`"
+        "jsxString": "<IsOutlineTask />"
       },
       {
         "name": "outline-task-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTaskSquare,
         "svgString": IsOutlineTaskSquareSvg,
-        "jsxString": "`<IsOutlineTaskSquare />`"
+        "jsxString": "<IsOutlineTaskSquare />"
       },
       {
         "name": "outline-teacher",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTeacher,
         "svgString": IsOutlineTeacherSvg,
-        "jsxString": "`<IsOutlineTeacher />`"
+        "jsxString": "<IsOutlineTeacher />"
       },
       {
         "name": "outline-tenx",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTenx,
         "svgString": IsOutlineTenxSvg,
-        "jsxString": "`<IsOutlineTenx />`"
+        "jsxString": "<IsOutlineTenx />"
       },
       {
         "name": "outline-tether",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTether,
         "svgString": IsOutlineTetherSvg,
-        "jsxString": "`<IsOutlineTether />`"
+        "jsxString": "<IsOutlineTether />"
       },
       {
         "name": "outline-text",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineText,
         "svgString": IsOutlineTextSvg,
-        "jsxString": "`<IsOutlineText />`"
+        "jsxString": "<IsOutlineText />"
       },
       {
         "name": "outline-text-block",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTextBlock,
         "svgString": IsOutlineTextBlockSvg,
-        "jsxString": "`<IsOutlineTextBlock />`"
+        "jsxString": "<IsOutlineTextBlock />"
       },
       {
         "name": "outline-text-bold",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTextBold,
         "svgString": IsOutlineTextBoldSvg,
-        "jsxString": "`<IsOutlineTextBold />`"
+        "jsxString": "<IsOutlineTextBold />"
       },
       {
         "name": "outline-text-italic",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTextItalic,
         "svgString": IsOutlineTextItalicSvg,
-        "jsxString": "`<IsOutlineTextItalic />`"
+        "jsxString": "<IsOutlineTextItalic />"
       },
       {
         "name": "outline-text-underline",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTextUnderline,
         "svgString": IsOutlineTextUnderlineSvg,
-        "jsxString": "`<IsOutlineTextUnderline />`"
+        "jsxString": "<IsOutlineTextUnderline />"
       },
       {
         "name": "outline-textalign-center",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTextalignCenter,
         "svgString": IsOutlineTextalignCenterSvg,
-        "jsxString": "`<IsOutlineTextalignCenter />`"
+        "jsxString": "<IsOutlineTextalignCenter />"
       },
       {
         "name": "outline-textalign-justifycenter",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTextalignJustifycenter,
         "svgString": IsOutlineTextalignJustifycenterSvg,
-        "jsxString": "`<IsOutlineTextalignJustifycenter />`"
+        "jsxString": "<IsOutlineTextalignJustifycenter />"
       },
       {
         "name": "outline-textalign-justifyleft",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTextalignJustifyleft,
         "svgString": IsOutlineTextalignJustifyleftSvg,
-        "jsxString": "`<IsOutlineTextalignJustifyleft />`"
+        "jsxString": "<IsOutlineTextalignJustifyleft />"
       },
       {
         "name": "outline-textalign-justifyright",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTextalignJustifyright,
         "svgString": IsOutlineTextalignJustifyrightSvg,
-        "jsxString": "`<IsOutlineTextalignJustifyright />`"
+        "jsxString": "<IsOutlineTextalignJustifyright />"
       },
       {
         "name": "outline-textalign-left",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTextalignLeft,
         "svgString": IsOutlineTextalignLeftSvg,
-        "jsxString": "`<IsOutlineTextalignLeft />`"
+        "jsxString": "<IsOutlineTextalignLeft />"
       },
       {
         "name": "outline-textalign-right",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTextalignRight,
         "svgString": IsOutlineTextalignRightSvg,
-        "jsxString": "`<IsOutlineTextalignRight />`"
+        "jsxString": "<IsOutlineTextalignRight />"
       },
       {
         "name": "outline-the-graph",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTheGraph,
         "svgString": IsOutlineTheGraphSvg,
-        "jsxString": "`<IsOutlineTheGraph />`"
+        "jsxString": "<IsOutlineTheGraph />"
       },
       {
         "name": "outline-theta",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTheta,
         "svgString": IsOutlineThetaSvg,
-        "jsxString": "`<IsOutlineTheta />`"
+        "jsxString": "<IsOutlineTheta />"
       },
       {
         "name": "outline-thorchain",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineThorchain,
         "svgString": IsOutlineThorchainSvg,
-        "jsxString": "`<IsOutlineThorchain />`"
+        "jsxString": "<IsOutlineThorchain />"
       },
       {
         "name": "outline-tick-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTickCircle,
         "svgString": IsOutlineTickCircleSvg,
-        "jsxString": "`<IsOutlineTickCircle />`"
+        "jsxString": "<IsOutlineTickCircle />"
       },
       {
         "name": "outline-tick-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTickSquare,
         "svgString": IsOutlineTickSquareSvg,
-        "jsxString": "`<IsOutlineTickSquare />`"
+        "jsxString": "<IsOutlineTickSquare />"
       },
       {
         "name": "outline-ticket",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTicket,
         "svgString": IsOutlineTicketSvg,
-        "jsxString": "`<IsOutlineTicket />`"
+        "jsxString": "<IsOutlineTicket />"
       },
       {
         "name": "outline-ticket-discount",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTicketDiscount,
         "svgString": IsOutlineTicketDiscountSvg,
-        "jsxString": "`<IsOutlineTicketDiscount />`"
+        "jsxString": "<IsOutlineTicketDiscount />"
       },
       {
         "name": "outline-ticket-expired",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTicketExpired,
         "svgString": IsOutlineTicketExpiredSvg,
-        "jsxString": "`<IsOutlineTicketExpired />`"
+        "jsxString": "<IsOutlineTicketExpired />"
       },
       {
         "name": "outline-ticket-star",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTicketStar,
         "svgString": IsOutlineTicketStarSvg,
-        "jsxString": "`<IsOutlineTicketStar />`"
+        "jsxString": "<IsOutlineTicketStar />"
       },
       {
         "name": "outline-ticket2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTicket2,
         "svgString": IsOutlineTicket2Svg,
-        "jsxString": "`<IsOutlineTicket2 />`"
+        "jsxString": "<IsOutlineTicket2 />"
       },
       {
         "name": "outline-timer",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTimer,
         "svgString": IsOutlineTimerSvg,
-        "jsxString": "`<IsOutlineTimer />`"
+        "jsxString": "<IsOutlineTimer />"
       },
       {
         "name": "outline-timer-pause",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTimerPause,
         "svgString": IsOutlineTimerPauseSvg,
-        "jsxString": "`<IsOutlineTimerPause />`"
+        "jsxString": "<IsOutlineTimerPause />"
       },
       {
         "name": "outline-timer-start",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTimerStart,
         "svgString": IsOutlineTimerStartSvg,
-        "jsxString": "`<IsOutlineTimerStart />`"
+        "jsxString": "<IsOutlineTimerStart />"
       },
       {
         "name": "outline-timer1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTimer1,
         "svgString": IsOutlineTimer1Svg,
-        "jsxString": "`<IsOutlineTimer1 />`"
+        "jsxString": "<IsOutlineTimer1 />"
       },
       {
         "name": "outline-toggle-off",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineToggleOff,
         "svgString": IsOutlineToggleOffSvg,
-        "jsxString": "`<IsOutlineToggleOff />`"
+        "jsxString": "<IsOutlineToggleOff />"
       },
       {
         "name": "outline-toggle-off-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineToggleOffCircle,
         "svgString": IsOutlineToggleOffCircleSvg,
-        "jsxString": "`<IsOutlineToggleOffCircle />`"
+        "jsxString": "<IsOutlineToggleOffCircle />"
       },
       {
         "name": "outline-toggle-on",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineToggleOn,
         "svgString": IsOutlineToggleOnSvg,
-        "jsxString": "`<IsOutlineToggleOn />`"
+        "jsxString": "<IsOutlineToggleOn />"
       },
       {
         "name": "outline-toggle-on-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineToggleOnCircle,
         "svgString": IsOutlineToggleOnCircleSvg,
-        "jsxString": "`<IsOutlineToggleOnCircle />`"
+        "jsxString": "<IsOutlineToggleOnCircle />"
       },
       {
         "name": "outline-trade",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTrade,
         "svgString": IsOutlineTradeSvg,
-        "jsxString": "`<IsOutlineTrade />`"
+        "jsxString": "<IsOutlineTrade />"
       },
       {
         "name": "outline-transaction-minus",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTransactionMinus,
         "svgString": IsOutlineTransactionMinusSvg,
-        "jsxString": "`<IsOutlineTransactionMinus />`"
+        "jsxString": "<IsOutlineTransactionMinus />"
       },
       {
         "name": "outline-translate",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTranslate,
         "svgString": IsOutlineTranslateSvg,
-        "jsxString": "`<IsOutlineTranslate />`"
+        "jsxString": "<IsOutlineTranslate />"
       },
       {
         "name": "outline-trash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTrash,
         "svgString": IsOutlineTrashSvg,
-        "jsxString": "`<IsOutlineTrash />`"
+        "jsxString": "<IsOutlineTrash />"
       },
       {
         "name": "outline-tree",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTree,
         "svgString": IsOutlineTreeSvg,
-        "jsxString": "`<IsOutlineTree />`"
+        "jsxString": "<IsOutlineTree />"
       },
       {
         "name": "outline-trello",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTrello,
         "svgString": IsOutlineTrelloSvg,
-        "jsxString": "`<IsOutlineTrello />`"
+        "jsxString": "<IsOutlineTrello />"
       },
       {
         "name": "outline-trend-down",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTrendDown,
         "svgString": IsOutlineTrendDownSvg,
-        "jsxString": "`<IsOutlineTrendDown />`"
+        "jsxString": "<IsOutlineTrendDown />"
       },
       {
         "name": "outline-trend-up",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTrendUp,
         "svgString": IsOutlineTrendUpSvg,
-        "jsxString": "`<IsOutlineTrendUp />`"
+        "jsxString": "<IsOutlineTrendUp />"
       },
       {
         "name": "outline-triangle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTriangle,
         "svgString": IsOutlineTriangleSvg,
-        "jsxString": "`<IsOutlineTriangle />`"
+        "jsxString": "<IsOutlineTriangle />"
       },
       {
         "name": "outline-triangle1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTriangle1,
         "svgString": IsOutlineTriangle1Svg,
-        "jsxString": "`<IsOutlineTriangle1 />`"
+        "jsxString": "<IsOutlineTriangle1 />"
       },
       {
         "name": "outline-trontron",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTrontron,
         "svgString": IsOutlineTrontronSvg,
-        "jsxString": "`<IsOutlineTrontron />`"
+        "jsxString": "<IsOutlineTrontron />"
       },
       {
         "name": "outline-truck-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTruckRemove,
         "svgString": IsOutlineTruckRemoveSvg,
-        "jsxString": "`<IsOutlineTruckRemove />`"
+        "jsxString": "<IsOutlineTruckRemove />"
       },
       {
         "name": "outline-truck-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTruckTick,
         "svgString": IsOutlineTruckTickSvg,
-        "jsxString": "`<IsOutlineTruckTick />`"
+        "jsxString": "<IsOutlineTruckTick />"
       },
       {
         "name": "outline-truck-time",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTruckTime,
         "svgString": IsOutlineTruckTimeSvg,
-        "jsxString": "`<IsOutlineTruckTime />`"
+        "jsxString": "<IsOutlineTruckTime />"
       },
       {
         "name": "outline-trush-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTrushSquare,
         "svgString": IsOutlineTrushSquareSvg,
-        "jsxString": "`<IsOutlineTrushSquare />`"
+        "jsxString": "<IsOutlineTrushSquare />"
       },
       {
         "name": "outline-twitch",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineTwitch,
         "svgString": IsOutlineTwitchSvg,
-        "jsxString": "`<IsOutlineTwitch />`"
+        "jsxString": "<IsOutlineTwitch />"
       },
       {
         "name": "outline-ui8",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUi8,
         "svgString": IsOutlineUi8Svg,
-        "jsxString": "`<IsOutlineUi8 />`"
+        "jsxString": "<IsOutlineUi8 />"
       },
       {
         "name": "outline-undo",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUndo,
         "svgString": IsOutlineUndoSvg,
-        "jsxString": "`<IsOutlineUndo />`"
+        "jsxString": "<IsOutlineUndo />"
       },
       {
         "name": "outline-unlimited",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUnlimited,
         "svgString": IsOutlineUnlimitedSvg,
-        "jsxString": "`<IsOutlineUnlimited />`"
+        "jsxString": "<IsOutlineUnlimited />"
       },
       {
         "name": "outline-unlock",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUnlock,
         "svgString": IsOutlineUnlockSvg,
-        "jsxString": "`<IsOutlineUnlock />`"
+        "jsxString": "<IsOutlineUnlock />"
       },
       {
         "name": "outline-usd-coin",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUsdCoin,
         "svgString": IsOutlineUsdCoinSvg,
-        "jsxString": "`<IsOutlineUsdCoin />`"
+        "jsxString": "<IsOutlineUsdCoin />"
       },
       {
         "name": "outline-user",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUser,
         "svgString": IsOutlineUserSvg,
-        "jsxString": "`<IsOutlineUser />`"
+        "jsxString": "<IsOutlineUser />"
       },
       {
         "name": "outline-user-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUserAdd,
         "svgString": IsOutlineUserAddSvg,
-        "jsxString": "`<IsOutlineUserAdd />`"
+        "jsxString": "<IsOutlineUserAdd />"
       },
       {
         "name": "outline-user-cirlce-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUserCirlceAdd,
         "svgString": IsOutlineUserCirlceAddSvg,
-        "jsxString": "`<IsOutlineUserCirlceAdd />`"
+        "jsxString": "<IsOutlineUserCirlceAdd />"
       },
       {
         "name": "outline-user-edit",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUserEdit,
         "svgString": IsOutlineUserEditSvg,
-        "jsxString": "`<IsOutlineUserEdit />`"
+        "jsxString": "<IsOutlineUserEdit />"
       },
       {
         "name": "outline-user-minus",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUserMinus,
         "svgString": IsOutlineUserMinusSvg,
-        "jsxString": "`<IsOutlineUserMinus />`"
+        "jsxString": "<IsOutlineUserMinus />"
       },
       {
         "name": "outline-user-octagon",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUserOctagon,
         "svgString": IsOutlineUserOctagonSvg,
-        "jsxString": "`<IsOutlineUserOctagon />`"
+        "jsxString": "<IsOutlineUserOctagon />"
       },
       {
         "name": "outline-user-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUserRemove,
         "svgString": IsOutlineUserRemoveSvg,
-        "jsxString": "`<IsOutlineUserRemove />`"
+        "jsxString": "<IsOutlineUserRemove />"
       },
       {
         "name": "outline-user-search",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUserSearch,
         "svgString": IsOutlineUserSearchSvg,
-        "jsxString": "`<IsOutlineUserSearch />`"
+        "jsxString": "<IsOutlineUserSearch />"
       },
       {
         "name": "outline-user-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUserSquare,
         "svgString": IsOutlineUserSquareSvg,
-        "jsxString": "`<IsOutlineUserSquare />`"
+        "jsxString": "<IsOutlineUserSquare />"
       },
       {
         "name": "outline-user-tag",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUserTag,
         "svgString": IsOutlineUserTagSvg,
-        "jsxString": "`<IsOutlineUserTag />`"
+        "jsxString": "<IsOutlineUserTag />"
       },
       {
         "name": "outline-user-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineUserTick,
         "svgString": IsOutlineUserTickSvg,
-        "jsxString": "`<IsOutlineUserTick />`"
+        "jsxString": "<IsOutlineUserTick />"
       },
       {
         "name": "outline-velas",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVelas,
         "svgString": IsOutlineVelasSvg,
-        "jsxString": "`<IsOutlineVelas />`"
+        "jsxString": "<IsOutlineVelas />"
       },
       {
         "name": "outline-verify",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVerify,
         "svgString": IsOutlineVerifySvg,
-        "jsxString": "`<IsOutlineVerify />`"
+        "jsxString": "<IsOutlineVerify />"
       },
       {
         "name": "outline-vibe",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVibe,
         "svgString": IsOutlineVibeSvg,
-        "jsxString": "`<IsOutlineVibe />`"
+        "jsxString": "<IsOutlineVibe />"
       },
       {
         "name": "outline-video",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVideo,
         "svgString": IsOutlineVideoSvg,
-        "jsxString": "`<IsOutlineVideo />`"
+        "jsxString": "<IsOutlineVideo />"
       },
       {
         "name": "outline-video-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVideoAdd,
         "svgString": IsOutlineVideoAddSvg,
-        "jsxString": "`<IsOutlineVideoAdd />`"
+        "jsxString": "<IsOutlineVideoAdd />"
       },
       {
         "name": "outline-video-circle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVideoCircle,
         "svgString": IsOutlineVideoCircleSvg,
-        "jsxString": "`<IsOutlineVideoCircle />`"
+        "jsxString": "<IsOutlineVideoCircle />"
       },
       {
         "name": "outline-video-horizontal",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVideoHorizontal,
         "svgString": IsOutlineVideoHorizontalSvg,
-        "jsxString": "`<IsOutlineVideoHorizontal />`"
+        "jsxString": "<IsOutlineVideoHorizontal />"
       },
       {
         "name": "outline-video-octagon",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVideoOctagon,
         "svgString": IsOutlineVideoOctagonSvg,
-        "jsxString": "`<IsOutlineVideoOctagon />`"
+        "jsxString": "<IsOutlineVideoOctagon />"
       },
       {
         "name": "outline-video-play",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVideoPlay,
         "svgString": IsOutlineVideoPlaySvg,
-        "jsxString": "`<IsOutlineVideoPlay />`"
+        "jsxString": "<IsOutlineVideoPlay />"
       },
       {
         "name": "outline-video-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVideoRemove,
         "svgString": IsOutlineVideoRemoveSvg,
-        "jsxString": "`<IsOutlineVideoRemove />`"
+        "jsxString": "<IsOutlineVideoRemove />"
       },
       {
         "name": "outline-video-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVideoSlash,
         "svgString": IsOutlineVideoSlashSvg,
-        "jsxString": "`<IsOutlineVideoSlash />`"
+        "jsxString": "<IsOutlineVideoSlash />"
       },
       {
         "name": "outline-video-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVideoSquare,
         "svgString": IsOutlineVideoSquareSvg,
-        "jsxString": "`<IsOutlineVideoSquare />`"
+        "jsxString": "<IsOutlineVideoSquare />"
       },
       {
         "name": "outline-video-tick",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVideoTick,
         "svgString": IsOutlineVideoTickSvg,
-        "jsxString": "`<IsOutlineVideoTick />`"
+        "jsxString": "<IsOutlineVideoTick />"
       },
       {
         "name": "outline-video-time",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVideoTime,
         "svgString": IsOutlineVideoTimeSvg,
-        "jsxString": "`<IsOutlineVideoTime />`"
+        "jsxString": "<IsOutlineVideoTime />"
       },
       {
         "name": "outline-video-vertical",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVideoVertical,
         "svgString": IsOutlineVideoVerticalSvg,
-        "jsxString": "`<IsOutlineVideoVertical />`"
+        "jsxString": "<IsOutlineVideoVertical />"
       },
       {
         "name": "outline-voice-cricle",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVoiceCricle,
         "svgString": IsOutlineVoiceCricleSvg,
-        "jsxString": "`<IsOutlineVoiceCricle />`"
+        "jsxString": "<IsOutlineVoiceCricle />"
       },
       {
         "name": "outline-voice-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVoiceSquare,
         "svgString": IsOutlineVoiceSquareSvg,
-        "jsxString": "`<IsOutlineVoiceSquare />`"
+        "jsxString": "<IsOutlineVoiceSquare />"
       },
       {
         "name": "outline-volume-cross",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVolumeCross,
         "svgString": IsOutlineVolumeCrossSvg,
-        "jsxString": "`<IsOutlineVolumeCross />`"
+        "jsxString": "<IsOutlineVolumeCross />"
       },
       {
         "name": "outline-volume-high",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVolumeHigh,
         "svgString": IsOutlineVolumeHighSvg,
-        "jsxString": "`<IsOutlineVolumeHigh />`"
+        "jsxString": "<IsOutlineVolumeHigh />"
       },
       {
         "name": "outline-volume-low",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVolumeLow,
         "svgString": IsOutlineVolumeLowSvg,
-        "jsxString": "`<IsOutlineVolumeLow />`"
+        "jsxString": "<IsOutlineVolumeLow />"
       },
       {
         "name": "outline-volume-low1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVolumeLow1,
         "svgString": IsOutlineVolumeLow1Svg,
-        "jsxString": "`<IsOutlineVolumeLow1 />`"
+        "jsxString": "<IsOutlineVolumeLow1 />"
       },
       {
         "name": "outline-volume-mute",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVolumeMute,
         "svgString": IsOutlineVolumeMuteSvg,
-        "jsxString": "`<IsOutlineVolumeMute />`"
+        "jsxString": "<IsOutlineVolumeMute />"
       },
       {
         "name": "outline-volume-slash",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVolumeSlash,
         "svgString": IsOutlineVolumeSlashSvg,
-        "jsxString": "`<IsOutlineVolumeSlash />`"
+        "jsxString": "<IsOutlineVolumeSlash />"
       },
       {
         "name": "outline-volume-up",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVolumeUp,
         "svgString": IsOutlineVolumeUpSvg,
-        "jsxString": "`<IsOutlineVolumeUp />`"
+        "jsxString": "<IsOutlineVolumeUp />"
       },
       {
         "name": "outline-vuesax",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineVuesax,
         "svgString": IsOutlineVuesaxSvg,
-        "jsxString": "`<IsOutlineVuesax />`"
+        "jsxString": "<IsOutlineVuesax />"
       },
       {
         "name": "outline-wallet",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWallet,
         "svgString": IsOutlineWalletSvg,
-        "jsxString": "`<IsOutlineWallet />`"
+        "jsxString": "<IsOutlineWallet />"
       },
       {
         "name": "outline-wallet-add",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWalletAdd,
         "svgString": IsOutlineWalletAddSvg,
-        "jsxString": "`<IsOutlineWalletAdd />`"
+        "jsxString": "<IsOutlineWalletAdd />"
       },
       {
         "name": "outline-wallet-add1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWalletAdd1,
         "svgString": IsOutlineWalletAdd1Svg,
-        "jsxString": "`<IsOutlineWalletAdd1 />`"
+        "jsxString": "<IsOutlineWalletAdd1 />"
       },
       {
         "name": "outline-wallet-check",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWalletCheck,
         "svgString": IsOutlineWalletCheckSvg,
-        "jsxString": "`<IsOutlineWalletCheck />`"
+        "jsxString": "<IsOutlineWalletCheck />"
       },
       {
         "name": "outline-wallet-minus",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWalletMinus,
         "svgString": IsOutlineWalletMinusSvg,
-        "jsxString": "`<IsOutlineWalletMinus />`"
+        "jsxString": "<IsOutlineWalletMinus />"
       },
       {
         "name": "outline-wallet-money",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWalletMoney,
         "svgString": IsOutlineWalletMoneySvg,
-        "jsxString": "`<IsOutlineWalletMoney />`"
+        "jsxString": "<IsOutlineWalletMoney />"
       },
       {
         "name": "outline-wallet-remove",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWalletRemove,
         "svgString": IsOutlineWalletRemoveSvg,
-        "jsxString": "`<IsOutlineWalletRemove />`"
+        "jsxString": "<IsOutlineWalletRemove />"
       },
       {
         "name": "outline-wallet-search",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWalletSearch,
         "svgString": IsOutlineWalletSearchSvg,
-        "jsxString": "`<IsOutlineWalletSearch />`"
+        "jsxString": "<IsOutlineWalletSearch />"
       },
       {
         "name": "outline-wallet1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWallet1,
         "svgString": IsOutlineWallet1Svg,
-        "jsxString": "`<IsOutlineWallet1 />`"
+        "jsxString": "<IsOutlineWallet1 />"
       },
       {
         "name": "outline-wallet2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWallet2,
         "svgString": IsOutlineWallet2Svg,
-        "jsxString": "`<IsOutlineWallet2 />`"
+        "jsxString": "<IsOutlineWallet2 />"
       },
       {
         "name": "outline-wallet3",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWallet3,
         "svgString": IsOutlineWallet3Svg,
-        "jsxString": "`<IsOutlineWallet3 />`"
+        "jsxString": "<IsOutlineWallet3 />"
       },
       {
         "name": "outline-wanchain",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWanchain,
         "svgString": IsOutlineWanchainSvg,
-        "jsxString": "`<IsOutlineWanchain />`"
+        "jsxString": "<IsOutlineWanchain />"
       },
       {
         "name": "outline-warning2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWarning2,
         "svgString": IsOutlineWarning2Svg,
-        "jsxString": "`<IsOutlineWarning2 />`"
+        "jsxString": "<IsOutlineWarning2 />"
       },
       {
         "name": "outline-watch",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWatch,
         "svgString": IsOutlineWatchSvg,
-        "jsxString": "`<IsOutlineWatch />`"
+        "jsxString": "<IsOutlineWatch />"
       },
       {
         "name": "outline-watch-status",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWatchStatus,
         "svgString": IsOutlineWatchStatusSvg,
-        "jsxString": "`<IsOutlineWatchStatus />`"
+        "jsxString": "<IsOutlineWatchStatus />"
       },
       {
         "name": "outline-weight",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWeight,
         "svgString": IsOutlineWeightSvg,
-        "jsxString": "`<IsOutlineWeight />`"
+        "jsxString": "<IsOutlineWeight />"
       },
       {
         "name": "outline-weight1",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWeight1,
         "svgString": IsOutlineWeight1Svg,
-        "jsxString": "`<IsOutlineWeight1 />`"
+        "jsxString": "<IsOutlineWeight1 />"
       },
       {
         "name": "outline-whatsapp",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWhatsapp,
         "svgString": IsOutlineWhatsappSvg,
-        "jsxString": "`<IsOutlineWhatsapp />`"
+        "jsxString": "<IsOutlineWhatsapp />"
       },
       {
         "name": "outline-wifi",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWifi,
         "svgString": IsOutlineWifiSvg,
-        "jsxString": "`<IsOutlineWifi />`"
+        "jsxString": "<IsOutlineWifi />"
       },
       {
         "name": "outline-wifi-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWifiSquare,
         "svgString": IsOutlineWifiSquareSvg,
-        "jsxString": "`<IsOutlineWifiSquare />`"
+        "jsxString": "<IsOutlineWifiSquare />"
       },
       {
         "name": "outline-wind",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWind,
         "svgString": IsOutlineWindSvg,
-        "jsxString": "`<IsOutlineWind />`"
+        "jsxString": "<IsOutlineWind />"
       },
       {
         "name": "outline-wind2",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWind2,
         "svgString": IsOutlineWind2Svg,
-        "jsxString": "`<IsOutlineWind2 />`"
+        "jsxString": "<IsOutlineWind2 />"
       },
       {
         "name": "outline-windows",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWindows,
         "svgString": IsOutlineWindowsSvg,
-        "jsxString": "`<IsOutlineWindows />`"
+        "jsxString": "<IsOutlineWindows />"
       },
       {
         "name": "outline-wing",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWing,
         "svgString": IsOutlineWingSvg,
-        "jsxString": "`<IsOutlineWing />`"
+        "jsxString": "<IsOutlineWing />"
       },
       {
         "name": "outline-woman",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineWoman,
         "svgString": IsOutlineWomanSvg,
-        "jsxString": "`<IsOutlineWoman />`"
+        "jsxString": "<IsOutlineWoman />"
       },
       {
         "name": "outline-xd",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineXd,
         "svgString": IsOutlineXdSvg,
-        "jsxString": "`<IsOutlineXd />`"
+        "jsxString": "<IsOutlineXd />"
       },
       {
         "name": "outline-xiaomi",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineXiaomi,
         "svgString": IsOutlineXiaomiSvg,
-        "jsxString": "`<IsOutlineXiaomi />`"
+        "jsxString": "<IsOutlineXiaomi />"
       },
       {
         "name": "outline-xrp",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineXrp,
         "svgString": IsOutlineXrpSvg,
-        "jsxString": "`<IsOutlineXrp />`"
+        "jsxString": "<IsOutlineXrp />"
       },
       {
         "name": "outline-youtube",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineYoutube,
         "svgString": IsOutlineYoutubeSvg,
-        "jsxString": "`<IsOutlineYoutube />`"
+        "jsxString": "<IsOutlineYoutube />"
       },
       {
         "name": "outline-zel",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineZel,
         "svgString": IsOutlineZelSvg,
-        "jsxString": "`<IsOutlineZel />`"
+        "jsxString": "<IsOutlineZel />"
       },
       {
         "name": "outline-zoom",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutlineZoom,
         "svgString": IsOutlineZoomSvg,
-        "jsxString": "`<IsOutlineZoom />`"
+        "jsxString": "<IsOutlineZoom />"
       },
       {
         "name": "outline24-support",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutline24Support,
         "svgString": IsOutline24SupportSvg,
-        "jsxString": "`<IsOutline24Support />`"
+        "jsxString": "<IsOutline24Support />"
       },
       {
         "name": "outline3d-cube-scan",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutline3dCubeScan,
         "svgString": IsOutline3dCubeScanSvg,
-        "jsxString": "`<IsOutline3dCubeScan />`"
+        "jsxString": "<IsOutline3dCubeScan />"
       },
       {
         "name": "outline3d-rotate",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutline3dRotate,
         "svgString": IsOutline3dRotateSvg,
-        "jsxString": "`<IsOutline3dRotate />`"
+        "jsxString": "<IsOutline3dRotate />"
       },
       {
         "name": "outline3d-square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutline3dSquare,
         "svgString": IsOutline3dSquareSvg,
-        "jsxString": "`<IsOutline3dSquare />`"
+        "jsxString": "<IsOutline3dSquare />"
       },
       {
         "name": "outline3dcube",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutline3dcube,
         "svgString": IsOutline3dcubeSvg,
-        "jsxString": "`<IsOutline3dcube />`"
+        "jsxString": "<IsOutline3dcube />"
       },
       {
         "name": "outline3full",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutline3full,
         "svgString": IsOutline3fullSvg,
-        "jsxString": "`<IsOutline3full />`"
+        "jsxString": "<IsOutline3full />"
       },
       {
         "name": "outline3square",
-        "style": "default",
+        "style": "outline",
         "Component": IsOutline3square,
         "svgString": IsOutline3squareSvg,
-        "jsxString": "`<IsOutline3square />`"
+        "jsxString": "<IsOutline3square />"
       }
     ]
   }

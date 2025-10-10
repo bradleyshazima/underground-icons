@@ -134,7 +134,7 @@ async function generateIconDataFile() {
         const kebabNameWithStyle = pascalToKebab(nameWithStyle);
         const parts = kebabNameWithStyle.split('-');
         
-        const style = parts[0] || 'default';
+        const style = parts[0] || 'outline';
         const iconName = parts.slice(1).join('-') || kebabNameWithStyle;
 
         matchedSet.icons.push({
@@ -142,7 +142,7 @@ async function generateIconDataFile() {
           style: style,
           Component: `%%${componentName}%%`,
           svgString: `%%${svgStringComponentName}Svg%%`,
-          jsxString: `\`<${componentName} />\``,
+          jsxString: `<${componentName} />`,
         });
       }
     }

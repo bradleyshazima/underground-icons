@@ -5,6 +5,11 @@ import { Navbar } from './components/Navbar';
 import { IconSet } from './components/IconSet';
 import { iconSets } from './data/iconData';
 
+const filterStyles = "px-3 py-1.5 text-sm font-semibold rounded-md transition-colors";
+const activeFilterStyles = "bg-[#212135] text-white";
+const inactiveFilterStyles = "text-slate-600 hover:bg-slate-200";
+
+
 function App() {
   const [searchQuery, setSearchQuery] = useState('');
   const [currentFilter, setCurrentFilter] = useState('all'); // 'all', 'fill', 'outline', etc.
@@ -42,6 +47,34 @@ function App() {
         setCurrentFilter={setCurrentFilter}
       />
       <main>
+          {/* Filters */}
+          <div className={`w-full h-16 px-40 flex items-center gap-2`}>
+            <button
+              onClick={() => setCurrentFilter('all')}
+              className={`${filterStyles} ${currentFilter === 'all' ? activeFilterStyles : inactiveFilterStyles}`}
+            >
+              All
+            </button>
+            <button
+              onClick={() => setCurrentFilter('outline')}
+              className={`${filterStyles} ${currentFilter === 'outline' ? activeFilterStyles : inactiveFilterStyles}`}
+            >
+              Outline
+            </button>
+            <button
+              onClick={() => setCurrentFilter('fill')}
+              className={`${filterStyles} ${currentFilter === 'fill' ? activeFilterStyles : inactiveFilterStyles}`}
+            >
+              Fill
+            </button>
+            <button
+              onClick={() => setCurrentFilter('duotone')}
+              className={`${filterStyles} ${currentFilter === 'duotone' ? activeFilterStyles : inactiveFilterStyles}`}
+            >
+              Duotone
+            </button>
+          </div>
+
         {filteredIconSets.length > 0 ? (
           filteredIconSets.map(set => (
             <IconSet key={set.name} set={set} />
