@@ -3,7 +3,9 @@ import { useState, useMemo } from 'react';
 import { Header } from './components/Header';
 import { Navbar } from './components/Navbar';
 import { IconSet } from './components/IconSet';
-import { iconSets } from './data/iconData';
+
+const modules = import.meta.glob('./data/*.js', { eager: true });
+const iconSets = Object.values(modules).flatMap(mod => mod.iconSets || []);
 
 const filterStyles = "px-3 py-1.5 text-sm font-semibold rounded-md transition-colors";
 const activeFilterStyles = "bg-[#212135] text-white";

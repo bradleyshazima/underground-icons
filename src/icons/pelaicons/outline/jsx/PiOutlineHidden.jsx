@@ -1,0 +1,7 @@
+export const PiOutlineHidden = (props) => (
+  <svg {...props} width="24" height="14" viewBox="0 0 24 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8 7C10.3333 9.33333 13.6667 9.33333 16 7" stroke="#212135" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M12 13C16.7707 13 20.6303 9.39177 22.3486 7.44434C22.58 7.18173 22.58 6.81827 22.3486 6.55566C20.6303 4.60823 16.7707 1 12 1C7.2293 1 3.36975 4.60823 1.65137 6.55566C1.41995 6.81827 1.41995 7.18173 1.65137 7.44434C3.36975 9.39177 7.2293 13 12 13Z" stroke="#212135" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+</svg>
+
+);

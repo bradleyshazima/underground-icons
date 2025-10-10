@@ -1,207 +1,169 @@
-import fs from 'fs/promises';
-import path from 'path';
+// generate-icon-system.js
+import fs from "fs/promises";
+import path from "path";
 import { fileURLToPath } from "url";
 
+// ============================================================
+// --- Setup ---
+// ============================================================
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// ============================================================================
-// --- CONFIGURATION ---
-// This is the ONLY part you need to edit.
-// ============================================================================
-const ICON_SETS_CONFIG = [
-  {
-    name: 'Pela Icons',
-    creator: 'Pela',
-    socialLink: 'https://twitter.com/pela',
-    prefix: 'Pi',
-  },
-  {
-    name: 'Iconsax',
-    creator: 'Figma Community',
-    socialLink: 'https://twitter.com/underground',
-    prefix: 'Is',
-  },
-];
+// ============================================================
+// --- CONFIGURATION (no more terminal args) ---
+// ============================================================
+const config = {
+  setName: "Iconsax", // e.g. 'Iconsax'
+  prefix: "Is",       // e.g. 'Is'
+  style: "outline",      // e.g. 'fill', 'outline', 'duotone'
+  inputDir: "src/icons/iconsax/outline", // input directory
+};
+// ============================================================
 
-// --- FILE PATHS (You probably won't need to change these) ---
-const JSX_ICONS_DIR = path.join(__dirname, 'src', 'icons', 'jsx');
-const SVG_STRINGS_DIR = path.join(__dirname, 'src', 'icons', 'svgStrings');
-const OUTPUT_DATA_FILE = path.join(__dirname, 'src', 'data', 'iconData.js');
+// Derive directories
+const { setName, prefix, style, inputDir } = config;
+const JSX_ICONS_DIR = path.resolve(inputDir, "jsx");
+const SVG_DIR = path.resolve(inputDir, "svg");
 
-/**
- * PHASE 1: SANITIZATION
- * Cleans filenames and their internal content.
- * e.g., 'Name-extra(stuff).jsx' -> 'Name.jsx'
- * And updates `export const Name-extra(stuff)` to `export const Name`
- */
+// Output file: unique per icon set + style
+const OUTPUT_DATA_FILE = path.join(
+  __dirname,
+  "src",
+  "data",
+  `iconData-${setName.toLowerCase()}-${style.toLowerCase()}.js`
+);
+
+console.log(`\n⚙️  Building Icon Data for:
+  • Set: ${setName}
+  • Prefix: ${prefix}
+  • Style: ${style}
+  • Input: ${inputDir}
+  • Output: ${OUTPUT_DATA_FILE}\n`);
+
+// ============================================================
+// --- Helpers ---
+// ============================================================
+
 async function sanitizeFileNames(directory) {
-  console.log(`\nScanning directory: ${path.basename(directory)}...`);
-  const files = await fs.readdir(directory);
-  let filesCleaned = 0;
+  try {
+    const files = await fs.readdir(directory);
+    for (const filename of files) {
+      if (filename.includes("-")) {
+        const oldBase = path.basename(filename, path.extname(filename));
+        const newBase = oldBase.split("-")[0];
+        const newFilename = newBase + path.extname(filename);
 
-  for (const filename of files) {
-    // We define a "bad" filename as one containing a hyphen.
-    // You can make this regex more complex if needed.
-    if (filename.includes('-')) {
-      const oldFilenameWithoutExt = path.basename(filename, path.extname(filename));
-      const newFilenameWithoutExt = oldFilenameWithoutExt.split('-')[0];
-      const newFilename = newFilenameWithoutExt + path.extname(filename);
+        if (filename !== newFilename) {
+          const oldPath = path.join(directory, filename);
+          const newPath = path.join(directory, newFilename);
+          await fs.rename(oldPath, newPath);
 
-      if (filename === newFilename) continue;
-
-      const oldPath = path.join(directory, filename);
-      const newPath = path.join(directory, newFilename);
-
-      console.log(`  🔧 Cleaning: ${filename} -> ${newFilename}`);
-      
-      // 1. Rename the file
-      await fs.rename(oldPath, newPath);
-      filesCleaned++;
-
-      // 2. Read the newly renamed file's content
-      const content = await fs.readFile(newPath, 'utf-8');
-      
-      // 3. Fix the export statement inside the file
-      // This regex finds 'export const Old-Name' and replaces it with 'export const NewName'
-      const updatedContent = content.replace(
-        new RegExp(`export const ${oldFilenameWithoutExt}\\b`),
-        `export const ${newFilenameWithoutExt}`
-      );
-
-      // 4. Write the fixed content back to the file
-      await fs.writeFile(newPath, updatedContent, 'utf-8');
+          const content = await fs.readFile(newPath, "utf-8");
+          const updated = content.replace(
+            new RegExp(`export const ${oldBase}\\b`),
+            `export const ${newBase}`
+          );
+          await fs.writeFile(newPath, updated, "utf-8");
+        }
+      }
     }
-  }
-
-  if (filesCleaned > 0) {
-    console.log(`  ✨ Cleaned ${filesCleaned} file(s) in ${path.basename(directory)}.`);
-  } else {
-    console.log(`  ✅ All files in ${path.basename(directory)} are already clean.`);
+  } catch {
+    // ignore
   }
 }
 
-/**
- * Converts a string from PascalCase to kebab-case.
- */
 function pascalToKebab(str) {
-  return str.replace(/([a-z0-9]|(?=[A-Z]))([A-Z])/g, '$1-$2').toLowerCase();
+  return str
+    .replace(/([a-z0-9]|(?=[A-Z]))([A-Z])/g, "$1-$2")
+    .toLowerCase();
 }
 
+// ============================================================
+// --- Main ---
+// ============================================================
 
-/**
- * PHASE 2: DATA FILE GENERATION
- * Generates the iconData.js file from the cleaned files.
- */
 async function generateIconDataFile() {
   try {
-    // Ensure directories exist before reading from them
     await fs.access(JSX_ICONS_DIR);
-    await fs.access(SVG_STRINGS_DIR);
-  } catch (error) {
-    console.error(`❌ Error: Make sure the directories '${JSX_ICONS_DIR}' and '${SVG_STRINGS_DIR}' exist.`);
+    await fs.access(SVG_DIR);
+  } catch {
+    console.error(`❌ Directories not found: ${JSX_ICONS_DIR} or ${SVG_DIR}`);
     return;
   }
-    
-  console.log('\n🚀 Starting icon system build...');
 
-  // ----------------- RUN SANITIZATION FIRST -----------------
-  console.log('--- PHASE 1: Sanitizing Filenames & Content ---');
+  console.log("🚀 Starting build...");
+
   await sanitizeFileNames(JSX_ICONS_DIR);
-  await sanitizeFileNames(SVG_STRINGS_DIR);
-  console.log('--- ✅ Sanitization Complete ---');
-  // ----------------------------------------------------------
+  await sanitizeFileNames(SVG_DIR);
 
-  console.log('\n--- PHASE 2: Generating `iconData.js` ---');
   const allJsxFiles = await fs.readdir(JSX_ICONS_DIR);
-  
+
   const imports = [];
-  const iconSetsData = JSON.parse(JSON.stringify(ICON_SETS_CONFIG));
-  iconSetsData.forEach(set => set.icons = []);
-  
-  // A map to hold the actual JSX content to be injected later.
+  const iconSet = {
+    name: setName,
+    creator: "Custom",
+    socialLink: "",
+    prefix,
+    icons: [],
+  };
   const jsxContentMap = new Map();
 
   for (const file of allJsxFiles) {
-    if (path.extname(file) === '.jsx') {
-      const componentName = path.basename(file, '.jsx');
-      const svgStringComponentName = `${componentName}`;
+    if (!file.endsWith(".jsx")) continue;
+    const componentName = path.basename(file, ".jsx");
+    const svgStringComponentName = `${componentName}Svg`;
 
-      const matchedSet = iconSetsData.find(set => componentName.startsWith(set.prefix));
-      
-      if (matchedSet) {
-        // Read the full source code of the JSX component file
-        const jsxFilePath = path.join(JSX_ICONS_DIR, file);
-        const jsxFileContent = await fs.readFile(jsxFilePath, 'utf-8');
-        // Store the content with its component name as the key
-        jsxContentMap.set(componentName, jsxFileContent);
+    const jsxFilePath = path.join(JSX_ICONS_DIR, file);
+    const jsxFileContent = await fs.readFile(jsxFilePath, "utf-8");
+    jsxContentMap.set(componentName, jsxFileContent);
 
-        imports.push(`import { ${componentName} } from '../icons/jsx/${componentName}';`);
-        imports.push(`import { ${svgStringComponentName}Svg } from '../icons/svgStrings/${svgStringComponentName}Svg';`);
+    imports.push(`import { ${componentName} } from '${path.relative(
+      path.dirname(OUTPUT_DATA_FILE),
+      path.join(JSX_ICONS_DIR, componentName)
+    ).replace(/\\/g, "/")}';`);
 
-        const nameWithStyle = componentName.substring(matchedSet.prefix.length);
-        const kebabNameWithStyle = pascalToKebab(nameWithStyle);
-        const parts = kebabNameWithStyle.split('-');
-        
-        // This logic correctly separates 'outline' as the style and 'add' as the name
-        // from 'outline-add'.
-        const style = parts[0] || 'outline';
-        const iconName = parts.slice(1).join('-') || kebabNameWithStyle;
+    const svgRelativePath = path.relative(
+      path.dirname(OUTPUT_DATA_FILE),
+      path.join(SVG_DIR, `${componentName}.svg`)
+    ).replace(/\\/g, "/");
 
-        function removePrefix(name) {
-          return name.replace(/^(outline-|fill-|duotone-)/, '');
-        }
+    imports.push(`import ${svgStringComponentName} from '${svgRelativePath}?raw';`);
 
-        matchedSet.icons.push({
-          name: removePrefix(iconName),
-          style: style,
-          Component: `%%${componentName}%%`,
-          svgString: `%%${svgStringComponentName}Svg%%`,
-          // Use a placeholder that we can safely search and replace later
-          jsxString: `%%JSX_PLACEHOLDER_${componentName}%%`,
-        });
-      }
+    const nameWithoutPrefix = componentName.substring(prefix.length);
+    const kebabName = pascalToKebab(nameWithoutPrefix);
+
+    function removePrefix(name) {
+      return name.replace(/^(outline-|fill-|duotone-|-outline-|-fill-|-duotone-|-outline|-fill|-duotone)/, '');
     }
+
+    iconSet.icons.push({
+      name: removePrefix(kebabName),
+      style,
+      Component: `%%${componentName}%%`,
+      svgString: `%%${svgStringComponentName}%%`,
+      jsxString: `%%JSX_PLACEHOLDER_${componentName}%%`,
+    });
   }
 
-  iconSetsData.forEach(set => {
-    set.icons.sort((a, b) => a.name.localeCompare(b.name));
-  });
+  const header = `// ⚠️ Auto-generated by generate-icon-system.js\n// ${setName} - ${style}\n\n`;
+  let dataString = JSON.stringify([iconSet], null, 2);
 
-  const fileHeader = `// ⚠️ This file is automatically generated by \`generate-icon-system.js\`\n//    Do not edit this file manually. All changes will be lost.\n\n`;
-  const importsString = imports.join('\n');
-  
-  let dataString = JSON.stringify(iconSetsData.filter(set => set.icons.length > 0), null, 2);
-
-  // --- REPLACEMENT LOGIC ---
-  // IMPORTANT: The order of these replacements matters.
-
-  // First, iterate through our map and replace the specific jsxString placeholders
-  // with the actual file content, wrapped in backticks for a template literal.
-  // This must happen before the general '%%' replacement.
+  // Replace placeholders
   for (const [componentName, content] of jsxContentMap.entries()) {
     const placeholder = `"%%JSX_PLACEHOLDER_${componentName}%%"`;
-    // Escape any backticks, backslashes, or dollar signs inside the file content
-    // to prevent breaking the template literal structure.
-    const escapedContent = content
-        .replace(/\\/g, '\\\\')
-        .replace(/`/g, '\\`')
-        .replace(/\$/g, '\\$');
-    const templateLiteral = `\`${escapedContent}\``;
-    dataString = dataString.replace(placeholder, templateLiteral);
+    const escaped = content
+      .replace(/\\/g, "\\\\")
+      .replace(/`/g, "\\`")
+      .replace(/\$/g, "\\$");
+    dataString = dataString.replace(placeholder, `\`${escaped}\``);
   }
 
-  // Second, now that the tricky JSX replacement is done, we can safely replace
-  // the placeholders for the Component and svgString references.
-  dataString = dataString.replace(/"%%(.*?)%%"/g, '$1');
+  dataString = dataString.replace(/"%%(.*?)%%"/g, "$1");
 
-  const finalContent = `${fileHeader}${importsString}\n\nexport const iconSets = ${dataString};\n`;
+  const finalContent = `${header}${imports.join("\n")}\n\nexport const iconSets = ${dataString};\n`;
+  await fs.writeFile(OUTPUT_DATA_FILE, finalContent, "utf-8");
 
-  await fs.writeFile(OUTPUT_DATA_FILE, finalContent, 'utf-8');
-  console.log(`\n✅ Successfully generated ${OUTPUT_DATA_FILE} with ${imports.length / 2} icons.`);
-  console.log('--- ✨ Build Complete ---');
+  console.log(`✅ Generated ${OUTPUT_DATA_FILE}`);
 }
 
-// Run the entire process
-generateIconDataFile().catch(err => console.error("An error occurred:", err));
-
+generateIconDataFile().catch(console.error);

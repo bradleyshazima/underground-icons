@@ -1,0 +1,8 @@
+export const PiOutlineCart2 = (props) => (
+  <svg {...props} width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="9.26315" cy="20.1804" rx="1.81955" ry="1.81955" fill="#212135"/>
+<ellipse cx="15.3283" cy="20.1804" rx="1.81955" ry="1.81955" fill="#212135"/>
+<path d="M1.04761 1.04761C2.89111 1.96936 3.8045 2.77516 3.8045 5.01754M3.8045 5.01754C3.8045 14.1153 6.23057 15.9348 12.2957 15.9348C18.3609 15.9348 20.787 14.1153 20.787 6.83708C20.787 5.81565 20.1804 5.01754 18.9674 5.01754C17.7544 5.01754 7.845 5.01754 3.8045 5.01754Z" stroke="#212135" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+</svg>
+
+);

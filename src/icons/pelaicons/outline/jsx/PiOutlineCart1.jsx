@@ -1,0 +1,8 @@
+export const PiOutlineCart1 = (props) => (
+  <svg {...props} width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9 1L3 7C4.28571 17.5 3 19 12 19C21 19 19.7143 17.5 21 7L15 1" stroke="#212135" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M1 7H23" stroke="#212135" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M10 11V15M14 11V15" stroke="#212135" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+</svg>
+
+);

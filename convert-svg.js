@@ -1,42 +1,45 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-// --- CONFIGURATION ---
 const config = {
-  iconSetName: 'Is',      // e.g., 'pela', 'feather'
-  iconStyle: 'outline',        // e.g., 'fill', 'outline', 'duotone'
+  iconSetName: 'Is',
+  iconStyle: 'outline',
   sourceDir: 'src/assets/svg/iconsax/outline',
-  outputDirJsx: 'src/icons/jsx',
-  outputDirSvgString: 'src/icons/svgStrings'
+  outputDirJsx: 'src/icons/iconsax/outline/jsx',
+  outputDirSvg: 'src/icons/iconsax/outline/svg'
 };
-// -------------------
 
 function toPascalCase(str) {
-  return str.replace(/(^\w|-\w)/g, (c) => c.replace('-', '').toUpperCase());
+  if (!str) return '';
+  const cleaned = String(str)
+    .trim()
+    .replace(/^[^a-zA-Z0-9]+|[^a-zA-Z0-9]+$/g, '')
+    .replace(/[^a-zA-Z0-9]+/g, ' ');
+  const parts = cleaned.split(' ').filter(Boolean);
+  return parts.map(p => p.charAt(0).toUpperCase() + p.slice(1)).join('');
 }
 
 function createJsxComponent(componentName, svgContent) {
   const sanitizedSvg = svgContent
     .replace(/class="/g, 'className="')
+    .replace(/class='/g, "className='")
     .replace(/stroke-width="/g, 'strokeWidth="')
+    .replace(/stroke-width='/g, "strokeWidth='")
     .replace(/stroke-linecap="/g, 'strokeLinecap="')
+    .replace(/stroke-linecap='/g, "strokeLinecap='")
     .replace(/stroke-linejoin="/g, 'strokeLinejoin="')
-    .replace(/<svg(.*?)>/, `<svg {...props} $1>`);
-
-  return `
-export const ${componentName} = (props) => (
-  ${sanitizedSvg}
-);
-`;
+    .replace(/stroke-linejoin='/g, "strokeLinejoin='")
+    .replace(/<svg([^>]*)>/, `<svg {...props}$1>`);
+  return `export const ${componentName} = (props) => (\n  ${sanitizedSvg}\n);\n`;
 }
 
 async function processIcons() {
   try {
     await fs.mkdir(config.outputDirJsx, { recursive: true });
-    await fs.mkdir(config.outputDirSvgString, { recursive: true });
+    await fs.mkdir(config.outputDirSvg, { recursive: true }); // <--- changed
 
     const files = await fs.readdir(config.sourceDir);
-    const svgFiles = files.filter(file => path.extname(file) === '.svg');
+    const svgFiles = files.filter(file => path.extname(file).toLowerCase() === '.svg');
 
     if (svgFiles.length === 0) {
       console.log(`No SVG files found in ${config.sourceDir}.`);
@@ -44,26 +47,25 @@ async function processIcons() {
     }
 
     for (const file of svgFiles) {
-      const iconName = path.basename(file, '.svg');
-      const finalName = `${config.iconSetName}${toPascalCase(config.iconStyle)}${toPascalCase(iconName)}`;
+      const base = path.basename(file, '.svg');
+      const stylePascal = toPascalCase(config.iconStyle);
+      const iconPascal = toPascalCase(base);
+      const finalName = `${config.iconSetName}${stylePascal}${iconPascal}`;
 
-      const filePath = path.join(config.sourceDir, file);
-      const rawSvgContent = await fs.readFile(filePath, 'utf-8');
+      const srcPath = path.join(config.sourceDir, file);
+      const svgContent = await fs.readFile(srcPath, 'utf-8');
 
-      // 1. Create JSX Component
-      const jsxContent = createJsxComponent(finalName, rawSvgContent);
-      const jsxOutputPath = path.join(config.outputDirJsx, `${finalName}.jsx`);
-      await fs.writeFile(jsxOutputPath, jsxContent);
+      // 1️⃣ Write JSX component
+      const jsxContent = createJsxComponent(finalName, svgContent);
+      await fs.writeFile(path.join(config.outputDirJsx, `${finalName}.jsx`), jsxContent, 'utf-8');
 
-      // 2. Create SVG String Module
-      const svgStringContent = `export const ${finalName}Svg = \`${rawSvgContent}\`;`;
-      const svgStringOutputPath = path.join(config.outputDirSvgString, `${finalName}.js`);
-      await fs.writeFile(svgStringOutputPath, svgStringContent);
+      // 2️⃣ Write raw SVG file (no wrapping in JS)
+      await fs.writeFile(path.join(config.outputDirSvg, `${finalName}.svg`), svgContent, 'utf-8');
 
-      console.log(`✅ Converted ${file} -> ${finalName}.jsx & ${finalName}.js`);
+      console.log(`✅ Created ${finalName}.jsx + ${finalName}.svg`);
     }
-    console.log('\nConversion complete! ✨');
 
+    console.log('\n✨ Conversion complete!');
   } catch (error) {
     console.error('Error during conversion:', error);
   }
