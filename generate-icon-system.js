@@ -118,6 +118,9 @@ async function generateIconDataFile() {
   const imports = [];
   const iconSetsData = JSON.parse(JSON.stringify(ICON_SETS_CONFIG));
   iconSetsData.forEach(set => set.icons = []);
+  
+  // A map to hold the actual JSX content to be injected later.
+  const jsxContentMap = new Map();
 
   for (const file of allJsxFiles) {
     if (path.extname(file) === '.jsx') {
@@ -127,6 +130,12 @@ async function generateIconDataFile() {
       const matchedSet = iconSetsData.find(set => componentName.startsWith(set.prefix));
       
       if (matchedSet) {
+        // Read the full source code of the JSX component file
+        const jsxFilePath = path.join(JSX_ICONS_DIR, file);
+        const jsxFileContent = await fs.readFile(jsxFilePath, 'utf-8');
+        // Store the content with its component name as the key
+        jsxContentMap.set(componentName, jsxFileContent);
+
         imports.push(`import { ${componentName} } from '../icons/jsx/${componentName}';`);
         imports.push(`import { ${svgStringComponentName}Svg } from '../icons/svgStrings/${svgStringComponentName}Svg';`);
 
@@ -134,15 +143,22 @@ async function generateIconDataFile() {
         const kebabNameWithStyle = pascalToKebab(nameWithStyle);
         const parts = kebabNameWithStyle.split('-');
         
+        // This logic correctly separates 'outline' as the style and 'add' as the name
+        // from 'outline-add'.
         const style = parts[0] || 'outline';
         const iconName = parts.slice(1).join('-') || kebabNameWithStyle;
 
+        function removePrefix(name) {
+          return name.replace(/^(outline-|fill-|duotone-)/, '');
+        }
+
         matchedSet.icons.push({
-          name: iconName,
+          name: removePrefix(iconName),
           style: style,
           Component: `%%${componentName}%%`,
           svgString: `%%${svgStringComponentName}Svg%%`,
-          jsxString: `<${componentName} />`,
+          // Use a placeholder that we can safely search and replace later
+          jsxString: `%%JSX_PLACEHOLDER_${componentName}%%`,
         });
       }
     }
@@ -157,6 +173,26 @@ async function generateIconDataFile() {
   
   let dataString = JSON.stringify(iconSetsData.filter(set => set.icons.length > 0), null, 2);
 
+  // --- REPLACEMENT LOGIC ---
+  // IMPORTANT: The order of these replacements matters.
+
+  // First, iterate through our map and replace the specific jsxString placeholders
+  // with the actual file content, wrapped in backticks for a template literal.
+  // This must happen before the general '%%' replacement.
+  for (const [componentName, content] of jsxContentMap.entries()) {
+    const placeholder = `"%%JSX_PLACEHOLDER_${componentName}%%"`;
+    // Escape any backticks, backslashes, or dollar signs inside the file content
+    // to prevent breaking the template literal structure.
+    const escapedContent = content
+        .replace(/\\/g, '\\\\')
+        .replace(/`/g, '\\`')
+        .replace(/\$/g, '\\$');
+    const templateLiteral = `\`${escapedContent}\``;
+    dataString = dataString.replace(placeholder, templateLiteral);
+  }
+
+  // Second, now that the tricky JSX replacement is done, we can safely replace
+  // the placeholders for the Component and svgString references.
   dataString = dataString.replace(/"%%(.*?)%%"/g, '$1');
 
   const finalContent = `${fileHeader}${importsString}\n\nexport const iconSets = ${dataString};\n`;
