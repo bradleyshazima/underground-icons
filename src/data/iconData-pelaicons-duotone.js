@@ -445,8 +445,8 @@ import PiDuotoneZoomOutSvg from '../icons/pelaicons/duotone/svg/PiDuotoneZoomOut
 export const iconSets = [
   {
     "name": "Pelaicons",
-    "creator": "Custom",
-    "socialLink": "",
+    "creator": "Pelateam",
+    "socialLink": "https://www.figma.com/@pelateam",
     "prefix": "Pi",
     "style": "duotone",
     "icons": [

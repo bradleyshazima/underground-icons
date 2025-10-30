@@ -1,0 +1,16 @@
+export const ImNeutralFace = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_20594)">
+<circle cx="12" cy="12" r="9" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<rect x="9" y="9.5" width="0.01" height="0.01" stroke="#292929" strokeWidth="3" strokeLinejoin="round"/>
+<rect x="15" y="9.5" width="0.01" height="0.01" stroke="#292929" strokeWidth="3" strokeLinejoin="round"/>
+<path d="M9 15H15" stroke="#292929" strokeWidth="2" strokeLinecap="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_20594">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

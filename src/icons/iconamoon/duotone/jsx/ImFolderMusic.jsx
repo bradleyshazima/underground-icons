@@ -1,0 +1,17 @@
+export const ImFolderMusic = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_23491)">
+<path opacity="0.16" d="M3 17V5H10L12 7H21V17C21 18.1046 20.1046 19 19 19H5C3.89543 19 3 18.1046 3 17Z" fill="#292929"/>
+<path d="M3.00024 17V5H10.0002L12.0002 7H21.0002V17C21.0002 18.1046 20.1048 19 19.0002 19H5.00024C3.89567 19 3.00024 18.1046 3.00024 17Z" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<circle cx="11.0002" cy="15" r="1" stroke="#292929" strokeWidth="2"/>
+<path d="M12.0002 10V15" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M14.0002 12L12.0002 10" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_23491">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

@@ -1,0 +1,14 @@
+export const ImCuteNumber8 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_173_323)">
+<circle cx="12" cy="15" r="5" stroke="#2B70C9" strokeWidth="2" strokeLinejoin="round"/>
+<circle cx="12" cy="7" r="3" stroke="#2B70C9" strokeWidth="2" strokeLinejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_173_323">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

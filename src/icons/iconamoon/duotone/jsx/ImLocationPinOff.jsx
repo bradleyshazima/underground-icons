@@ -1,0 +1,15 @@
+export const ImLocationPinOff = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_24659)">
+<path opacity="0.16" d="M6.49985 16.5L11.9999 22L16.9999 16.9999L6.02236 6.02234C3.47164 9.0782 3.6308 13.631 6.49985 16.5Z" fill="#292929"/>
+<path d="M4.00012 4L20.0001 20" stroke="#292929" strokeWidth="2" strokeLinecap="round"/>
+<path d="M6.02248 6.02229C3.47176 9.07816 3.63092 13.6309 6.49998 16.5L12 22L17.0001 16.9999M9.34428 3.68724C12.0947 2.69046 15.2947 3.2947 17.5 5.49997C19.7052 7.70525 20.3095 10.9053 19.3127 13.6557" stroke="#292929" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_24659">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

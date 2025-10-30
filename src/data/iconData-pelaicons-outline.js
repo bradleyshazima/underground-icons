@@ -445,8 +445,8 @@ import PiOutlineZoomOutSvg from '../icons/pelaicons/outline/svg/PiOutlineZoomOut
 export const iconSets = [
   {
     "name": "Pelaicons",
-    "creator": "Custom",
-    "socialLink": "",
+    "creator": "Pelateam",
+    "socialLink": "https://www.figma.com/@pelateam",
     "prefix": "Pi",
     "style": "outline",
     "icons": [

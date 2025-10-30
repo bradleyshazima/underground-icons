@@ -11,8 +11,8 @@ import { IsOutline3dRotate } from '../icons/iconsax/outline/jsx/IsOutline3dRotat
 import IsOutline3dRotateSvg from '../icons/iconsax/outline/svg/IsOutline3dRotate.svg?raw';
 import { IsOutline3dSquare } from '../icons/iconsax/outline/jsx/IsOutline3dSquare';
 import IsOutline3dSquareSvg from '../icons/iconsax/outline/svg/IsOutline3dSquare.svg?raw';
-import { IsOutline3full } from '../icons/iconsax/outline/jsx/IsOutline3full';
-import IsOutline3fullSvg from '../icons/iconsax/outline/svg/IsOutline3full.svg?raw';
+import { IsOutlineBattery2 } from '../icons/iconsax/outline/jsx/IsOutlineBattery2';
+import IsOutlineBattery2Svg from '../icons/iconsax/outline/svg/IsOutlineBattery2.svg?raw';
 import { IsOutline3square } from '../icons/iconsax/outline/jsx/IsOutline3square';
 import IsOutline3squareSvg from '../icons/iconsax/outline/svg/IsOutline3square.svg?raw';
 import { IsOutlineAaveAave } from '../icons/iconsax/outline/jsx/IsOutlineAaveAave';
@@ -2041,8 +2041,8 @@ import IsOutlineZoomSvg from '../icons/iconsax/outline/svg/IsOutlineZoom.svg?raw
 export const iconSets = [
   {
     "name": "Iconsax",
-    "creator": "Custom",
-    "socialLink": "",
+    "creator": "Farhan Ullah",
+    "socialLink": "https://www.figma.com/@farhanuiux",
     "prefix": "Is",
     "style": "outline",
     "icons": [
@@ -2127,11 +2127,11 @@ export const iconSets = [
 `
       },
       {
-        "name": "3full",
+        "name": "battery-2",
         "style": "outline",
-        "Component": IsOutline3full,
-        "svgString": IsOutline3fullSvg,
-        "jsxString": `export const IsOutline3full = (props) => (
+        "Component": IsOutlineBattery2,
+        "svgString": IsOutlineBattery2Svg,
+        "jsxString": `export const IsOutlineBattery2 = (props) => (
   <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M20.5 9.5C22 9.5 22 10 22 11V13C22 14 22 14.5 20.5 14.5" stroke="#292D32" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
 <path d="M6.38 10C6.71 11.31 6.71 12.69 6.38 14" stroke="#292D32" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>

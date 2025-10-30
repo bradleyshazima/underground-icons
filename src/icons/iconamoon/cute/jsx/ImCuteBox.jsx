@@ -1,0 +1,15 @@
+export const ImCuteBox = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_419_3075)">
+<path d="M8 4H16L20 8H4L8 4Z" fill="#CD7900" stroke="#CD7900" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M4 8H20V18C20 19.1046 19.1046 20 18 20H6C4.89543 20 4 19.1046 4 18V8Z" fill="#FF9600" stroke="#FF9600" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M8 12H12" stroke="#FFF5D3" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_419_3075">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

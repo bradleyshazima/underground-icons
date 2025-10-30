@@ -1,0 +1,13 @@
+export const ImArrowDown2 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_25538)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.00003 9C6.59557 9 6.23093 9.24364 6.07615 9.61732C5.92137 9.99099 6.00692 10.4211 6.29292 10.7071L11.2929 15.7071C11.6834 16.0976 12.3166 16.0976 12.7071 15.7071L17.7071 10.7071C17.9931 10.4211 18.0787 9.99099 17.9239 9.61732C17.7691 9.24364 17.4045 9 17 9L7.00003 9Z" fill="#292929"/>
+</g>
+<defs>
+<clipPath id="clip0_1_25538">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

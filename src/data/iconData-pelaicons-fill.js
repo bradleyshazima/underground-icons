@@ -445,8 +445,8 @@ import PiFillZoomOutSvg from '../icons/pelaicons/fill/svg/PiFillZoomOut.svg?raw'
 export const iconSets = [
   {
     "name": "Pelaicons",
-    "creator": "Custom",
-    "socialLink": "",
+    "creator": "Pelateam",
+    "socialLink": "https://www.figma.com/@pelateam",
     "prefix": "Pi",
     "style": "fill",
     "icons": [

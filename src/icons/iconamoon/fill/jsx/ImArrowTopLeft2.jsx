@@ -1,0 +1,13 @@
+export const ImArrowTopLeft2 = (props) => (
+  <svg {...props} width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_25523)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16 7H8C7.44772 7 7 7.44772 7 8V16C7 16.4045 7.24364 16.7691 7.61732 16.9239C7.99099 17.0787 8.42111 16.9931 8.70711 16.7071L16.7071 8.70711C16.9931 8.42111 17.0787 7.99099 16.9239 7.61732C16.7691 7.24364 16.4045 7 16 7Z" fill="#292929"/>
+</g>
+<defs>
+<clipPath id="clip0_1_25523">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+);

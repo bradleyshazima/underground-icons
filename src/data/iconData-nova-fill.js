@@ -265,13 +265,13 @@ import NiZoomOutSvg from '../icons/nova/fill/svg/NiZoomOut.svg?raw';
 export const iconSets = [
   {
     "name": "Nova",
-    "creator": "Custom",
-    "socialLink": "",
+    "creator": "Dmitriy Novikov",
+    "socialLink": "https://www.figma.com/@NovaSlide",
     "prefix": "Ni",
     "style": "fill",
     "icons": [
       {
-        "name": "-alert-circle",
+        "name": "alert-circle",
         "style": "fill",
         "Component": NiAlertCircle,
         "svgString": NiAlertCircleSvg,
@@ -284,7 +284,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-alert-rectangle",
+        "name": "alert-rectangle",
         "style": "fill",
         "Component": NiAlertRectangle,
         "svgString": NiAlertRectangleSvg,
@@ -297,7 +297,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-arrow-down-circle",
+        "name": "arrow-down-circle",
         "style": "fill",
         "Component": NiArrowDownCircle,
         "svgString": NiArrowDownCircleSvg,
@@ -310,7 +310,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-arrow-down-rectangle",
+        "name": "arrow-down-rectangle",
         "style": "fill",
         "Component": NiArrowDownRectangle,
         "svgString": NiArrowDownRectangleSvg,
@@ -323,7 +323,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-arrow-left-circle",
+        "name": "arrow-left-circle",
         "style": "fill",
         "Component": NiArrowLeftCircle,
         "svgString": NiArrowLeftCircleSvg,
@@ -336,7 +336,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-arrow-left-rectangle",
+        "name": "arrow-left-rectangle",
         "style": "fill",
         "Component": NiArrowLeftRectangle,
         "svgString": NiArrowLeftRectangleSvg,
@@ -349,7 +349,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-arrow-right-circle",
+        "name": "arrow-right-circle",
         "style": "fill",
         "Component": NiArrowRightCircle,
         "svgString": NiArrowRightCircleSvg,
@@ -362,7 +362,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-arrow-right-rectangle",
+        "name": "arrow-right-rectangle",
         "style": "fill",
         "Component": NiArrowRightRectangle,
         "svgString": NiArrowRightRectangleSvg,
@@ -375,7 +375,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-arrow-up-circle",
+        "name": "arrow-up-circle",
         "style": "fill",
         "Component": NiArrowUpCircle,
         "svgString": NiArrowUpCircleSvg,
@@ -388,7 +388,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-arrow-up-rectangle",
+        "name": "arrow-up-rectangle",
         "style": "fill",
         "Component": NiArrowUpRectangle,
         "svgString": NiArrowUpRectangleSvg,
@@ -401,7 +401,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bag",
+        "name": "bag",
         "style": "fill",
         "Component": NiBag,
         "svgString": NiBagSvg,
@@ -416,7 +416,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bag2",
+        "name": "bag2",
         "style": "fill",
         "Component": NiBag2,
         "svgString": NiBag2Svg,
@@ -430,7 +430,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bag2-check",
+        "name": "bag2-check",
         "style": "fill",
         "Component": NiBag2Check,
         "svgString": NiBag2CheckSvg,
@@ -444,7 +444,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bag2-delete",
+        "name": "bag2-delete",
         "style": "fill",
         "Component": NiBag2Delete,
         "svgString": NiBag2DeleteSvg,
@@ -458,7 +458,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bag2-minus",
+        "name": "bag2-minus",
         "style": "fill",
         "Component": NiBag2Minus,
         "svgString": NiBag2MinusSvg,
@@ -472,7 +472,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bag2-plus",
+        "name": "bag2-plus",
         "style": "fill",
         "Component": NiBag2Plus,
         "svgString": NiBag2PlusSvg,
@@ -486,7 +486,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bag-check",
+        "name": "bag-check",
         "style": "fill",
         "Component": NiBagCheck,
         "svgString": NiBagCheckSvg,
@@ -501,7 +501,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bag-delete",
+        "name": "bag-delete",
         "style": "fill",
         "Component": NiBagDelete,
         "svgString": NiBagDeleteSvg,
@@ -516,7 +516,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bag-minus",
+        "name": "bag-minus",
         "style": "fill",
         "Component": NiBagMinus,
         "svgString": NiBagMinusSvg,
@@ -531,7 +531,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bag-plus",
+        "name": "bag-plus",
         "style": "fill",
         "Component": NiBagPlus,
         "svgString": NiBagPlusSvg,
@@ -546,7 +546,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bar-chart",
+        "name": "bar-chart",
         "style": "fill",
         "Component": NiBarChart,
         "svgString": NiBarChartSvg,
@@ -559,7 +559,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bar-chart-down",
+        "name": "bar-chart-down",
         "style": "fill",
         "Component": NiBarChartDown,
         "svgString": NiBarChartDownSvg,
@@ -572,7 +572,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bar-chart-up",
+        "name": "bar-chart-up",
         "style": "fill",
         "Component": NiBarChartUp,
         "svgString": NiBarChartUpSvg,
@@ -585,7 +585,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bell",
+        "name": "bell",
         "style": "fill",
         "Component": NiBell,
         "svgString": NiBellSvg,
@@ -599,7 +599,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bell-off",
+        "name": "bell-off",
         "style": "fill",
         "Component": NiBellOff,
         "svgString": NiBellOffSvg,
@@ -614,7 +614,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-bookmark",
+        "name": "bookmark",
         "style": "fill",
         "Component": NiBookmark,
         "svgString": NiBookmarkSvg,
@@ -627,7 +627,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-calendar",
+        "name": "calendar",
         "style": "fill",
         "Component": NiCalendar,
         "svgString": NiCalendarSvg,
@@ -640,7 +640,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-calendar-check",
+        "name": "calendar-check",
         "style": "fill",
         "Component": NiCalendarCheck,
         "svgString": NiCalendarCheckSvg,
@@ -653,7 +653,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-calendar-minus",
+        "name": "calendar-minus",
         "style": "fill",
         "Component": NiCalendarMinus,
         "svgString": NiCalendarMinusSvg,
@@ -668,7 +668,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-calendar-plus",
+        "name": "calendar-plus",
         "style": "fill",
         "Component": NiCalendarPlus,
         "svgString": NiCalendarPlusSvg,
@@ -683,7 +683,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-camera",
+        "name": "camera",
         "style": "fill",
         "Component": NiCamera,
         "svgString": NiCameraSvg,
@@ -696,7 +696,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-camera-off",
+        "name": "camera-off",
         "style": "fill",
         "Component": NiCameraOff,
         "svgString": NiCameraOffSvg,
@@ -710,7 +710,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-category",
+        "name": "category",
         "style": "fill",
         "Component": NiCategory,
         "svgString": NiCategorySvg,
@@ -723,7 +723,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-check-circle",
+        "name": "check-circle",
         "style": "fill",
         "Component": NiCheckCircle,
         "svgString": NiCheckCircleSvg,
@@ -736,7 +736,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-check-rectangle",
+        "name": "check-rectangle",
         "style": "fill",
         "Component": NiCheckRectangle,
         "svgString": NiCheckRectangleSvg,
@@ -749,7 +749,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-circle",
+        "name": "circle",
         "style": "fill",
         "Component": NiCircle,
         "svgString": NiCircleSvg,
@@ -762,7 +762,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-clock-circle",
+        "name": "clock-circle",
         "style": "fill",
         "Component": NiClockCircle,
         "svgString": NiClockCircleSvg,
@@ -775,7 +775,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-clock-rectangle",
+        "name": "clock-rectangle",
         "style": "fill",
         "Component": NiClockRectangle,
         "svgString": NiClockRectangleSvg,
@@ -788,7 +788,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-close-circle",
+        "name": "close-circle",
         "style": "fill",
         "Component": NiCloseCircle,
         "svgString": NiCloseCircleSvg,
@@ -801,7 +801,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-close-rectangle",
+        "name": "close-rectangle",
         "style": "fill",
         "Component": NiCloseRectangle,
         "svgString": NiCloseRectangleSvg,
@@ -814,7 +814,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-compass",
+        "name": "compass",
         "style": "fill",
         "Component": NiCompass,
         "svgString": NiCompassSvg,
@@ -827,7 +827,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-copy",
+        "name": "copy",
         "style": "fill",
         "Component": NiCopy,
         "svgString": NiCopySvg,
@@ -841,7 +841,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-delete",
+        "name": "delete",
         "style": "fill",
         "Component": NiDelete,
         "svgString": NiDeleteSvg,
@@ -854,7 +854,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-edit",
+        "name": "edit",
         "style": "fill",
         "Component": NiEdit,
         "svgString": NiEditSvg,
@@ -868,7 +868,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-edit-circle",
+        "name": "edit-circle",
         "style": "fill",
         "Component": NiEditCircle,
         "svgString": NiEditCircleSvg,
@@ -882,7 +882,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-edit-rectangle",
+        "name": "edit-rectangle",
         "style": "fill",
         "Component": NiEditRectangle,
         "svgString": NiEditRectangleSvg,
@@ -896,7 +896,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-eye",
+        "name": "eye",
         "style": "fill",
         "Component": NiEye,
         "svgString": NiEyeSvg,
@@ -909,7 +909,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-eye-off",
+        "name": "eye-off",
         "style": "fill",
         "Component": NiEyeOff,
         "svgString": NiEyeOffSvg,
@@ -923,7 +923,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-file-text",
+        "name": "file-text",
         "style": "fill",
         "Component": NiFileText,
         "svgString": NiFileTextSvg,
@@ -936,7 +936,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-file-text-clean",
+        "name": "file-text-clean",
         "style": "fill",
         "Component": NiFileTextClean,
         "svgString": NiFileTextCleanSvg,
@@ -949,7 +949,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-file-text-delete",
+        "name": "file-text-delete",
         "style": "fill",
         "Component": NiFileTextDelete,
         "svgString": NiFileTextDeleteSvg,
@@ -962,7 +962,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-file-text-down",
+        "name": "file-text-down",
         "style": "fill",
         "Component": NiFileTextDown,
         "svgString": NiFileTextDownSvg,
@@ -975,7 +975,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-file-text-minus",
+        "name": "file-text-minus",
         "style": "fill",
         "Component": NiFileTextMinus,
         "svgString": NiFileTextMinusSvg,
@@ -988,7 +988,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-file-text-plus",
+        "name": "file-text-plus",
         "style": "fill",
         "Component": NiFileTextPlus,
         "svgString": NiFileTextPlusSvg,
@@ -1001,7 +1001,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-file-text-up",
+        "name": "file-text-up",
         "style": "fill",
         "Component": NiFileTextUp,
         "svgString": NiFileTextUpSvg,
@@ -1014,7 +1014,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-filter",
+        "name": "filter",
         "style": "fill",
         "Component": NiFilter,
         "svgString": NiFilterSvg,
@@ -1027,7 +1027,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-heart",
+        "name": "heart",
         "style": "fill",
         "Component": NiHeart,
         "svgString": NiHeartSvg,
@@ -1040,7 +1040,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-home1",
+        "name": "home1",
         "style": "fill",
         "Component": NiHome1,
         "svgString": NiHome1Svg,
@@ -1053,7 +1053,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-home4",
+        "name": "home4",
         "style": "fill",
         "Component": NiHome4,
         "svgString": NiHome4Svg,
@@ -1066,7 +1066,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-home5",
+        "name": "home5",
         "style": "fill",
         "Component": NiHome5,
         "svgString": NiHome5Svg,
@@ -1079,7 +1079,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-image",
+        "name": "image",
         "style": "fill",
         "Component": NiImage,
         "svgString": NiImageSvg,
@@ -1092,7 +1092,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-info-circle",
+        "name": "info-circle",
         "style": "fill",
         "Component": NiInfoCircle,
         "svgString": NiInfoCircleSvg,
@@ -1105,7 +1105,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-info-rectangle",
+        "name": "info-rectangle",
         "style": "fill",
         "Component": NiInfoRectangle,
         "svgString": NiInfoRectangleSvg,
@@ -1118,7 +1118,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-location",
+        "name": "location",
         "style": "fill",
         "Component": NiLocation,
         "svgString": NiLocationSvg,
@@ -1131,7 +1131,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-lock",
+        "name": "lock",
         "style": "fill",
         "Component": NiLock,
         "svgString": NiLockSvg,
@@ -1145,7 +1145,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-lock-circle",
+        "name": "lock-circle",
         "style": "fill",
         "Component": NiLockCircle,
         "svgString": NiLockCircleSvg,
@@ -1159,7 +1159,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-mail",
+        "name": "mail",
         "style": "fill",
         "Component": NiMail,
         "svgString": NiMailSvg,
@@ -1172,7 +1172,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-message1",
+        "name": "message1",
         "style": "fill",
         "Component": NiMessage1,
         "svgString": NiMessage1Svg,
@@ -1185,7 +1185,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-message2",
+        "name": "message2",
         "style": "fill",
         "Component": NiMessage2,
         "svgString": NiMessage2Svg,
@@ -1198,7 +1198,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-message-check",
+        "name": "message-check",
         "style": "fill",
         "Component": NiMessageCheck,
         "svgString": NiMessageCheckSvg,
@@ -1211,7 +1211,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-message-delete",
+        "name": "message-delete",
         "style": "fill",
         "Component": NiMessageDelete,
         "svgString": NiMessageDeleteSvg,
@@ -1224,7 +1224,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-message-send",
+        "name": "message-send",
         "style": "fill",
         "Component": NiMessageSend,
         "svgString": NiMessageSendSvg,
@@ -1237,7 +1237,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-message-write",
+        "name": "message-write",
         "style": "fill",
         "Component": NiMessageWrite,
         "svgString": NiMessageWriteSvg,
@@ -1250,7 +1250,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-mic",
+        "name": "mic",
         "style": "fill",
         "Component": NiMic,
         "svgString": NiMicSvg,
@@ -1263,7 +1263,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-mic-off",
+        "name": "mic-off",
         "style": "fill",
         "Component": NiMicOff,
         "svgString": NiMicOffSvg,
@@ -1277,7 +1277,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-minus-circle",
+        "name": "minus-circle",
         "style": "fill",
         "Component": NiMinusCircle,
         "svgString": NiMinusCircleSvg,
@@ -1290,7 +1290,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-minus-rectangle",
+        "name": "minus-rectangle",
         "style": "fill",
         "Component": NiMinusRectangle,
         "svgString": NiMinusRectangleSvg,
@@ -1303,7 +1303,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-more-horizonta-circle",
+        "name": "more-horizonta-circle",
         "style": "fill",
         "Component": NiMoreHorizontaCircle,
         "svgString": NiMoreHorizontaCircleSvg,
@@ -1316,7 +1316,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-more-horizontal-rectangle",
+        "name": "more-horizontal-rectangle",
         "style": "fill",
         "Component": NiMoreHorizontalRectangle,
         "svgString": NiMoreHorizontalRectangleSvg,
@@ -1329,7 +1329,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-more-vertical-circle",
+        "name": "more-vertical-circle",
         "style": "fill",
         "Component": NiMoreVerticalCircle,
         "svgString": NiMoreVerticalCircleSvg,
@@ -1342,7 +1342,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-more-vertical-rectangle",
+        "name": "more-vertical-rectangle",
         "style": "fill",
         "Component": NiMoreVerticalRectangle,
         "svgString": NiMoreVerticalRectangleSvg,
@@ -1355,7 +1355,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-navigation3",
+        "name": "navigation3",
         "style": "fill",
         "Component": NiNavigation3,
         "svgString": NiNavigation3Svg,
@@ -1368,7 +1368,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-navigation4",
+        "name": "navigation4",
         "style": "fill",
         "Component": NiNavigation4,
         "svgString": NiNavigation4Svg,
@@ -1381,7 +1381,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-navigation-circle",
+        "name": "navigation-circle",
         "style": "fill",
         "Component": NiNavigationCircle,
         "svgString": NiNavigationCircleSvg,
@@ -1394,7 +1394,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-navigation-rectangle",
+        "name": "navigation-rectangle",
         "style": "fill",
         "Component": NiNavigationRectangle,
         "svgString": NiNavigationRectangleSvg,
@@ -1407,7 +1407,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-pause-circle",
+        "name": "pause-circle",
         "style": "fill",
         "Component": NiPauseCircle,
         "svgString": NiPauseCircleSvg,
@@ -1420,7 +1420,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-pause-rectangle",
+        "name": "pause-rectangle",
         "style": "fill",
         "Component": NiPauseRectangle,
         "svgString": NiPauseRectangleSvg,
@@ -1433,7 +1433,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-pay",
+        "name": "pay",
         "style": "fill",
         "Component": NiPay,
         "svgString": NiPaySvg,
@@ -1446,7 +1446,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-percent-circle",
+        "name": "percent-circle",
         "style": "fill",
         "Component": NiPercentCircle,
         "svgString": NiPercentCircleSvg,
@@ -1459,7 +1459,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-percent-polygon",
+        "name": "percent-polygon",
         "style": "fill",
         "Component": NiPercentPolygon,
         "svgString": NiPercentPolygonSvg,
@@ -1472,7 +1472,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-percent-rectangle",
+        "name": "percent-rectangle",
         "style": "fill",
         "Component": NiPercentRectangle,
         "svgString": NiPercentRectangleSvg,
@@ -1485,7 +1485,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-phone",
+        "name": "phone",
         "style": "fill",
         "Component": NiPhone,
         "svgString": NiPhoneSvg,
@@ -1498,7 +1498,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-phone-call",
+        "name": "phone-call",
         "style": "fill",
         "Component": NiPhoneCall,
         "svgString": NiPhoneCallSvg,
@@ -1513,7 +1513,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-phone-incoming",
+        "name": "phone-incoming",
         "style": "fill",
         "Component": NiPhoneIncoming,
         "svgString": NiPhoneIncomingSvg,
@@ -1527,7 +1527,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-phone-missed",
+        "name": "phone-missed",
         "style": "fill",
         "Component": NiPhoneMissed,
         "svgString": NiPhoneMissedSvg,
@@ -1541,7 +1541,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-phone-off",
+        "name": "phone-off",
         "style": "fill",
         "Component": NiPhoneOff,
         "svgString": NiPhoneOffSvg,
@@ -1555,7 +1555,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-phone-outgoing",
+        "name": "phone-outgoing",
         "style": "fill",
         "Component": NiPhoneOutgoing,
         "svgString": NiPhoneOutgoingSvg,
@@ -1569,7 +1569,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-pie-chart3",
+        "name": "pie-chart3",
         "style": "fill",
         "Component": NiPieChart3,
         "svgString": NiPieChart3Svg,
@@ -1583,7 +1583,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-play-circle",
+        "name": "play-circle",
         "style": "fill",
         "Component": NiPlayCircle,
         "svgString": NiPlayCircleSvg,
@@ -1596,7 +1596,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-play-rectangle",
+        "name": "play-rectangle",
         "style": "fill",
         "Component": NiPlayRectangle,
         "svgString": NiPlayRectangleSvg,
@@ -1609,7 +1609,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-plus-circle",
+        "name": "plus-circle",
         "style": "fill",
         "Component": NiPlusCircle,
         "svgString": NiPlusCircleSvg,
@@ -1622,7 +1622,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-plus-rectangle",
+        "name": "plus-rectangle",
         "style": "fill",
         "Component": NiPlusRectangle,
         "svgString": NiPlusRectangleSvg,
@@ -1635,7 +1635,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-search",
+        "name": "search",
         "style": "fill",
         "Component": NiSearch,
         "svgString": NiSearchSvg,
@@ -1649,7 +1649,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-send",
+        "name": "send",
         "style": "fill",
         "Component": NiSend,
         "svgString": NiSendSvg,
@@ -1662,7 +1662,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-setting",
+        "name": "setting",
         "style": "fill",
         "Component": NiSetting,
         "svgString": NiSettingSvg,
@@ -1675,7 +1675,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-shield",
+        "name": "shield",
         "style": "fill",
         "Component": NiShield,
         "svgString": NiShieldSvg,
@@ -1688,7 +1688,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-shield-done",
+        "name": "shield-done",
         "style": "fill",
         "Component": NiShieldDone,
         "svgString": NiShieldDoneSvg,
@@ -1701,7 +1701,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-shield-fail",
+        "name": "shield-fail",
         "style": "fill",
         "Component": NiShieldFail,
         "svgString": NiShieldFailSvg,
@@ -1714,7 +1714,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-sliders-horizontal",
+        "name": "sliders-horizontal",
         "style": "fill",
         "Component": NiSlidersHorizontal,
         "svgString": NiSlidersHorizontalSvg,
@@ -1732,7 +1732,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-sliders-vertical",
+        "name": "sliders-vertical",
         "style": "fill",
         "Component": NiSlidersVertical,
         "svgString": NiSlidersVerticalSvg,
@@ -1748,7 +1748,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-star",
+        "name": "star",
         "style": "fill",
         "Component": NiStar,
         "svgString": NiStarSvg,
@@ -1761,7 +1761,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-star-circle",
+        "name": "star-circle",
         "style": "fill",
         "Component": NiStarCircle,
         "svgString": NiStarCircleSvg,
@@ -1774,7 +1774,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-star-rectangle",
+        "name": "star-rectangle",
         "style": "fill",
         "Component": NiStarRectangle,
         "svgString": NiStarRectangleSvg,
@@ -1787,7 +1787,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-trash1",
+        "name": "trash1",
         "style": "fill",
         "Component": NiTrash1,
         "svgString": NiTrash1Svg,
@@ -1801,7 +1801,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-trash2",
+        "name": "trash2",
         "style": "fill",
         "Component": NiTrash2,
         "svgString": NiTrash2Svg,
@@ -1815,7 +1815,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-unlock",
+        "name": "unlock",
         "style": "fill",
         "Component": NiUnlock,
         "svgString": NiUnlockSvg,
@@ -1829,7 +1829,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-unlock-circle",
+        "name": "unlock-circle",
         "style": "fill",
         "Component": NiUnlockCircle,
         "svgString": NiUnlockCircleSvg,
@@ -1843,7 +1843,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-user1",
+        "name": "user1",
         "style": "fill",
         "Component": NiUser1,
         "svgString": NiUser1Svg,
@@ -1857,7 +1857,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-user2",
+        "name": "user2",
         "style": "fill",
         "Component": NiUser2,
         "svgString": NiUser2Svg,
@@ -1871,7 +1871,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-user3",
+        "name": "user3",
         "style": "fill",
         "Component": NiUser3,
         "svgString": NiUser3Svg,
@@ -1885,7 +1885,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-user-circle1",
+        "name": "user-circle1",
         "style": "fill",
         "Component": NiUserCircle1,
         "svgString": NiUserCircle1Svg,
@@ -1899,7 +1899,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-user-rectangle1",
+        "name": "user-rectangle1",
         "style": "fill",
         "Component": NiUserRectangle1,
         "svgString": NiUserRectangle1Svg,
@@ -1913,7 +1913,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-video",
+        "name": "video",
         "style": "fill",
         "Component": NiVideo,
         "svgString": NiVideoSvg,
@@ -1926,7 +1926,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-video-off",
+        "name": "video-off",
         "style": "fill",
         "Component": NiVideoOff,
         "svgString": NiVideoOffSvg,
@@ -1939,7 +1939,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-volume-high",
+        "name": "volume-high",
         "style": "fill",
         "Component": NiVolumeHigh,
         "svgString": NiVolumeHighSvg,
@@ -1954,7 +1954,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-volume-medium",
+        "name": "volume-medium",
         "style": "fill",
         "Component": NiVolumeMedium,
         "svgString": NiVolumeMediumSvg,
@@ -1968,7 +1968,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-volume-mute",
+        "name": "volume-mute",
         "style": "fill",
         "Component": NiVolumeMute,
         "svgString": NiVolumeMuteSvg,
@@ -1982,7 +1982,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-volume-quiet",
+        "name": "volume-quiet",
         "style": "fill",
         "Component": NiVolumeQuiet,
         "svgString": NiVolumeQuietSvg,
@@ -1995,7 +1995,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-zoom-in",
+        "name": "zoom-in",
         "style": "fill",
         "Component": NiZoomIn,
         "svgString": NiZoomInSvg,
@@ -2009,7 +2009,7 @@ export const iconSets = [
 `
       },
       {
-        "name": "-zoom-out",
+        "name": "zoom-out",
         "style": "fill",
         "Component": NiZoomOut,
         "svgString": NiZoomOutSvg,
