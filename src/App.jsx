@@ -45,7 +45,7 @@ function App() {
   const visibleSets = filteredIconSets.slice(0, visibleCount);
 
   return (
-    <div className="bg-slate-50 min-h-screen">
+    <div className="bg-slate-50 min-h-screen w-screen overflow-x-hidden">
       <Header />
       <Navbar
         searchQuery={searchQuery}

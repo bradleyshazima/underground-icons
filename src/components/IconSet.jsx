@@ -10,7 +10,7 @@ export const IconSet = ({ set }) => {
       <div className="max-w-7xl mx-auto px-4">
         {/* Section Header */}
         <div className="pb-8 border-b border-slate-200 mb-8">
-          <h2 className="text-2xl font-semibold text-slate-900">{set.name}</h2>
+          <div className="text-2xl font-semibold text-slate-900 flex items-center gap-2"><span>{set.name}</span> <span className='px-4 py-1 text-base font-medium bg-gray-300 rounded-xl'>{set.style}</span></div>
           <p className="text-slate-500 text-base">
             Created by{' '}
             <a href={set.socialLink} target="_blank" rel="noopener noreferrer" className="font-semibold text-[#767BFA] hover:underline">
